@@ -1,0 +1,12 @@
+.venv
+*.pyc
+__pycache__/
+.DS_Store
+wordlists/passwords/5-l.txt
+wordlists/passwords/6-xl.txt
+wordlists/passwords/7-xxl.txt
+wordlists/passwords/brutas-passwords-5-l.zip
+wordlists/passwords/brutas-passwords-6-xl.zip
+wordlists/passwords/brutas-passwords-7-xxl.zip
+wordlists/passwords/all.txt
+tmp/

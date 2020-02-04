@@ -1,0 +1,7673 @@
+25298,aic7xxx.reg
+13482,aic79xx.reg
+626,Makefile.reg
+298,settings3.reg
+298,settings1.reg
+298,settings2.reg
+282,coder_format.reg
+282,coder_format-uninstall.reg
+208,test_reg.reg
+173,Win9X-CacheHandling.reg
+173,Win95_PlainPassword.reg
+173,Win98_PlainPassword.reg
+173,Win2000_PlainPassword.reg
+173,NT4_PlainPassword.reg
+173,NT4-Locking.reg
+173,WindowsTerminalServer.reg
+161,WinME_PlainPassword.reg
+160,WinXP_PlainPassword.reg
+160,Win-2Kx-XPP-DeleteCachedProfiles.reg
+160,Win-NT-DeleteRoamingProfile.reg
+160,Win-2Kx-XPP-ForceLocalProfile.reg
+157,disable crash dialog.reg
+149,pear.php.net.reg
+149,__uri.reg
+147,pecl.php.net.reg
+140,index.reg
+139,source.reg
+118,MT6620sd.reg
+118,MT6620sp.reg
+114,doc.php.net.reg
+107,Win7_Samba3DomainMember.reg
+96,pear.symfony-project.com.reg
+93,example.reg
+89,ath_spi_sample.reg
+89,ath_spi_s3c6400.reg
+89,win_example.reg
+87,plugins.symfony-project.org.reg
+84,symfony.reg
+83,shim.reg
+81,solarized_dark.reg
+80,provision.reg
+77,solarized_light.reg
+67,make_qa_system.reg
+67,make_dev_system.reg
+67,beets.reg
+55,superputty_ssh.reg
+53,archive_tar.reg
+53,pear.reg
+53,console_getopt.reg
+51,EnableSkipVerification.reg
+51,DisableSkipVerification.reg
+48,xml_util.reg
+48,DisableSkipVerificationX86.reg
+48,EnableSkipVerificationX86.reg
+47,rss.reg
+44,structures_graph.reg
+42,DuiDesigner.reg
+39,registry.reg
+38,spexxilbcfix_xpro.reg
+38,spexxilbcfix_xlite.reg
+36,alertdrv.reg
+36,reg_file.reg
+36,slp.reg
+32,Tomorrow.reg
+32,sfdoctrineguardplugin.reg
+32,Tomorrow Night.reg
+31,obs.source_server.reg
+31,obs.repo_server.reg
+30,htmlhelp.reg
+29,testdrv.reg
+29,pws-php5isapi.reg
+29,pws-php5cgi.reg
+27,Default.reg
+26,log.reg
+26,minidriver-westcos.reg
+26,rss6.reg
+26,sfformextraplugin.reg
+25,PythonDeveloper.reg
+24,minidriver-sc-hsm.reg
+23,minidriver-feitian.reg
+23,net_socket.reg
+23,qos.reg
+23,mpileup.reg
+23,mail.reg
+22,xml_parser.reg
+22,register.reg
+22,date.reg
+22,net_smtp.reg
+22,xml_rpc.reg
+21,test.reg
+21,mdb2.reg
+21,net_url.reg
+20,Register.reg
+20,user.reg
+20,file1.reg
+20,file2.reg
+20,empty.reg
+20,db.reg
+20,mail_mime.reg
+20,file3.reg
+20,file4.reg
+20,config.reg
+19,unregister.reg
+19,sfthumbnailplugin.reg
+19,file.reg
+19,http_request.reg
+18,http.reg
+18,cache.reg
+18,multiply.reg
+18,subtract.reg
+18,phpunit.reg
+17,pager.reg
+17,sfguardplugin.reg
+17,x64dbg_shell_remove.reg
+17,mime_type.reg
+17,Unregister.reg
+17,html_common.reg
+16,console_table.reg
+16,FSDCDarkDefault.reg
+16,FSDCDarkCustom.reg
+16,auth_sasl.reg
+16,FSDCLightGrey.reg
+16,file_find.reg
+16,Tweak_Disable_Java_Auto-Update.reg
+16,FSDCLightRedBlue.reg
+16,cache_lite.reg
+16,ThreadEtw.reg
+16,db_dataobject.reg
+15,auth.reg
+15,text_diff.reg
+15,var_dump.reg
+14,LDView-EnglishUS.reg
+14,console_getargs.reg
+14,minidriver-italian-cns.reg
+14,phpdocumentor.reg
+14,benchmark.reg
+14,mail_mimedecode.reg
+14,image_color.reg
+14,LDView-DefaultLanguage.reg
+14,html_table.reg
+14,translation2.reg
+13,event_dispatcher.reg
+13,mp3_id.reg
+13,xml_fo2pdf.reg
+13,install.reg
+13,nmap_performance.reg
+13,http_header.reg
+13,math_basex.reg
+13,http_download.reg
+13,html_form.reg
+13,far7z.reg
+13,crypt_chap.reg
+13,console_commandline.reg
+13,php_compatinfo.reg
+13,xml_beautifier.reg
+12,numbers_roman.reg
+12,raze.reg
+12,math_finance.reg
+12,image_barcode.reg
+12,plaza_w.reg
+12,home27.reg
+12,home28.reg
+12,home23.reg
+12,plaza_ne.reg
+12,home24.reg
+12,plaza_e.reg
+12,php_compat.reg
+12,plaza_sw.reg
+12,system_folders.reg
+12,regit.reg
+12,xml_htmlsax3.reg
+12,home21.reg
+12,depth.reg
+12,console_color.reg
+12,net_dime.reg
+12,capture_flag_lobby_3.reg
+12,math_numerical_rootfinding.reg
+12,capture_flag_lobby.reg
+12,home25.reg
+12,plaza_s.reg
+12,home29.reg
+12,home20.reg
+12,capture_flag_lobby_2.reg
+12,plaza_n.reg
+12,plaza_fountain.reg
+12,general_store_interior.reg
+12,phpunit2.reg
+12,capture_flag_lobby_1.reg
+12,text_wiki.reg
+12,xml_rpc2.reg
+12,home26.reg
+12,plaza_nw.reg
+12,home22.reg
+12,services_akismet.reg
+12,plaza_se.reg
+11,ssl.reg
+11,AddDCMFileAssociation.reg
+11,clamav.reg
+11,pkcs11.reg
+11,proxyoff.reg
+11,proxyon.reg
+10,StepOver.reg
+10,wine-epsxe_accel-driv.reg
+10,wine-epsxe_axis.reg
+10,file_csv.reg
+10,default.reg
+10,file_util.reg
+10,wine-epsxe_accel-mov.reg
+9,win2000iisnodebug.reg
+9,sample.reg
+9,net_url2.reg
+9,http_request2.reg
+9,ipython_here_shell_extension.reg
+9,sfjqueryreloadedplugin.reg
+9,uninstall.reg
+9,Rubberduck.RegisterAddIn.reg
+9,VC_OBJECTS_PLATFORM_INFO.reg
+9,win2000iisdebug.reg
+9,RubberduckAddinRegistry.reg
+9,pear.phing.info.reg
+9,xml_serializer.reg
+9,syslog.reg
+8,vboxtxs.reg
+8,IO_917_front.reg
+8,Disk_Dr_927_front.reg
+8,Pokey_Pl_122_front.reg
+8,Warp_Dr_823_front.reg
+8,2003SP2-CentralProcessor.reg
+8,capture_flag.reg
+8,Pokey_Pl_422_front.reg
+8,Pam_Pl_214_front.reg
+8,Fast_Ln_224_front.reg
+8,Disk_Dr_s_end.reg
+8,bank00.reg
+8,Pam_Pl_cross.reg
+8,Road_St_932_front.reg
+8,Sunday_Dr_cross.reg
+8,Street_Rd_131_front.reg
+8,Kerner_416_front.reg
+8,Janice_Ln_225_front.reg
+8,Saint_St_119_front.reg
+8,Warp_Dr_523_front.reg
+8,Warp_Dr_cross.reg
+8,home05.reg
+8,region-ru-RU.reg
+8,beid_registry.reg
+8,Kerner_916_front.reg
+8,Lori_Ln_313_front.reg
+8,Rocky_Rd_515_front.reg
+8,Saint_St_619_front.reg
+8,Road_St_332_front.reg
+8,Street_Rd_1031_front.reg
+8,Kludge_Ct_618_front.reg
+8,Disk_Dr_n_end.reg
+8,xppro1-USB.reg
+8,Saint_St_w_end.reg
+8,home01.reg
+8,Hyper_Dr_cross.reg
+8,Disk_Dr_1027_front.reg
+8,Janice_Ln_125_front.reg
+8,Hyper_Dr_730_front.reg
+8,Kludge_Ct_818_front.reg
+8,EZ_St_s_end.reg
+8,t1_woods.reg
+8,Fast_Ln_824_front.reg
+8,Kludge_Ct_1018_front.reg
+8,Milky_Wy_428_front.reg
+8,Road_St_632_front.reg
+8,Street_Rd_s_end.reg
+8,Sunday_Dr_820_front.reg
+8,Pam_Pl_314_front.reg
+8,IO_717_front.reg
+8,home10.reg
+8,Outamy_Wy_n_end.reg
+8,Road_St_232_front.reg
+8,Rocky_Rd_915_front.reg
+8,Fast_Ln_724_front.reg
+8,meeting_hall.reg
+8,Pokey_Pl_522_front.reg
+8,Street_Rd_731_front.reg
+8,home07.reg
+8,Hyper_Dr_130_front.reg
+8,Hyper_Dr_530_front.reg
+8,region-en-US.reg
+8,2003-CentralProcessor.reg
+8,7-Network.reg
+8,Road_St_s_end.reg
+8,Outamy_Wy_929_front.reg
+8,Kludge_Ct_418_front.reg
+8,Warp_Dr_n_end.reg
+8,Disk_Dr_cross.reg
+8,Outamy_Wy_729_front.reg
+8,Sunday_Dr_w_end.reg
+8,Baker_St_821_front.reg
+8,Kerner_116_front.reg
+8,Janice_Ln_825_front.reg
+8,Saint_St_919_front.reg
+8,lh.sphere.reg
+8,7-USBPRINT.reg
+8,Pokey_Pl_622_front.reg
+8,Lori_Ln_w_end.reg
+8,Pam_Pl_514_front.reg
+8,Lori_Ln_513_front.reg
+8,EZ_St_n_end.reg
+8,home06.reg
+8,Warp_Dr_723_front.reg
+8,7bis-USBPRINT.reg
+8,xppro2-USB.reg
+8,EZ_St_926_front.reg
+8,Milky_Wy_cross.reg
+8,Baker_St_cross.reg
+8,Rocky_Rd_615_front.reg
+8,Lori_Ln_413_front.reg
+8,Sunday_Dr_320_front.reg
+8,Outamy_Wy_129_front.reg
+8,IO_w_end.reg
+8,Baker_St_w_end.reg
+8,region-de-DE.reg
+8,Milky_Wy_528_front.reg
+8,Saint_St_719_front.reg
+8,Janice_Ln_625_front.reg
+8,Kludge_Ct_318_front.reg
+8,Hyper_Dr_s_end.reg
+8,meeting_hall_interior.reg
+8,Fast_Ln_924_front.reg
+8,Sunday_Dr_220_front.reg
+8,Baker_St_921_front.reg
+8,Kerner_216_front.reg
+8,Janice_Ln_325_front.reg
+8,bottom_outliers.reg
+8,IO_217_front.reg
+8,Lori_Ln_913_front.reg
+8,meeting_hall_int.reg
+8,Hyper_Dr_1030_front.reg
+8,IO_317_front.reg
+8,Pam_Pl_414_front.reg
+8,Fast_Ln_1024_front.reg
+8,Lori_Ln_1013_front.reg
+8,Lori_Ln_813_front.reg
+8,Disk_Dr_327_front.reg
+8,pawnshop_interior.reg
+8,rh.sphere.reg
+8,Fast_Ln_624_front.reg
+8,Sunday_Dr_720_front.reg
+8,Janice_Ln_925_front.reg
+8,Disk_Dr_827_front.reg
+8,Kerner_1016_front.reg
+8,Rocky_Rd_cross.reg
+8,Warp_Dr_123_front.reg
+8,Sunday_Dr_420_front.reg
+8,Kerner_516_front.reg
+8,Fast_Ln_s_end.reg
+8,Sunday_Dr_520_front.reg
+8,Lori_Ln_613_front.reg
+8,Kerner_316_front.reg
+8,Outamy_Wy_s_end.reg
+8,Pam_Pl_614_front.reg
+8,Fast_Ln_124_front.reg
+8,Kerner_n_end.reg
+8,Saint_St_819_front.reg
+8,EZ_St_cross.reg
+8,IO_e_end.reg
+8,Street_Rd_cross.reg
+8,Saint_St_1019_front.reg
+8,7ter-USBPRINT.reg
+8,IO_817_front.reg
+8,EZ_St_426_front.reg
+8,Street_Rd_231_front.reg
+8,Sunday_Dr_620_front.reg
+8,Disk_Dr_727_front.reg
+8,Hyper_Dr_n_end.reg
+8,Road_St_1032_front.reg
+8,Outamy_Wy_629_front.reg
+8,Outamy_Wy_429_front.reg
+8,Disk_Dr_427_front.reg
+8,Near GPS Quality NTP Settings.reg
+8,Disk_Dr_527_front.reg
+8,Kerner_616_front.reg
+8,Kludge_Ct_218_front.reg
+8,Disk_Dr_127_front.reg
+8,Warp_Dr_223_front.reg
+8,EZ_St_726_front.reg
+8,Janice_Ln_n_end.reg
+8,home02.reg
+8,Baker_St_421_front.reg
+8,Street_Rd_n_end.reg
+8,newsstand00.reg
+8,Fast_Ln_424_front.reg
+8,Pam_Pl_914_front.reg
+8,IO_517_front.reg
+8,Baker_St_221_front.reg
+8,Janice_Ln_525_front.reg
+8,t2_woods.reg
+8,t0_woods.reg
+8,Street_Rd_531_front.reg
+8,home00.reg
+8,Rocky_Rd_815_front.reg
+8,Kerner_s_end.reg
+8,Pokey_Pl_322_front.reg
+8,Sunday_Dr_120_front.reg
+8,EZ_St_526_front.reg
+8,Saint_St_e_end.reg
+8,Lori_Ln_113_front.reg
+8,Disk_Dr_627_front.reg
+8,t3_woods.reg
+8,IO_617_front.reg
+8,Milky_Wy_1028_front.reg
+8,Janice_Ln_s_end.reg
+8,rlog.reg
+8,Baker_St_121_front.reg
+8,Road_St_432_front.reg
+8,Pokey_Pl_w_end.reg
+8,Kludge_Ct_s_end.reg
+8,Lori_Ln_713_front.reg
+8,7ter-USB.reg
+8,tlog.reg
+8,Pokey_Pl_1022_front.reg
+8,Kludge_Ct_518_front.reg
+8,Outamy_Wy_529_front.reg
+8,home08.reg
+8,Pokey_Pl_222_front.reg
+8,Road_St_n_end.reg
+8,Road_St_cross.reg
+8,Kludge_Ct_718_front.reg
+8,vboxtxs-nat.reg
+8,7-USB.reg
+8,Milky_Wy_s_end.reg
+8,IO_417_front.reg
+8,Pam_Pl_714_front.reg
+8,Road_St_732_front.reg
+8,Saint_St_319_front.reg
+8,IO_cross.reg
+8,Road_St_832_front.reg
+8,Hyper_Dr_230_front.reg
+8,Pam_Pl_1014_front.reg
+8,IO_1017_front.reg
+8,Sunday_Dr_e_end.reg
+8,Street_Rd_431_front.reg
+8,home03.reg
+8,Street_Rd_831_front.reg
+8,home04.reg
+8,Rocky_Rd_w_end.reg
+8,Milky_Wy_n_end.reg
+8,Rocky_Rd_115_front.reg
+8,Outamy_Wy_229_front.reg
+8,xppro2-USBPRINT.reg
+8,Milky_Wy_828_front.reg
+8,Outamy_Wy_1029_front.reg
+8,Outamy_Wy_829_front.reg
+8,Outamy_Wy_cross.reg
+8,Milky_Wy_728_front.reg
+8,Fast_Ln_cross.reg
+8,Baker_St_321_front.reg
+8,EZ_St_126_front.reg
+8,Baker_St_e_end.reg
+8,Lori_Ln_213_front.reg
+8,Fast_Ln_324_front.reg
+8,Warp_Dr_1023_front.reg
+8,Hyper_Dr_930_front.reg
+8,EZ_St_326_front.reg
+8,Janice_Ln_425_front.reg
+8,Pokey_Pl_922_front.reg
+8,7-CentralProcessor.reg
+8,Hyper_Dr_430_front.reg
+8,Road_St_132_front.reg
+8,Disk_Dr_227_front.reg
+8,Baker_St_521_front.reg
+8,Pokey_Pl_e_end.reg
+8,Milky_Wy_928_front.reg
+8,plaza_s_cross.reg
+8,Saint_St_219_front.reg
+8,Hyper_Dr_630_front.reg
+8,Rocky_Rd_e_end.reg
+8,Rocky_Rd_715_front.reg
+8,Pam_Pl_e_end.reg
+8,pear_packagefilemanager.reg
+8,Rocky_Rd_215_front.reg
+8,home09.reg
+8,Baker_St_1021_front.reg
+8,Janice_Ln_cross.reg
+8,Fast_Ln_524_front.reg
+8,Rocky_Rd_415_front.reg
+8,Street_Rd_631_front.reg
+8,Saint_St_419_front.reg
+8,Warp_Dr_323_front.reg
+8,Baker_St_721_front.reg
+8,Milky_Wy_228_front.reg
+8,Street_Rd_331_front.reg
+8,IO_117_front.reg
+8,Milky_Wy_628_front.reg
+8,Pokey_Pl_822_front.reg
+8,Sunday_Dr_920_front.reg
+8,Warp_Dr_423_front.reg
+8,calendar.reg
+8,bin.reg
+8,Milky_Wy_128_front.reg
+8,Kerner_716_front.reg
+8,Kerner_cross.reg
+8,Pokey_Pl_cross.reg
+8,Kludge_Ct_118_front.reg
+8,7bis-USB.reg
+8,top_outliers.reg
+8,Lori_Ln_e_end.reg
+8,Warp_Dr_s_end.reg
+8,store_furniture.reg
+8,Kludge_Ct_n_end.reg
+8,Saint_St_cross.reg
+8,Milky_Wy_328_front.reg
+8,super_trap_wall.reg
+8,Saint_St_519_front.reg
+8,xp-CentralProcessor.reg
+8,putty.reg
+8,Baker_St_621_front.reg
+8,Kludge_Ct_918_front.reg
+8,Fast_Ln_n_end.reg
+8,Warp_Dr_623_front.reg
+8,Pam_Pl_114_front.reg
+8,Janice_Ln_1025_front.reg
+8,EZ_St_626_front.reg
+8,Road_St_532_front.reg
+8,Pokey_Pl_722_front.reg
+8,region-nl-NL.reg
+8,xppro1-USBPRINT.reg
+8,Kludge_Ct_cross.reg
+8,Sunday_Dr_1020_front.reg
+8,EZ_St_226_front.reg
+8,Hyper_Dr_330_front.reg
+8,Rocky_Rd_315_front.reg
+8,Pam_Pl_w_end.reg
+8,Kerner_816_front.reg
+8,Lori_Ln_cross.reg
+8,Janice_Ln_725_front.reg
+8,Outamy_Wy_329_front.reg
+8,Pam_Pl_814_front.reg
+8,Street_Rd_931_front.reg
+8,EZ_St_826_front.reg
+8,EZ_St_1026_front.reg
+8,Rocky_Rd_1015_front.reg
+8,plaza_n_cross.reg
+8,Hyper_Dr_830_front.reg
+8,Warp_Dr_923_front.reg
+7,i61-cardinalities.als.reg
+7,i50_stop_following_references.als.reg
+7,paths.als.reg
+7,i49_parentReduce.als.reg
+7,WSPTransportAgent.reg
+7,i19.als.reg
+7,ScriptGates Home Page.reg
+7,i78_transitive-closure.als.reg
+7,clean.reg
+7,person_tutorial.als.reg
+7,nylas-mailto-default.reg
+7,i10.als.reg
+7,sftcpdfplugin.reg
+7,nylas-mailto-registration.reg
+7,i70.als.reg
+7,references-in-bound-identifiers.als.reg
+7,subtyping-primitive-types.als.reg
+7,negative.als.reg
+7,i23.als.reg
+7,d2gs.reg
+7,win.reg
+7,install_x86.reg
+7,test_neg_typesystem.als.reg
+7,DbgPlot_Installation.reg
+7,i57-navParent.als.reg
+7,IntFiltr.reg
+7,books_tutorial.als.reg
+7,i71.als.reg
+7,system.reg
+7,i40_integers_strings_assignment.als.reg
+7,telematics.als.reg
+7,regedit.reg
+7,sfguardextraplugin.reg
+7,i55.als.reg
+7,personRelatives.als.reg
+7,enforcingInverseReferences.als.reg
+7,ole.reg
+7,i72-shared-reference.als.reg
+7,i18.als.reg
+7,i49_resolve_ancestor.als.reg
+7,sfdoctrineactastaggableplugin.reg
+7,simpleConstraint.als.reg
+7,resolution.als.reg
+7,i17.als.reg
+7,install_x64.reg
+7,registry-nt.reg
+7,soap.reg
+7,i50.als.reg
+7,layout.als.reg
+7,ds9.reg
+7,i40-text-equality.als.reg
+7,i14.als.reg
+7,i98_top-level-references.als.reg
+6,CtrlO_View.reg
+6,polysamp.reg
+6,i121-comments.als.reg
+6,i131-incorrect-scope-diag.als.reg
+6,constraints.als.reg
+6,Environment.reg
+6,testbox11.reg
+6,i81.als.reg
+6,i131-incorrect-scope.als.reg
+6,html_template_it.reg
+6,i126-empty.als.reg
+6,testbox0.reg
+6,i228-this-and-parent-types.als.reg
+6,i101.als.reg
+6,testbox18.reg
+6,i227-implicit-this-in-IR.als.reg
+6,testbox4.reg
+6,Environment32.reg
+6,AltEnter_Props.reg
+6,testbox8.reg
+6,testbox23.reg
+6,i235.als.reg
+6,image.reg
+6,testbox5.reg
+6,testbox16.reg
+6,i89-references-should-be-unique.als.reg
+6,vnc.reg
+6,ShiftEnter.reg
+6,i122-CVL.als.reg
+6,GvimExt.reg
+6,testbox13.reg
+6,i188-sum-quantifier2.als.reg
+6,Thumbnails.reg
+6,testbox20.reg
+6,default-to-tls12-on-appveyor.reg
+6,CtrlAltD.reg
+6,testbox10.reg
+6,i226-unary-minus.als.reg
+6,FontSize.reg
+6,testbox17.reg
+6,testbox19.reg
+6,testbox22.reg
+6,testbox15.reg
+6,testbox3.reg
+6,i188-sum-quantifier.als.reg
+6,win_codepage.reg
+6,testbox7.reg
+6,i74.als.reg
+6,InstallTakeOwnership.reg
+6,i147-ref-disambiguation.als.reg
+6,i199-afm-check.als.reg
+6,FAR_AutoAttach.reg
+6,TundraExtHandler.reg
+6,TundraExtHandlerDebug.reg
+6,Thumbnails_KeyBar.reg
+6,testbox12.reg
+6,testbox21.reg
+6,i150-or-groups.als.reg
+6,sfwebbrowserplugin.reg
+6,CtrlShiftT.reg
+6,tspec_wavelength_labels.reg
+6,alljoyn.reg
+6,ext.reg
+6,alljoyn64.reg
+6,i205-ref-disambiguation-II.als.reg
+6,i137_parsing.als.reg
+6,i83-individual-scope.als.reg
+6,Envy Code R Command Prompt.reg
+6,AltEnter_Exec.reg
+6,testbox6.reg
+6,CtrlO.reg
+6,AsdkSquareLib.reg
+6,testbox14.reg
+6,testbox1.reg
+6,testbox9.reg
+6,testbox24.reg
+6,testbox2.reg
+5,255-pixel.reg
+5,no_overlap_fk5.reg
+5,app.reg
+5,WorldEditor.reg
+5,1.reg
+5,Progress_ZeMA.reg
+5,fk5.reg
+5,testReg.reg
+5,solarized-light.reg
+5,Reset Preferences.reg
+5,ConEmu.reg
+5,validate.reg
+5,bloom link.reg
+5,lh.sphere.SD.reg
+5,vmdir-client.reg
+5,sfadminthemejrollerplugin.reg
+5,mdb.reg
+5,settings.reg
+5,debug-unregister.reg
+5,ie_protectedmode.reg
+5,ie11_win32.reg
+5,Smiley - COM.reg
+5,fk5_twoboxes.reg
+5,mm3d.reg
+5,pear_frontend_web.reg
+5,Progress_FarCopy.reg
+5,255-fk5.reg
+5,enable-meltdown-spectre-update.reg
+5,ie_disablecache.reg
+5,solarized-dark.reg
+5,MyProduct.reg
+5,Progress_Wesha.reg
+5,undo.reg
+5,fog.man.reg
+5,partial_overlap_fk5.reg
+5,i18nv2.reg
+5,PowerShellCommands.reg
+5,debug-register.reg
+5,test02.reg
+5,fog.auto.reg
+5,AddinReg.reg
+5,grass.reg
+5,Progress_JM.reg
+5,oc-disable-encryption.reg
+5,partial_overlap_image.reg
+5,no_overlap_image.reg
+4,WinMerge.reg
+4,test01.reg
+4,webdav.reg
+4,target_fields_8x8.reg
+4,AliasSymbolBrowser.reg
+4,back4t_73.reg
+4,fyard08.reg
+4,fyard02.reg
+4,back4t_62.reg
+4,costellos_interior.reg
+4,beach_1e.reg
+4,Milky_Wy_328_interior.reg
+4,Woods_co.reg
+4,Aric_Ave_54_front.reg
+4,Wrong_Wy_16_interior.reg
+4,Street_Rd_731_interior.reg
+4,Randy_Rd_43_front.reg
+4,clothes_store_front.reg
+4,Fast_Ln_124_interior.reg
+4,Hyper_Dr_630_interior.reg
+4,machutas.reg
+4,dnalsi_85.reg
+4,Mince_St_22_front.reg
+4,dnalsi_cave2_1d.reg
+4,back4t_35.reg
+4,square.reg
+4,xi_woods.reg
+4,Aric_Ave_74_front.reg
+4,Disk_Dr_627_interior.reg
+4,Woods_er.reg
+4,Lori_Ln_813_interior.reg
+4,Randy_Rd_13_interior.reg
+4,quizshows_interior.reg
+4,Kerner_216_interior.reg
+4,cw_wrong.reg
+4,beach_1b.reg
+4,knick_knacks.reg
+4,Cascading Browser Menu.reg
+4,office_2010_2.reg
+4,ko_KR.reg
+4,Wacka_Rd_49_interior.reg
+4,dnalsi_73.reg
+4,victory_region.reg
+4,Woods_bp.reg
+4,Rodeo_Dr_cross.reg
+4,back4t_44.reg
+4,Woods_6e.reg
+4,Bleem_St_88_front.reg
+4,beach_0a.reg
+4,kellys_bar.reg
+4,Milky_Wy_128_interior.reg
+4,Randy_Rd_103_front.reg
+4,back4t_56.reg
+4,Woods_3f.reg
+4,back4t_53.reg
+4,dnalsi_58.reg
+4,forest03.reg
+4,Saint_St_519_interior.reg
+4,dnalsi_65.reg
+4,dnalsi_3b.reg
+4,Wacka_Rd_29_front.reg
+4,Woods_5q.reg
+4,square07.reg
+4,dnalsi_cave1_1a.reg
+4,beach_0e.reg
+4,Bleem_St_68_interior.reg
+4,Bleem_St_38_interior.reg
+4,Kludge_Ct_918_interior.reg
+4,base16-atelierforest.reg
+4,no-txt.reg
+4,sfimagetransformplugin.reg
+4,7_firewall-DNSRegisteredAdapters.reg
+4,sfcontrolpanelplugin.reg
+4,zh_TW.reg
+4,Bleem_St_68_front.reg
+4,Dice_Ave_21_front.reg
+4,Hyper_Dr_430_interior.reg
+4,Foon_Ave_67_interior.reg
+4,Baker_St_421_interior.reg
+4,Aric_Ave_24_front.reg
+4,Wazoo_St_1012_front.reg
+4,hall_of_rec00.reg
+4,Kludge_Ct_218_interior.reg
+4,Spiff_Ln_111_interior.reg
+4,Desert_3d.reg
+4,ti_spiff.reg
+4,Woods_4h.reg
+4,dnalsi_6c.reg
+4,Aric_Ave_44_interior.reg
+4,Rocky_Rd_1015_interior.reg
+4,Woods_2j.reg
+4,Wazoo_St_512_interior.reg
+4,back4t_05.reg
+4,Bleem_St_cross.reg
+4,Warp_Dr_723_interior.reg
+4,Desert_1c.reg
+4,dnalsi_47.reg
+4,Lori_Ln_213_interior.reg
+4,dnalsi_78.reg
+4,beach_2b.reg
+4,store_general_int.reg
+4,Street_Rd_631_interior.reg
+4,Baker_St_821_interior.reg
+4,Kings_Rd_310_front.reg
+4,Dice_Ave_61_front.reg
+4,he_IL.reg
+4,Rocky_Rd_215_interior.reg
+4,Dice_Ave_41_interior.reg
+4,beach_0f.reg
+4,square01.reg
+4,Woods_4t.reg
+4,Mince_St_cross.reg
+4,sandys.reg
+4,cw_bleem.reg
+4,Wacka_Rd_89_interior.reg
+4,Randy_Rd_53_interior.reg
+4,Desert_1f.reg
+4,Wacka_Rd_59_front.reg
+4,dnalsi_1c.reg
+4,dnalsi_64.reg
+4,Desert_2d.reg
+4,Bleem_St_18_interior.reg
+4,Woods_1k.reg
+4,bar_interior.reg
+4,Sunday_Dr_620_interior.reg
+4,Kerner_916_interior.reg
+4,Outamy_Wy_129_interior.reg
+4,Wrong_Wy_106_interior.reg
+4,Sunday_Dr_820_interior.reg
+4,mfc1.reg
+4,error.reg
+4,serverlist_generic.reg
+4,psqlodbc.reg
+4,fia-audit-test.reg
+4,Street_Rd_231_interior.reg
+4,dnalsi_cave1_0a.reg
+4,stock_market.reg
+4,Woods_cm.reg
+4,Desert_2b.reg
+4,This_Way_65_front.reg
+4,Foon_Ave_construction.reg
+4,Woods_cr.reg
+4,ti_dice.reg
+4,Woods_5w.reg
+4,Kings_Rd_1010_interior.reg
+4,Lori_Ln_713_interior.reg
+4,Mince_St_s_end.reg
+4,Baker_St_921_interior.reg
+4,Outamy_Wy_829_interior.reg
+4,Pokey_Pl_422_interior.reg
+4,auditorium_b.reg
+4,Alley_06.reg
+4,IO_717_interior.reg
+4,broadway_bank.reg
+4,back4t_04.reg
+4,Woods_7c.reg
+4,Woods_4l.reg
+4,Woods_6d.reg
+4,Bleem_St_78_interior.reg
+4,Wazoo_St_212_front.reg
+4,back4t_12.reg
+4,xi_aric.reg
+4,dnalsi_2c.reg
+4,reg.reg
+4,userdef.reg
+4,Test_Misc.reg
+4,Serpens_GAS_box.reg
+4,Woods_5l.reg
+4,Janice_Ln_825_interior.reg
+4,back4t_33.reg
+4,Wrong_Wy_86_front.reg
+4,Woods_fr.reg
+4,Randy_Rd_103_interior.reg
+4,kellys_bar_backroom.reg
+4,back4t_75.reg
+4,Woods_7r.reg
+4,Woods_2f.reg
+4,back4t_13.reg
+4,Woods_8h.reg
+4,Woods_7b.reg
+4,Milky_Wy_628_interior.reg
+4,Spiff_Ln_cross.reg
+4,dnalsi_7a.reg
+4,Sunday_Dr_420_interior.reg
+4,10-DNSRegisteredAdapters.reg
+4,Kerner_1016_interior.reg
+4,Outamy_Wy_729_interior.reg
+4,dnalsi_cave2_0c.reg
+4,dnalsi_94.reg
+4,Mince_St_62_front.reg
+4,Wacka_Rd_39_front.reg
+4,Milky_Wy_428_interior.reg
+4,Wazoo_St_112_front.reg
+4,Home01.reg
+4,store_cloths_int.reg
+4,Wazoo_St_212_interior.reg
+4,for_rent_w.reg
+4,Mince_St_n_end.reg
+4,Saint_St_719_interior.reg
+4,Desert_5e.reg
+4,Woods_6q.reg
+4,Pokey_Pl_822_interior.reg
+4,Dice_Ave_71_interior.reg
+4,meeting_hall_front.reg
+4,quizshows.reg
+4,Wrong_Wy_96_front.reg
+4,Wrong_Wy_e_end.reg
+4,fail_region.reg
+4,Woods_5u.reg
+4,dnalsi_68.reg
+4,Mince_St_32_front.reg
+4,Mince_St_92_front.reg
+4,library_yellow.reg
+4,Pokey_Pl_122_interior.reg
+4,Rocky_Rd_915_interior.reg
+4,head_store_front.reg
+4,dnalsi_49.reg
+4,Foon_Ave_47_interior.reg
+4,Spiff_Ln_311_front.reg
+4,net_useragent_detect.reg
+4,Rocky_Rd_515_interior.reg
+4,Warp_Dr_323_interior.reg
+4,Woods_3i.reg
+4,forest00.reg
+4,store_cloths.reg
+4,beach_1f.reg
+4,Foon_Ave_77_front.reg
+4,Hyper_Dr_130_interior.reg
+4,Woods_5f.reg
+4,sandys_interior.reg
+4,Disk_Dr_727_interior.reg
+4,ce_this.reg
+4,beach_2e.reg
+4,arcade_interior.reg
+4,bobs_bank.reg
+4,Woods_7h.reg
+4,dnalsi_cave3_2a.reg
+4,Aric_Ave_74_interior.reg
+4,Dice_Ave_s_end.reg
+4,EZ_St_1026_interior.reg
+4,Woods_Rd_construction_s.reg
+4,Woods_7p.reg
+4,Wacka_Rd_79_interior.reg
+4,Road_St_332_interior.reg
+4,checker_board.reg
+4,Bleem_St_98_interior.reg
+4,Lori_Ln_613_interior.reg
+4,dnalsi_83.reg
+4,TeredoPrefix.reg
+4,el_GR.reg
+4,Wrong_Wy_96_interior.reg
+4,Aric_Ave_104_interior.reg
+4,Kings_Rd_510_interior.reg
+4,beach_2a.reg
+4,dnalsi_6b.reg
+4,Desert_4e.reg
+4,Aric_Ave_64_interior.reg
+4,Pam_Pl_714_interior.reg
+4,dnalsi_cave2_1e.reg
+4,Woods_dr.reg
+4,Outamy_Wy_229_interior.reg
+4,Aric_Ave_94_interior.reg
+4,dnalsi_79.reg
+4,auditorium_a.reg
+4,Alley_02.reg
+4,beach_0b.reg
+4,Wazoo_St_412_front.reg
+4,EZ_St_726_interior.reg
+4,Bleem_St_s_end.reg
+4,Foon_Ave_37_front.reg
+4,Aric_Ave_54_interior.reg
+4,chess_board.reg
+4,Woods_7l.reg
+4,Randy_Rd_13_front.reg
+4,Baker_St_721_interior.reg
+4,This_Way_75_interior.reg
+4,This_Way_95_interior.reg
+4,back4t_32.reg
+4,Woods_2k.reg
+4,Warp_Dr_423_interior.reg
+4,dnalsi_84.reg
+4,Saint_St_219_interior.reg
+4,Kerner_816_interior.reg
+4,library_purple.reg
+4,no-mx.reg
+4,dnalsi_6a.reg
+4,new_you_backroom.reg
+4,Fast_Ln_624_interior.reg
+4,Aric_Ave_14_interior.reg
+4,for_rent_a_interior.reg
+4,This_Way_105_interior.reg
+4,Mince_St_52_front.reg
+4,dnalsi_5a.reg
+4,newyou00_backroom.reg
+4,beach_0d.reg
+4,Janice_Ln_725_interior.reg
+4,Desert_5f.reg
+4,dnalsi_2a.reg
+4,Wrong_Wy_76_front.reg
+4,Woods_4u.reg
+4,IO_117_interior.reg
+4,Bleem_St_n_end.reg
+4,cw_dice.reg
+4,dnalsi_7b.reg
+4,dnalsi_82.reg
+4,Milky_Wy_228_interior.reg
+4,Dice_Ave_51_interior.reg
+4,Wrong_Wy_66_interior.reg
+4,Dice_Ave_cross.reg
+4,dnalsi_cave2_2e.reg
+4,Saint_St_419_interior.reg
+4,Warp_Dr_123_interior.reg
+4,cw_kings.reg
+4,forest02.reg
+4,broadway_cross.reg
+4,ce_mince.reg
+4,Rocky_Rd_815_interior.reg
+4,Mince_St_92_interior.reg
+4,dnalsi_21.reg
+4,Road_St_432_interior.reg
+4,base16-atelierestuary.reg
+4,base16-atelierlakeside.reg
+4,Test_Indication.reg
+4,Test_Method.reg
+4,dnalsi_38.reg
+4,ce_spiff.reg
+4,Alley_07.reg
+4,Aric_Ave_84_front.reg
+4,Over_Ave_cross.reg
+4,dnalsi_cave2_1a.reg
+4,ce_dice.reg
+4,Spiff_Ln_611_front.reg
+4,Spiff_Ln_711_interior.reg
+4,Wazoo_St_312_interior.reg
+4,dnalsi_31.reg
+4,dnalsi_cave2_2b.reg
+4,Outamy_Wy_629_interior.reg
+4,dnalsi_4b.reg
+4,gammon_board.reg
+4,dnalsi_04.reg
+4,general_store_front.reg
+4,This_Way_45_front.reg
+4,gameshows.reg
+4,Sunday_Dr_120_interior.reg
+4,back4t_03.reg
+4,Disk_Dr_1027_interior.reg
+4,for_rent_h.reg
+4,square04.reg
+4,Desert_3e.reg
+4,Desert_5a_vendo.reg
+4,Woods_7t.reg
+4,Fast_Ln_524_interior.reg
+4,dnalsi_59.reg
+4,This_Way_w_end.reg
+4,Pokey_Pl_622_interior.reg
+4,no-a.reg
+4,nativebrowsers.reg
+4,HKLM_java_prefs.reg
+4,10-FirewallPolicy.reg
+4,dnalsi_cave2_1c.reg
+4,Woods_3c.reg
+4,Foon_Ave_77_interior.reg
+4,Kings_Rd_810_front.reg
+4,Cross_Rd_cross.reg
+4,Woods_0i.reg
+4,knick_knacks_interior.reg
+4,Kludge_Ct_118_interior.reg
+4,fyard09.reg
+4,Woods_6b.reg
+4,Desert_1e.reg
+4,Randy_Rd_83_interior.reg
+4,Desert_5a.reg
+4,fyard00.reg
+4,Foon_Ave_107_interior.reg
+4,forest_floor.reg
+4,Outamy_Wy_529_interior.reg
+4,ce_bleem.reg
+4,cw_this.reg
+4,dnalsi_cave2_0d.reg
+4,Foon_Ave_47_front.reg
+4,ce_aric.reg
+4,Woods_9q.reg
+4,Kings_Rd_1010_front.reg
+4,Woods_5n.reg
+4,Lori_Ln_313_interior.reg
+4,Baker_St_321_interior.reg
+4,fyard07.reg
+4,Wacka_Rd_19_interior.reg
+4,Kings_Rd_910_front.reg
+4,dnalsi_03.reg
+4,niuniucapture_npapi.reg
+4,dnalsi_11.reg
+4,Disk_Dr_127_interior.reg
+4,Woods_es.reg
+4,beach_1a.reg
+4,Kings_Rd_310_interior.reg
+4,new_you00.reg
+4,dnalsi_48.reg
+4,fyard05.reg
+4,back4t_45.reg
+4,.reg
+4,Woods_Rd_cross.reg
+4,Woods_6i.reg
+4,Woods_4g.reg
+4,Bleem_St_78_front.reg
+4,back4t_02.reg
+4,This_Way_cross.reg
+4,Mince_St_72_interior.reg
+4,back4t_63.reg
+4,sandys_a.reg
+4,Woods_7q.reg
+4,Pam_Pl_1014_interior.reg
+4,Woods_6v.reg
+4,pawnshop00_int.reg
+4,Milky_Wy_528_interior.reg
+4,Wazoo_St_112_interior.reg
+4,base16-ateliersavanna.reg
+4,TestAssociationProvider.reg
+4,Take Ownership with icon.reg
+4,Tweak_Disable_Chrome_Auto-Update.reg
+4,back4t_25.reg
+4,Woods_gr.reg
+4,Randy_Rd_73_interior.reg
+4,square03.reg
+4,dollyard0.reg
+4,Woods_8r.reg
+4,Sunday_Dr_1020_interior.reg
+4,library.reg
+4,Foon_Ave_17_interior.reg
+4,Foon_Ave_cross.reg
+4,Aric_Ave_24_interior.reg
+4,Woods_bs.reg
+4,Woods_5h.reg
+4,Wacka_Rd_99_front.reg
+4,Desert_4a.reg
+4,Woods_Rd_construction_n.reg
+4,IO_517_interior.reg
+4,Road_St_732_interior.reg
+4,newstand_front.reg
+4,Desert_3c.reg
+4,Pokey_Pl_1022_interior.reg
+4,Saint_St_119_interior.reg
+4,Woods_5k.reg
+4,Foon_Ave_57_front.reg
+4,Woods_6g.reg
+4,Woods_0k.reg
+4,Disk_Dr_327_interior.reg
+4,base16-atelierdune.reg
+4,base16-ateliercave.reg
+4,office_2016_02.reg
+4,10-StandAlone-LogonUI.reg
+4,ja_JP.reg
+4,Woods_5c.reg
+4,back4t_21.reg
+4,Dice_Ave_81_front.reg
+4,EZ_St_626_interior.reg
+4,dnalsi_cave2_1b.reg
+4,Foon_Ave_67_front.reg
+4,Woods_dt.reg
+4,Wazoo_St_712_interior.reg
+4,for_rent_a.reg
+4,Woods_3j.reg
+4,fyard06.reg
+4,Rocky_Rd_615_interior.reg
+4,This_Way_65_interior.reg
+4,bar00_int.reg
+4,Woods_5r.reg
+4,Randy_Rd_cross.reg
+4,Woods_6p.reg
+4,Fast_Ln_224_interior.reg
+4,ce_randy.reg
+4,dnalsi_12.reg
+4,Spiff_Ln_311_interior.reg
+4,Woods_6a.reg
+4,Pokey_Pl_322_interior.reg
+4,Saint_St_619_interior.reg
+4,Dice_Ave_31_front.reg
+4,Bleem_St_58_interior.reg
+4,Woods_5t.reg
+4,beach_2d.reg
+4,Hyper_Dr_930_interior.reg
+4,TightVNC settings.reg
+4,dnalsi_cave3_1a.reg
+4,Dice_Ave_101_interior.reg
+4,cw_spiff.reg
+4,Mince_St_72_front.reg
+4,back4t_43.reg
+4,emporium.reg
+4,EZ_St_326_interior.reg
+4,dnalsi_18.reg
+4,Aric_Ave_e_end.reg
+4,IO_1017_interior.reg
+4,Mince_St_82_front.reg
+4,arcade_front.reg
+4,capt1.reg
+4,Aric_Ave_34_front.reg
+4,Foon_Ave_97_front.reg
+4,Kludge_Ct_618_interior.reg
+4,records_hall_front.reg
+4,geeks_rule.reg
+4,Kerner_416_interior.reg
+4,Milky_Wy_928_interior.reg
+4,beach_0c.reg
+4,UIDesigner.reg
+4,frameserver64.reg
+4,WinXP_SignOrSeal.reg
+4,mssql_engine-Uninstall.reg
+4,7_firewall-FirewallPolicy.reg
+4,7_firewall-NetworkList.reg
+4,Graph.reg
+4,Woods_6h.reg
+4,Woods_fq.reg
+4,Wacka_Rd_79_front.reg
+4,Woods_7d.reg
+4,Randy_Rd_93_interior.reg
+4,Mince_St_102_front.reg
+4,fyard03.reg
+4,new_you_00_int.reg
+4,Warp_Dr_223_interior.reg
+4,Mince_St_12_interior.reg
+4,Woods_cp.reg
+4,Woods_ds.reg
+4,general_store.reg
+4,Woods_5s.reg
+4,xi_bleem.reg
+4,Disk_Dr_227_interior.reg
+4,Woods_5b.reg
+4,Woods_6k.reg
+4,Lori_Ln_1013_interior.reg
+4,Road_St_832_interior.reg
+4,Kerner_316_interior.reg
+4,arcade.reg
+4,Wrong_Wy_cross.reg
+4,Woods_5g.reg
+4,Woods_6x.reg
+4,xi_kings.reg
+4,back4t_30.reg
+4,Bleem_St_48_front.reg
+4,Woods_dq.reg
+4,Woods_8q.reg
+4,Street_Rd_331_interior.reg
+4,auditorium_lobby.reg
+4,dnalsi_0a.reg
+4,Alley_08.reg
+4,no-aaaa.reg
+4,Oph_GAS_box.reg
+4,mssql-SQL.reg
+4,mssql_engine-SQL.reg
+4,mssql-Setup.reg
+4,docnaet.reg
+4,APD-com5.reg
+4,regTemplate.reg
+4,hamlets.reg
+4,Pokey_Pl_222_interior.reg
+4,Kings_Rd_410_front.reg
+4,Wrong_Wy_26_front.reg
+4,dnalsi_62.reg
+4,Alley_01.reg
+4,bar_front.reg
+4,Outamy_Wy_929_interior.reg
+4,Dice_Ave_91_interior.reg
+4,Kings_Rd_610_interior.reg
+4,library_green.reg
+4,Wacka_Rd_99_interior.reg
+4,Wacka_Rd_49_front.reg
+4,back4t_23.reg
+4,hamlets_interior.reg
+4,bank_front.reg
+4,dnalsi_25.reg
+4,dnalsi_1b.reg
+4,Randy_Rd_e_end.reg
+4,back4t_74.reg
+4,Randy_Rd_63_front.reg
+4,dnalsi_2d.reg
+4,Hyper_Dr_230_interior.reg
+4,beach_1d.reg
+4,Hyper_Dr_330_interior.reg
+4,Woods_as.reg
+4,Kludge_Ct_318_interior.reg
+4,xi_over.reg
+4,Foon_Ave_107_front.reg
+4,Street_Rd_431_interior.reg
+4,Woods_7s.reg
+4,xp-uninstall.reg
+4,webdav_mso.reg
+4,dnalsi_cave3_2b.reg
+4,Road_St_932_interior.reg
+4,This_Way_35_front.reg
+4,Kings_Rd_e_end.reg
+4,Woods_4j.reg
+4,Woods_6s.reg
+4,dnalsi_75.reg
+4,Warp_Dr_823_interior.reg
+4,forest01.reg
+4,Wazoo_St_412_interior.reg
+4,new_you.reg
+4,Woods_7m.reg
+4,IO_417_interior.reg
+4,Street_Rd_531_interior.reg
+4,Woods_6c.reg
+4,new_you00_int.reg
+4,Baker_St_121_interior.reg
+4,dnalsi_test.reg
+4,Dice_Ave_101_front.reg
+4,Bleem_St_28_interior.reg
+4,Foon_Ave_s_end.reg
+4,Dice_Ave_41_front.reg
+4,Road_St_532_interior.reg
+4,Woods_7u.reg
+4,Spiff_Ln_1011_interior.reg
+4,Mince_St_22_interior.reg
+4,dnalsi_50.reg
+4,Woods_5o.reg
+4,Warp_Dr_923_interior.reg
+4,Wacka_Rd_89_front.reg
+4,xi_main.reg
+4,Wazoo_St_912_interior.reg
+4,back4t_01.reg
+4,dnalsi_60.reg
+4,capt3.reg
+4,Desert_4d.reg
+4,base16-atelierseaside.reg
+4,base16-atelierplateau.reg
+4,7-AD-LogonUI.reg
+4,dnalsi_72.reg
+4,Pam_Pl_214_interior.reg
+4,Fast_Ln_324_interior.reg
+4,IO_617_interior.reg
+4,Woods_6r.reg
+4,leftys.reg
+4,ce_wacka.reg
+4,back4t_72.reg
+4,Alley_04.reg
+4,Saint_St_819_interior.reg
+4,Kings_Rd_110_front.reg
+4,back4t_61.reg
+4,Bleem_St_98_front.reg
+4,Desert_4f.reg
+4,Outamy_Wy_1029_interior.reg
+4,Woods_3d.reg
+4,xi_wrong.reg
+4,dnalsi_cave3_2c.reg
+4,Kings_Rd_910_interior.reg
+4,Foon_Ave_27_front.reg
+4,back4t_65.reg
+4,back4t_54.reg
+4,Sunday_Dr_520_interior.reg
+4,EZ_St_826_interior.reg
+4,Foon_Ave_57_interior.reg
+4,Wazoo_St_812_front.reg
+4,Randy_Rd_63_interior.reg
+4,Woods_7o.reg
+4,Woods_3k.reg
+4,Kings_Rd_210_interior.reg
+4,gameshow.reg
+4,add.reg
+4,Reset Tnt Palette.reg
+4,html_page.reg
+4,Warp_Dr_623_interior.reg
+4,Randy_Rd_33_interior.reg
+4,Foon_Ave_27_interior.reg
+4,Kerner_716_interior.reg
+4,Dice_Ave_61_interior.reg
+4,machutas_interior.reg
+4,EZ_St_126_interior.reg
+4,back4t_51.reg
+4,Wrong_Wy_56_interior.reg
+4,Skid_Row_cross.reg
+4,Pokey_Pl_922_interior.reg
+4,Spiff_Ln_811_front.reg
+4,Woods_6u.reg
+4,Wacka_Rd_69_front.reg
+4,Woods_4m.reg
+4,beach_2f.reg
+4,Randy_Rd_33_front.reg
+4,leftys_interior.reg
+4,Dice_Ave_31_interior.reg
+4,dnalsi_30.reg
+4,Foon_Ave_17_front.reg
+4,Kludge_Ct_718_interior.reg
+4,Dice_Ave_11_interior.reg
+4,Spiff_Ln_911_front.reg
+4,This_Way_15_interior.reg
+4,Aric_Ave_84_interior.reg
+4,dnalsi_1a.reg
+4,Spiff_Ln_211_front.reg
+4,Bleem_St_28_front.reg
+4,back4t_15.reg
+4,store_general.reg
+4,Janice_Ln_625_interior.reg
+4,Mince_St_102_interior.reg
+4,Lori_Ln_913_interior.reg
+4,back4t_14.reg
+4,Foon_Ave_97_interior.reg
+4,Woods_5m.reg
+4,dnalsi_cave2_3a.reg
+4,Woods_6l.reg
+4,Hyper_Dr_730_interior.reg
+4,This_Way_25_interior.reg
+4,IO_317_interior.reg
+4,Woods_5e.reg
+4,hall_of_records_interior.reg
+4,Randy_Rd_43_interior.reg
+4,Janice_Ln_525_interior.reg
+4,Fast_Ln_824_interior.reg
+4,Janice_Ln_225_interior.reg
+4,Pam_Pl_414_interior.reg
+4,EZ_St_426_interior.reg
+4,Wazoo_St_cross.reg
+4,Randy_Rd_23_front.reg
+4,EZ_St_226_interior.reg
+4,ce_foon.reg
+4,kellys_bar_interior.reg
+4,Woods_7e.reg
+4,Dice_Ave_71_front.reg
+4,dnalsi_cave2_2d.reg
+4,dnalsi_cave2_2a.reg
+4,Woods_4i.reg
+4,fountain00.reg
+4,dnalsi_66.reg
+4,sandys_b.reg
+4,Maine_St_cross.reg
+4,IO_917_interior.reg
+4,Wazoo_St_812_interior.reg
+4,Kings_Rd_610_front.reg
+4,Spiff_Ln_611_interior.reg
+4,Woods_7v.reg
+4,square02.reg
+4,dnalsi_36.reg
+4,Woods_ap.reg
+4,hy.reg
+4,system_command.reg
+4,tomcat_redirector.reg
+4,zh_CN.reg
+4,dnalsi_28.reg
+4,Spiff_Ln_e_end.reg
+4,Warp_Dr_e_end.reg
+4,Spiff_Ln_111_front.reg
+4,Dice_Ave_21_interior.reg
+4,Fast_Ln_1024_interior.reg
+4,Desert_3a.reg
+4,Spiff_Ln_411_interior.reg
+4,Mince_St_62_interior.reg
+4,Woods_gs.reg
+4,Milky_Wy_1028_interior.reg
+4,Wrong_Wy_66_front.reg
+4,dnalsi_cave1_1b.reg
+4,Woods_5p.reg
+4,Lori_Ln_413_interior.reg
+4,Disk_Dr_527_interior.reg
+4,floor.reg
+4,ce_kings.reg
+4,Woods_fs.reg
+4,dnalsi_61.reg
+4,dnalsi_40.reg
+4,Woods_7w.reg
+4,Warp_Dr_w_end.reg
+4,Randy_Rd_53_front.reg
+4,Dice_Ave_11_front.reg
+4,Rocky_Rd_715_interior.reg
+4,Woods_8s.reg
+4,Saint_St_919_interior.reg
+4,Wazoo_St_1012_interior.reg
+4,back4t_64.reg
+4,Woods_9r.reg
+4,This_Way_45_interior.reg
+4,Desert_4c.reg
+4,Wacka_Rd_cross.reg
+4,Wrong_Wy_w_end.reg
+4,Kludge_Ct_1018_interior.reg
+4,Woods_6f.reg
+4,dnalsi_cave1_0b.reg
+4,TeredoClient.reg
+4,mssql_engine-Setup.reg
+4,ru_RU.reg
+4,back4t_34.reg
+4,Spiff_Ln_411_front.reg
+4,Wacka_Rd_109_front.reg
+4,Desert_1b.reg
+4,xi_cross.reg
+4,xi_mince.reg
+4,Randy_Rd_73_front.reg
+4,Alley_00.reg
+4,Kings_Rd_cross.reg
+4,Kings_Rd_110_interior.reg
+4,Pam_Pl_614_interior.reg
+4,fine_furniture.reg
+4,square05.reg
+4,dnalsi_02.reg
+4,Outamy_Wy_329_interior.reg
+4,Woods_0j.reg
+4,dnalsi_67.reg
+4,Mince_St_32_interior.reg
+4,Wacka_Rd_29_interior.reg
+4,Kerner_516_interior.reg
+4,Rocky_Rd_415_interior.reg
+4,Foon_Ave_87_front.reg
+4,cw_wacka.reg
+4,Desert_2a.reg
+4,Wrong_Wy_36_front.reg
+4,dnalsi_2b.reg
+4,Disk_Dr_927_interior.reg
+4,sqlitebrowser.reg
+4,Test_Query.reg
+4,Taurus_GAS_box.reg
+4,mssql-Uninstall.reg
+4,math_integer.reg
+4,dnalsi_39.reg
+4,back4t_52.reg
+4,body_paints_interior.reg
+4,Wazoo_St_w_end.reg
+4,Spiff_Ln_w_end.reg
+4,dnalsi_19.reg
+4,Spiff_Ln_711_front.reg
+4,Road_St_632_interior.reg
+4,Woods_br.reg
+4,Wacka_Rd_w_end.reg
+4,Aric_Ave_34_interior.reg
+4,Woods_2ftest.reg
+4,Randy_Rd_83_front.reg
+4,Spiff_Ln_511_interior.reg
+4,Lori_Ln_113_interior.reg
+4,Wrong_Wy_46_front.reg
+4,dnalsi_69.reg
+4,dnalsi_63.reg
+4,beach_1c.reg
+4,This_Way_55_front.reg
+4,Woods_test.reg
+4,Wacka_Rd_e_end.reg
+4,IO_817_interior.reg
+4,Woods_gq.reg
+4,back4t_20.reg
+4,tivollis.reg
+4,Wacka_Rd_39_interior.reg
+4,Street_Rd_1031_interior.reg
+4,Woods_5a.reg
+4,Fast_Ln_724_interior.reg
+4,Janice_Ln_1025_interior.reg
+4,pawnshop_front.reg
+4,back4t_42.reg
+4,Disk_Dr_427_interior.reg
+4,Randy_Rd_23_interior.reg
+4,Kings_Rd_210_front.reg
+4,Mince_St_52_interior.reg
+4,Foon_Ave_37_interior.reg
+4,Pam_Pl_814_interior.reg
+4,This_Way_15_front.reg
+4,Wrong_Wy_56_front.reg
+4,Change OEM Page.reg
+4,2003R2-Hotfix-CentralProcessor.reg
+4,office_2010_1.reg
+4,office_2016_01.reg
+4,Woods_4f.reg
+4,Kings_Rd_510_front.reg
+4,costello_front.reg
+4,Desert_3f.reg
+4,xi_wazoo.reg
+4,Rocky_Rd_115_interior.reg
+4,Desert_1a.reg
+4,Wazoo_St_e_end.reg
+4,Baker_St_1021_interior.reg
+4,library_lobby.reg
+4,fyard04.reg
+4,Dice_Ave_91_front.reg
+4,dnalsi_3d.reg
+4,Wazoo_St_712_front.reg
+4,Bleem_St_58_front.reg
+4,Woods_cn.reg
+4,dnalsi_74.reg
+4,dnalsi_4c.reg
+4,Bleem_St_38_front.reg
+4,chrome-add.reg
+4,ar_SA.reg
+4,Woods_aq.reg
+4,dnalsi_76.reg
+4,clothes_store_interior.reg
+4,Kings_Rd_410_interior.reg
+4,Woods_7k.reg
+4,dnalsi_cave3_3c.reg
+4,library_red.reg
+4,Baker_St_221_interior.reg
+4,city_hall.reg
+4,Bleem_St_48_interior.reg
+4,Wacka_Rd_59_interior.reg
+4,Warp_Dr_523_interior.reg
+4,Desert_2f.reg
+4,Wrong_Wy_36_interior.reg
+4,costellos.reg
+4,Road_St_1032_interior.reg
+4,Pam_Pl_514_interior.reg
+4,hyway1.reg
+4,ti_wacka.reg
+4,Hyway1.reg
+4,back4t_24.reg
+4,Woods_6o.reg
+4,Wacka_Rd_19_front.reg
+4,This_Way_55_interior.reg
+4,Saint_St_1019_interior.reg
+4,Wazoo_St_512_front.reg
+4,xml_sql2xml.reg
+4,Woods_cs.reg
+4,Kerner_116_interior.reg
+4,Pokey_Pl_522_interior.reg
+4,Wrong_Wy_106_front.reg
+4,capt2.reg
+4,Janice_Ln_125_interior.reg
+4,auditorium.reg
+4,Janice_Ln_325_interior.reg
+4,head_store_interior.reg
+4,Baker_St_521_interior.reg
+4,Mince_St_12_front.reg
+4,This_Way_105_front.reg
+4,emporium_interior.reg
+4,hall_of_records.reg
+4,ti_maine.reg
+4,Mince_St_82_interior.reg
+4,Woods_8g.reg
+4,Wrong_Wy_86_interior.reg
+4,Woods_6j.reg
+4,Spiff_Ln_911_interior.reg
+4,city_hall_interior.reg
+4,Fast_Ln_924_interior.reg
+4,Desert_4b.reg
+4,body_paints.reg
+4,Sunday_Dr_720_interior.reg
+4,Woods_cq.reg
+4,Spiff_Ln_1011_front.reg
+4,Woods_1j.reg
+4,dnalsi_5c.reg
+4,Wrong_Wy_76_interior.reg
+4,Road_St_232_interior.reg
+4,Woods_7g.reg
+4,dnalsi_57.reg
+4,Woods_eq.reg
+4,base16-atelierheath.reg
+4,DontManagePaths.reg
+4,Perseus_GAS_box.reg
+4,Bleem_St_88_interior.reg
+4,back4t_22.reg
+4,bar00.reg
+4,Foon_Ave_87_interior.reg
+4,Woods_2i.reg
+4,Aric_Ave_94_front.reg
+4,square06.reg
+4,Wrong_Wy_16_front.reg
+4,Pam_Pl_914_interior.reg
+4,Alley_03.reg
+4,dnalsi_cave2_2c.reg
+4,Woods_5v.reg
+4,Randy_Rd_93_front.reg
+4,Aric_Ave_14_front.reg
+4,dnalsi_71.reg
+4,Baker_St_621_interior.reg
+4,Woods_ft.reg
+4,Spiff_Ln_511_front.reg
+4,Disk_Dr_827_interior.reg
+4,Aric_Ave_44_front.reg
+4,Desert_2e.reg
+4,Kings_Rd_810_interior.reg
+4,Fast_Ln_424_interior.reg
+4,Janice_Ln_425_interior.reg
+4,Kerner_616_interior.reg
+4,for_rent_f_interior.reg
+4,dnalsi_29.reg
+4,Road_St_132_interior.reg
+4,nsis.reg
+4,jphoto.reg
+4,xp-Uninstall.reg
+4,Street_Rd_931_interior.reg
+4,ce_wazoo.reg
+4,dnalsi_93.reg
+4,Foon_Ave_n_end.reg
+4,new_you_interior.reg
+4,This_Way_75_front.reg
+4,Woods_et.reg
+4,region_rally.reg
+4,dnalsi_5b.reg
+4,This_Way_e_end.reg
+4,Aric_Ave_64_front.reg
+4,ce_wrong.reg
+4,Woods_7a.reg
+4,This_Way_95_front.reg
+4,dnalsi_26.reg
+4,Wazoo_St_612_front.reg
+4,beach_2c.reg
+4,Dice_Ave_n_end.reg
+4,Aric_Ave_w_end.reg
+4,dnalsi_3a.reg
+4,Woods_6t.reg
+4,back4t_71.reg
+4,Rocky_Rd_315_interior.reg
+4,EZ_St_926_interior.reg
+4,ti_foon.reg
+4,ti_randy.reg
+4,back4t_41.reg
+4,Outamy_Wy_429_interior.reg
+4,Sunday_Dr_320_interior.reg
+4,for_rent_f.reg
+4,dnalsi_1d.reg
+4,Milky_Wy_828_interior.reg
+4,Saint_St_319_interior.reg
+4,Test_Instance.reg
+4,ti_this.reg
+4,Woods_4k.reg
+4,Woods_6n.reg
+4,This_Way_85_front.reg
+4,Wacka_Rd_109_interior.reg
+4,IO_217_interior.reg
+4,pawnshop.reg
+4,cw_randy.reg
+4,Spiff_Ln_811_interior.reg
+4,pawnshop00.reg
+4,Street_Rd_831_interior.reg
+4,Woods_5i.reg
+4,Aric_Ave_104_front.reg
+4,furniture_store_front.reg
+4,Woods_5d.reg
+4,Pokey_Pl_722_interior.reg
+4,Woods_6w.reg
+4,Street_Rd_131_interior.reg
+4,Wrong_Wy_26_interior.reg
+4,Desert_3b.reg
+4,Pam_Pl_114_interior.reg
+4,Kings_Rd_710_interior.reg
+4,Bleem_St_18_front.reg
+4,cw_wazoo.reg
+4,EZ_St_526_interior.reg
+4,dnalsi_05.reg
+4,back4t_11.reg
+4,dnalsi_08.reg
+4,This_Way_35_interior.reg
+4,Warp_Dr_1023_interior.reg
+4,Add System Tools.reg
+4,cw_foon.reg
+4,Woods_bq.reg
+4,Kludge_Ct_418_interior.reg
+4,Woods_9s.reg
+4,Desert_1d.reg
+4,Pam_Pl_314_interior.reg
+4,Alley_05.reg
+4,Lori_Ln_513_interior.reg
+4,Woods_ar.reg
+4,Kings_Rd_710_front.reg
+4,Kludge_Ct_818_interior.reg
+4,Desert_5c.reg
+4,dnalsi_cave3_1c.reg
+4,Wrong_Wy_46_interior.reg
+4,Kludge_Ct_518_interior.reg
+4,Woods_1i.reg
+4,dnalsi_09.reg
+4,dnalsi_4a.reg
+4,stock_market_interior.reg
+4,dnalsi_92.reg
+4,dnalsi_37.reg
+4,Bleem_St_108_interior.reg
+4,Wazoo_St_312_front.reg
+4,square00.reg
+4,Kings_Rd_w_end.reg
+4,Aric_Ave_cross.reg
+4,This_Way_25_front.reg
+4,Hyper_Dr_830_interior.reg
+4,dnalsi_cave3_0c.reg
+4,Spiff_Ln_211_interior.reg
+4,dnalsi_3c.reg
+4,Woods_5j.reg
+4,fyard01.reg
+4,Bleem_St_108_front.reg
+4,Sunday_Dr_220_interior.reg
+4,Janice_Ln_925_interior.reg
+4,dnalsi_15.reg
+4,html_quickform.reg
+4,sfcaptchagdplugin.reg
+4,10-NetworkList.reg
+4,beach_1g.reg
+4,Desert_5d.reg
+4,Dice_Ave_51_front.reg
+4,Sunday_Dr_920_interior.reg
+4,Desert_2c.reg
+4,Desert_5b.reg
+4,Mince_St_42_interior.reg
+4,cw_aric.reg
+4,dnalsi_7c.reg
+4,Randy_Rd_w_end.reg
+4,cw_mince.reg
+4,bigw00.reg
+4,This_Way_85_interior.reg
+4,Woods_7f.reg
+4,Dice_Ave_81_interior.reg
+4,back4t_31.reg
+4,Hyper_Dr_530_interior.reg
+4,Milky_Wy_728_interior.reg
+4,Woods_7n.reg
+4,Woods_6m.reg
+4,Wazoo_St_912_front.reg
+4,Mince_St_42_front.reg
+4,back4t_55.reg
+4,Wazoo_St_612_interior.reg
+4,tivollis_interior.reg
+4,Wacka_Rd_69_interior.reg
+4,Hyper_Dr_1030_interior.reg
+4,base16-ateliersulphurpool.reg
+3,Default_PNG.reg
+3,Default_manifest.reg
+3,Default_BMP.reg
+3,Default_M2TS.reg
+3,caps_lock_to_control.reg
+3,FarUC2.reg
+3,Default_RTF.reg
+3,nfo.reg
+3,Default_CMD.reg
+3,Default_BAT.reg
+3,windows-system.reg
+3,oclBench_b3.als.reg
+3,2_delete.reg
+3,gnupg-w32.reg
+3,sfadmindashplugin.reg
+3,Default_XML.reg
+3,Default_Contact.reg
+3,Default_3GPP.reg
+3,Enable Old Start Menu in Windows 10.reg
+3,winmerge.reg
+3,ESC_FMCSA571.126-model.als.reg
+3,EnableVSTestHost12.0.reg
+3,pear.phpunit.de.reg
+3,ie55.reg
+3,mk_region3.reg
+3,RegisterCustomTool_VS2010_x64.reg
+3,visual studio paths.reg
+3,Default_MPG.reg
+3,Default_ASX.reg
+3,Default_EXE.reg
+3,Default_h.reg
+3,Default_DIC.reg
+3,ai.reg
+3,bookmark_uninstall.reg
+3,i199-afm-with-inhritance.als.reg
+3,TechInfo.reg
+3,Settings-ConEmu.reg
+3,ConEmu_Inside_Delete.reg
+3,xml_tree.reg
+3,oEnableBSODonCtrl-ScrLkScrLk.reg
+3,i239.als.reg
+3,ClaferWiki-Specific_Help.als.reg
+3,.ie1.reg
+3,PkZip25.reg
+3,windbg_template.reg
+3,Default_ISO.reg
+3,Default_ASPX.reg
+3,Default_TTF.reg
+3,clearlicense.reg
+3,oQuickBSODReboot.reg
+3,net_ipv4.reg
+3,EnableVSTestHost14.0.reg
+3,Default_HTA.reg
+3,Default_TS.reg
+3,m4a.reg
+3,Default_INI.reg
+3,Linux_model.als.reg
+3,eCos_model.als.reg
+3,Rar20.reg
+3,10gen.me.reg
+3,CircleStandard.reg
+3,mk_region2.reg
+3,Default_WMV.reg
+3,Default_ZIP.reg
+3,Default_JPG.reg
+3,cmd.reg
+3,umlcd_model.als.reg
+3,console-size.reg
+3,plugins.openpne.jp.reg
+3,EDM_Intro.als.reg
+3,i275-uniqueNames.als.reg
+3,mk_region.reg
+3,Default_themepack.reg
+3,UnegisterForSafeMode.reg
+3,LDView-Hungarian.reg
+3,Default_LOG.reg
+3,Default_CHM.reg
+3,Default_Folder.reg
+3,Default_M4V.reg
+3,Default_TAR.reg
+3,UCharMap.reg
+3,ffdshow.reg
+3,igvita-desert.reg
+3,Telematics_PLA.als.reg
+3,smt.reg
+3,php_beautifier.reg
+3,Disable_Port_445.reg
+3,Default_Briefcase.reg
+3,Default_COM.reg
+3,Default_JNT.reg
+3,Default_URL.reg
+3,Default_JS.reg
+3,Default_MP4.reg
+3,oNoStepInto.reg
+3,regdisable.reg
+3,7zip_portable.reg
+3,simple-arithmetic.als.reg
+3,Lha32b.reg
+3,mapimail.reg
+3,Default_MSI.reg
+3,Default_CSS.reg
+3,Default_Drive.reg
+3,Default_XPS.reg
+3,PowerShell_Set_Unrestricted.reg
+3,Default (not configured).reg
+3,Add Empty Recycle Bin context menu.reg
+3,options.reg
+3,ACCDemo_fullClafer.als.reg
+3,Scotiabank_Mortgages.als.reg
+3,file_pdf.reg
+3,1_delete.reg
+3,WinZipCL.reg
+3,RegisterCustomTool_VS2010.reg
+3,Default_AudioCD.reg
+3,Default_GIF.reg
+3,AAC.reg
+3,openpne.reg
+3,net_dict.reg
+3,J2534register_x64.reg
+3,Install.reg
+3,DisableVSTestHost14.0.reg
+3,default_cpl.reg
+3,Default_MSC.reg
+3,Default_dat.reg
+3,Default_OBJ.reg
+3,mhtml.reg
+3,Default_BAS.reg
+3,Default_cpp.reg
+3,Default_bak.reg
+3,ConEmu_Inside.reg
+3,TabList.reg
+3,mdb2_driver_sqlite.reg
+3,quiet.reg
+3,ShellExt.reg
+3,Default_OTF.reg
+3,UnregisterConfig.reg
+3,EDMPoster_Intro.als.reg
+3,options.zh-HK.reg
+3,phpdoc.reg
+3,services_google.reg
+3,testing_selenium.reg
+3,services_amazon.reg
+3,ie5.reg
+3,Default_CAB.reg
+3,Default_HTM.reg
+3,Default_ps1.reg
+3,FarWhite.reg
+3,xml_rss.reg
+3,accesscontrol_Intro.als.reg
+3,services_youtube.reg
+3,Default_CUR.reg
+3,der.reg
+3,Default_MP3.reg
+3,Default_DVR-MS.reg
+3,Default_JPE.reg
+3,Default_M2T.reg
+3,file_searchreplace.reg
+3,stats.reg
+3,ClaferToolsDemo_Adding_Quality.als.reg
+3,oclBench_b1.als.reg
+3,VS2012.Stock.Theme.Light.reg
+3,LGHA.reg
+3,SwapCapsLockAndLeftCtrl.reg
+3,Unicode_NSIS_Portable.reg
+3,Default_REG.reg
+3,Default_WSF.reg
+3,Default_WMA.reg
+3,crt.reg
+3,Default_HTML.reg
+3,Retail.reg
+3,Add DPI Scaling.reg
+3,Add Move To.reg
+3,regenable.reg
+3,LDView-Czech.reg
+3,ie7.reg
+3,ie6.reg
+3,php_archive.reg
+3,Enable_Port_445.reg
+3,Type.reg
+3,browser fix.reg
+3,windows-software.reg
+3,DisableFIPS.reg
+3,Disable Aero Shake.reg
+3,bookmark_install.reg
+3,spreadsheet_excel_writer.reg
+3,i144-if-then-else.als.reg
+3,console_progressbar.reg
+3,PkZip25Dos.reg
+3,MultiArc.TryIfNoOther.reg
+3,isicswidgetformtinymceplugin.reg
+3,Default_AVI.reg
+3,Default_ASF.reg
+3,Default_MPE.reg
+3,Default_IMG.reg
+3,Default_TTS.reg
+3,PEAR_ENV.reg
+3,Default_ICO.reg
+3,Default_SCR.reg
+3,Default_PBK.reg
+3,Command Processor.reg
+3,disable_telemetry_registry_entries.reg
+3,oDisableBSODonCtrl-ScrLkScrLk.reg
+3,services_blogging.reg
+3,RDPSetup.reg
+3,VS2012.Stock.Theme.Dark.reg
+3,vcf.reg
+3,sffeed2plugin.reg
+3,Default_VBS.reg
+3,Default_MPA.reg
+3,Default_INF.reg
+3,Default_TIFF.reg
+3,ACCDemo_featureModels.als.reg
+3,mdb2_driver_mysql.reg
+3,Arj.reg
+3,Default_MSP.reg
+3,cer.reg
+3,Default_Directory.reg
+3,Default_Package.reg
+3,Default_MOV.reg
+3,Default_DLL.reg
+3,oclgrind-icd.reg
+3,RegisterForSafeMode.reg
+3,ClaferTools_ToolingArchitecture.als.reg
+3,ACCDemo_attributedFeatureModels.als.reg
+3,cherokee.reg
+3,LhArk.reg
+3,Default_MPEG.reg
+3,Default_TMP.reg
+3,Defaul_XSL.reg
+3,Tutorial_Intro.als.reg
+3,2.reg
+3,Default_BIN.reg
+3,Command Processor Off.reg
+3,net_geo.reg
+3,LDView-Italian.reg
+3,Default_Library-ms.reg
+3,Default_MKV.reg
+3,platform.reg
+3,dcoords.reg
+3,options.en-US.reg
+3,TechInfo_rus.reg
+3,addiu.reg
+3,UnRegisterCustomTool_VS2010_x64.reg
+3,Default_theme.reg
+3,Default_LNK_(Shortcut).reg
+3,Default_HLP.reg
+3,Default_3GP.reg
+3,Default_Search.reg
+3,svg.reg
+3,RegisterConfig.reg
+3,DisableVSTestHost12.0.reg
+3,versioncontrol_svn.reg
+3,mp3_playlist.reg
+3,InfoZIP.reg
+3,win32.reg
+3,dark-theme.reg
+3,Default_PDF.reg
+3,Default_ANI.reg
+3,Default_wav.reg
+3,LDView-German.reg
+3,sql_parser.reg
+3,Lha32.reg
+3,Default_TIF.reg
+3,psd.reg
+3,Default_GZ.reg
+3,Unknown.reg
+3,Disable_ConIme.reg
+3,Add copy to move to.reg
+3,net_whois.reg
+3,setup.reg
+3,Default_MTS.reg
+3,Default_VOB.reg
+3,64-Bit restore folders in this PC.reg
+3,BMM_model.als.reg
+3,image_tools.reg
+3,.ie2.reg
+3,msbuildfix.reg
+3,UnRegisterCustomTool_VS2010.reg
+3,Default_JPEG.reg
+3,Default_M3U.reg
+3,Default_DB.reg
+3,phing.reg
+3,branch_patcher_install.reg
+3,Default_TXT.reg
+3,Default_JSE.reg
+3,archive_zip.reg
+3,Lha32a.reg
+2,cmdrc.reg
+2,39. Solarized Darcula.reg
+2,34. Pro.reg
+2,Add Change Regional Settings.reg
+2,Add Printers to My Computer.reg
+2,Add System Shortcuts at Top.reg
+2,Add Register AX.reg
+2,Disable Windows Mail splash screen.reg
+2,Add Network Connections.reg
+2,REGISTER UNREGISTER  DLL & OCX FILE.reg
+2,new_vs_in_context_menu.reg
+2,dmesg.reg
+2,Adobe_Shockwave_disable_autoupdate.reg
+2,Disable_formatting_with_ReFS.reg
+2,Add Command Prompt.reg
+2,isapi_redirector2.reg
+2,i101.js.reg
+2,i205-ref-disambiguation-II.dot.reg
+2,navAndDeref.html.reg
+2,scopes.html.reg
+2,references-in-bound-identifiers.js.reg
+2,gi84-parent-top-level-abstract.dot.reg
+2,i147-ref-disambiguation.dot.reg
+2,resolution.dot.reg
+2,text_password.reg
+2,sfphpunitplugin.reg
+2,target_fields_reorganized.reg
+2,integrate.reg
+2,reregister64bit.reg
+2,1st.reg
+2,JOSSO-ISAPI-EventLog.reg
+2,Open To My PC.reg
+2,ov2643_720p_ycbcr.reg
+2,18. Idletoes.reg
+2,mycompzone.reg
+2,pear.cakephp.org.reg
+2,E57.reg
+2,Mouse hover time 20.reg
+2,Password protection for screensaver.reg
+2,Add User Accounts.reg
+2,Add System Tools at Bottom.reg
+2,Increase boot time - prefetching.reg
+2,Show install and restart menu.reg
+2,Add System Tools at Top.reg
+2,Add Change Wallpaper.reg
+2,Disable WWAN AutoConfig Service.reg
+2,Do not allow 16-Bit apps.reg
+2,Disable New App Toast Notification.reg
+2,ds9-fk5.reg
+2,Disable OneDrive.reg
+2,ubuntu.reg
+2,i188-sum-quantifier2.dot.reg
+2,i74.js.reg
+2,i72-shared-reference.html.reg
+2,i70.html.reg
+2,EDMPoster_Intro.js.reg
+2,Telematics_PLA.js.reg
+2,primitiveTypesAndCoersions.html.reg
+2,simple-arithmetic.dot.reg
+2,ClaferWiki-Specific_Help.html.reg
+2,i147-ref-disambiguation.js.reg
+2,setRGA.reg
+2,removeRGS.reg
+2,validate_nl.reg
+2,opauthopenidplugin.reg
+2,MSFT_nxScriptResource.reg
+2,dlloverride.reg
+2,lockcmd.reg
+2,CDSDK.reg
+2,RemoveCustomKeyMapping.reg
+2,Exceptions_2010_64.reg
+2,Remove Security Center.reg
+2,Manual Protected Storage.reg
+2,Clean all MPC-HC registry stuff.reg
+2,Enable Dark Theme.reg
+2,Example configuration for Updates.reg
+2,Do not safe .NET passwords.reg
+2,Unhide File.reg
+2,Disable Action Center.reg
+2,Add Task Manager.reg
+2,Disable screensavers.reg
+2,chiron-here.reg
+2,test01_gal.reg
+2,RealTimeIsUniversal.reg
+2,SoulSharp.reg
+2,i70.js.reg
+2,resolution.html.reg
+2,gi57-root-keyword.als.reg
+2,assertionsAndScopes.html.reg
+2,navAndDeref.als.reg
+2,i81.html.reg
+2,Linux_model.html.reg
+2,BMM_model.js.reg
+2,liftingNestedConstraints.als.reg
+2,id3tagger.reg
+2,file_passwd.reg
+2,Guide.reg
+2,register_driver.reg
+2,MSFT_nxServiceResource.reg
+2,Profile1.reg
+2,global_context_emacs.reg
+2,48. Vaughn.reg
+2,Exceptions_2010_32.reg
+2,t3.reg
+2,net_checkip.reg
+2,Add Empty Recycle Bin option.reg
+2,Manual Computer Browser.reg
+2,Speed-up Access to AVI Media Files.reg
+2,Add advanced user acounts.reg
+2,Add Desktop Shortcuts at Bottom.reg
+2,HoTools64bit.reg
+2,HoTools.reg
+2,appveyor_registry.reg
+2,edit-with-emacs.reg
+2,ssl-worm.reg
+2,Undo.reg
+2,yaml.reg
+2,ACCDemo_attributedFeatureModels.js.reg
+2,gi67-extending-nested-abstract.als.reg
+2,ClaferToolsDemo_Adding_Quality.js.reg
+2,gi67-extending-nested-abstract.js.reg
+2,scopes.als.reg
+2,personRelatives.js.reg
+2,mergeExpAndSetExp.html.reg
+2,i235.html.reg
+2,gi78-extending-nested-abstract.als.reg
+2,nestedInheritanceWithReference.html.reg
+2,mergeExpAndSetExpAlloy.dot.reg
+2,leftAssocDeref.html.reg
+2,nustatymai.reg
+2,win2k.reg
+2,uninstall_user.reg
+2,MSFT_nxArchiveResource.reg
+2,dwarfs.reg
+2,15. Homebrew.reg
+2,cakephp.reg
+2,500ms Delay Aero Peek.reg
+2,Disable Windows Key Hotkeys.reg
+2,Add Change Date and Time.reg
+2,shellPromptAsAdministrator.reg
+2,SSL Cipher tweak.reg
+2,Configure the Security Center.reg
+2,RestoreToolbarsInTaskbar.reg
+2,Speedup Desktop and Shutdown.reg
+2,Add Task Manager Option.reg
+2,Disable Remote Registry.reg
+2,LAT_ext_v14.reg
+2,net_curl.reg
+2,neoeedit.reg
+2,Open With BasicBrowser.reg
+2,IFX.reg
+2,i98_top-level-references.html.reg
+2,i14.dot.reg
+2,groupCardInheritance.als.reg
+2,test_neg_typesystem.js.reg
+2,i55.dot.reg
+2,i199-afm-check.dot.reg
+2,negative.dot.reg
+2,simpleConstraint.js.reg
+2,i226-unary-minus.js.reg
+2,i275-uniqueNames.js.reg
+2,i71.js.reg
+2,i239.js.reg
+2,constraints.js.reg
+2,i131-incorrect-scope.js.reg
+2,EDM_Intro.html.reg
+2,off_positions_selectedfromDame2001.reg
+2,setRGS.reg
+2,Short10x20-p1-adap-restart.reg
+2,admin_key_32.reg
+2,opopensocialplugin.reg
+2,Timeserver.reg
+2,ov5640_af.reg
+2,fortyninerPrefsTextPad5.reg
+2,10. Fish Of Paradise.reg
+2,33. Papirus Dark.reg
+2,26. Man Page.reg
+2,42. Teerb.reg
+2,09. Espresso.reg
+2,12. github.reg
+2,Hiberation disable.reg
+2,Disable user configuration on Admin.reg
+2,Remove Programs and Features.reg
+2,Speed up shell response.reg
+2,ClearType AA and gamma.reg
+2,Disable unimportant error msgs.reg
+2,Nuke Windows Media Player.reg
+2,Add Manage Option.reg
+2,SSL Cipher tweak RC4 removed.reg
+2,Manual ActiveX Installer.reg
+2,Do not allow to run CMD.reg
+2,Disable Administrative Shares.reg
+2,colors.reg
+2,photo_viewer.reg
+2,test01_ciao_physical.reg
+2,web2board.reg
+2,i83-individual-scope.dot.reg
+2,minAndMax.html.reg
+2,references-in-bound-identifiers.dot.reg
+2,umlcd_model.html.reg
+2,noAndNot.js.reg
+2,person_tutorial.js.reg
+2,Tutorial_Intro.html.reg
+2,720p.reg
+2,OpenPowerShellCmdHereAdmin.reg
+2,21. Invisibone.reg
+2,file_archive.reg
+2,Uninstall Items in My Computer.reg
+2,Add Device Manager to My Computer.reg
+2,Manual HomeGroup Provider.reg
+2,Do not allow network printers.reg
+2,Logon screen Text noshadow.reg
+2,Add Unhide File.reg
+2,Disable Recent Programs.reg
+2,Add new CMD file.reg
+2,Disable Web Client Service.reg
+2,Add Services Option.reg
+2,Add Notepad to shell.reg
+2,test01_mixed.reg
+2,test01_fk5.reg
+2,Disable Retpoline.reg
+2,i228-this-and-parent-types.html.reg
+2,assertionsAndScopes.dot.reg
+2,accesscontrol_Intro.html.reg
+2,i121-comments.js.reg
+2,simple-arithmetic.js.reg
+2,i239.dot.reg
+2,i188-sum-quantifier2.html.reg
+2,deprecated.als.reg
+2,gi84-parent-top-level-abstract.html.reg
+2,MSFT_nxSshAuthorizedKeysResource.reg
+2,unreg.reg
+2,ForceCloseShutDown.reg
+2,blppython.reg
+2,17. Ic Green Ppl.reg
+2,t1.reg
+2,Drachenhorn.reg
+2,myReg.reg
+2,Manual Peer Networking Grouping.reg
+2,Remove Fonts.reg
+2,Disable Tablet PC Input Service.reg
+2,Remove network scheduled tasks.reg
+2,Disable Net logon service.reg
+2,Do not re-trace depcreated links.reg
+2,Add Run option.reg
+2,Add Fonts.reg
+2,Pathway-64.reg
+2,StockChart.reg
+2,test04_img.reg
+2,test01_fk5_sexagecimal.reg
+2,ProtoBufGenerator.reg
+2,snort-default.reg
+2,i23.html.reg
+2,nestedInheritanceWithReference.js.reg
+2,i131-incorrect-scope-diag.js.reg
+2,scopes.js.reg
+2,escapes.js.reg
+2,product.dot.reg
+2,i98_top-level-references.dot.reg
+2,i131-incorrect-scope-diag.html.reg
+2,optionalClaferInitializer.als.reg
+2,ESC_FMCSA571.126-model.js.reg
+2,leftAssocDeref.js.reg
+2,ACCDemo_fullClafer.dot.reg
+2,i226-unary-minus.html.reg
+2,RegKDB.reg
+2,Delete_Devices_Mount_Points.reg
+2,Internet Settings.reg
+2,localhost.reg
+2,opauthmailaddressplugin.reg
+2,reregister32bit.reg
+2,Turn_Off_Show_suggestions_on_Start.reg
+2,KBDKGU.reg
+2,Profile4.reg
+2,ProtocolHandler.reg
+2,PuTY.reg
+2,C234p2+24p4_combined_tiles.reg
+2,AddFront_byAttrib.reg
+2,AviSynth_Template.reg
+2,03. Birds Of Paradise.reg
+2,MouFiltrServiceDescription.reg
+2,DrachenhornDelete.reg
+2,hidden.reg
+2,Hide File.reg
+2,Add Hide File.reg
+2,Add Programs and Features.reg
+2,Disable Offline Files service.reg
+2,Manual Network List Service.reg
+2,Unlock the taskbar.reg
+2,Remove God Mode.reg
+2,flmon_driver.reg
+2,twilight.reg
+2,realtimeisuniversal.reg
+2,Add context menu.reg
+2,EAST-ADL-PowerWindow.als.reg
+2,i61-cardinalities.html.reg
+2,i40_integers_strings_assignment.dot.reg
+2,Scotiabank_Mortgages.js.reg
+2,test_neg_typesystem.dot.reg
+2,i144-if-then-else.html.reg
+2,i188-sum-quantifier2.js.reg
+2,gi57-root-keyword.html.reg
+2,i40-text-equality.dot.reg
+2,i199-afm-check.html.reg
+2,printticket.reg
+2,eventlog32.reg
+2,db_nestedset.reg
+2,MSFT_nxUserResource.reg
+2,PinchedHemisphere-p4.reg
+2,35. Red Sands.reg
+2,40. Sundried.reg
+2,45. Tomorrow.reg
+2,EngineMetrics_2010_64.reg
+2,t4.reg
+2,image_canvas.reg
+2,RTDServiceRegistrationExample.reg
+2,sfdoctrineactassignableplugin.reg
+2,Enable Aero Shake.reg
+2,UAc for integrated Admin account.reg
+2,Detailed login or logout messages.reg
+2,Disable EFS encryption.reg
+2,Increase RPC Packet Size.reg
+2,Remove Control Panel Option.reg
+2,Manual COM+ System Application.reg
+2,ClearType FONT Gamma smoothines.reg
+2,Disable Autorun for CD-ROM Drives.reg
+2,Unhide Folder.reg
+2,win7_64bit_putty.reg
+2,test_annuli.reg
+2,ex.web-rules.reg
+2,Defaults.reg
+2,0CC-FamiTracker.reg
+2,i83-individual-scope.html.reg
+2,Linux_model.dot.reg
+2,EAST-ADL-PowerWindow.dot.reg
+2,nested-ifthenelse.als.reg
+2,i101.html.reg
+2,i228-this-and-parent-types.dot.reg
+2,i74.dot.reg
+2,i61-cardinalities.dot.reg
+2,gi78-extending-nested-abstract.js.reg
+2,mdb2_driver_mysqli.reg
+2,eventlog64.reg
+2,EnableVSTestHost15.0.reg
+2,backstream.reg
+2,target_fields_8x8_gal.reg
+2,global.reg
+2,opalbumplugin.reg
+2,Turn_On_Show_suggestions_on_Start.reg
+2,testtkinter.reg
+2,C210p2+02p8_combined_tiles.reg
+2,Tomcat.reg
+2,opensc64.reg
+2,05. Chalkboard.reg
+2,Enable_IE10.reg
+2,Restrict Anonymous User.reg
+2,Disable Parental Controls service.reg
+2,Add Security Center.reg
+2,HomeFolderMobile.reg
+2,Shows file extensions.reg
+2,Disable Tool Tips.reg
+2,Configure the system restore points.reg
+2,Tweak the entire Search.reg
+2,Do not allow specific programms.reg
+2,Remove User Accounts.reg
+2,Remove File List Clipboard.reg
+2,Remove Admin Auto Hotkey.reg
+2,Do not allow RunOnce programms.reg
+2,Disable SNMP Trap Service.reg
+2,bro_uniq_bez.reg
+2,Spark_Schema-vs2008.reg
+2,SoulSharpBase.reg
+2,deprecated.html.reg
+2,Tutorial_Intro.js.reg
+2,layout.dot.reg
+2,assertionsAndScopes.js.reg
+2,BMM_model.dot.reg
+2,i49_parentReduce.dot.reg
+2,i55.js.reg
+2,i122-CVL.html.reg
+2,EAST-ADL-PowerWindow.html.reg
+2,redefinition.js.reg
+2,EDM_Intro.js.reg
+2,turnoff-opengl.reg
+2,ami-launch-fix-remove.reg
+2,ami-remove-licensing.reg
+2,CO_register_admin.reg
+2,linuxnative.reg
+2,3rd.reg
+2,ov2643_720p.reg
+2,ov5640_af_start.reg
+2,components.ez.no.reg
+2,HIDMifareEmulationOFF.reg
+2,SerialTerminal.reg
+2,49. X Dotshare.reg
+2,32. Ocean.reg
+2,snr900.reg
+2,rcc.reg
+2,kdecm-remove.reg
+2,stars.reg
+2,Restore Always Select Current Users.reg
+2,Enable Status Bar in all windows.reg
+2,Add Admin Auto Hotkey.reg
+2,Add Administrative Tools.reg
+2,Shell appearance.reg
+2,Disable Taskbar Pinned Programs.reg
+2,Only allow long filenames.reg
+2,Remove Window Colorization.reg
+2,Add Control Panel Option.reg
+2,Include recommed updates.reg
+2,Edit this to add custom Oem Info.reg
+2,Manual SSDP Discovery.reg
+2,Hide Folder.reg
+2,test01_print.reg
+2,test01_ciao.reg
+2,deprecated.js.reg
+2,paths.js.reg
+2,escapes.html.reg
+2,ifthenelse.dot.reg
+2,i61-cardinalities.js.reg
+2,i228-this-and-parent-types.js.reg
+2,i72-shared-reference.js.reg
+2,oclBench_b3.dot.reg
+2,i126-empty.dot.reg
+2,ringsR.reg
+2,ShellCtxMenu.reg
+2,Profile5.reg
+2,opensc32.reg
+2,27. Monokai Soda.reg
+2,client.reg
+2,Disable the Lock Screen.reg
+2,kb293781fix.reg
+2,Explorer Nav panel.reg
+2,Manual Network Connections.reg
+2,Configure the Master File Table.reg
+2,Add Event Viewer Option.reg
+2,Security settings per PC basis.reg
+2,Do not save encrypted pages to disk.reg
+2,Disable Autorun for All Drives.reg
+2,Deactivate the secured shell modus.reg
+2,Do not list last username on login.reg
+2,024.DisableScripts.reg
+2,Remove Pin to Start Menu.reg
+2,i17.html.reg
+2,i131-incorrect-scope-diag.dot.reg
+2,subtyping-primitive-types.dot.reg
+2,i18.html.reg
+2,i150-or-groups.js.reg
+2,EAST-ADL-PowerWindow.js.reg
+2,paths.html.reg
+2,i205-ref-disambiguation-II.html.reg
+2,groupCardInheritance.dot.reg
+2,liftingNestedConstraints.html.reg
+2,ClaferTools_ToolingArchitecture.dot.reg
+2,i188-sum-quantifier.html.reg
+2,SUPA0120153_8.reg
+2,RegUnRegKDB.reg
+2,html_treemenu.reg
+2,Enable.reg
+2,validate_us.reg
+2,opashiatoplugin.reg
+2,3_delete.reg
+2,shell.reg
+2,drivers.reg
+2,11. Fish Tank.reg
+2,right_click.reg
+2,t2.reg
+2,Add Copy To.reg
+2,Disable WPAD.reg
+2,Remove Services Option.reg
+2,Add Change Cursor.reg
+2,EMET v5.2.reg
+2,Remove Change Wallpaper.reg
+2,Disable UAC.reg
+2,Hide Legacy Logon Scripts.reg
+2,Do not allow print browsing.reg
+2,Restore Libraries Default Settings.reg
+2,Remove DPI Scaling.reg
+2,Do not show install and shutdown.reg
+2,Mouse hover time default.reg
+2,Remove Power Options.reg
+2,Remove Videos Link from My Computer.reg
+2,test_context.reg
+2,Enable Retpoline.reg
+2,ZipArc.reg
+2,cdapodbc.reg
+2,i10.js.reg
+2,i199-afm-with-inhritance.dot.reg
+2,ACCDemo_fullClafer.html.reg
+2,oclBench_b3.js.reg
+2,oclBench_b3.html.reg
+2,accesscontrol_Intro.dot.reg
+2,NestedInheritanceAndReference2.html.reg
+2,oclBench_b1.html.reg
+2,oprankingplugin.reg
+2,JOSSO-ISAPI-Config.reg
+2,ov5642_720p.reg
+2,AcadStartWiz.reg
+2,KBDKGA.reg
+2,FSABeta2.reg
+2,SetupBermudaODBCDriverDSII-32on64.reg
+2,PreviewAsText.reg
+2,30. Neopolitan.reg
+2,Faster Start Delay.reg
+2,Add Task Scheduler.reg
+2,Stop caching negative responses.reg
+2,Add Search option.reg
+2,Manual HomeGroup Listener.reg
+2,Add System Shortcuts at Bottom.reg
+2,Add User Accounts Classic.reg
+2,Apps Store Feature disable.reg
+2,Disable Windows Update access.reg
+2,Cache more Icons.reg
+2,Manual CNG Key Isolation.reg
+2,Change OEM Properties.reg
+2,Change EFS encryption Algorithm.reg
+2,Enabled Domain Profile.reg
+2,Use Small Icons.reg
+2,Pathway.reg
+2,test_text.reg
+2,dsapi_redirector2.reg
+2,negative.js.reg
+2,i10.html.reg
+2,i98_top-level-references.js.reg
+2,books_tutorial.dot.reg
+2,subtyping-primitive-types.html.reg
+2,Scotiabank_Mortgages.html.reg
+2,escapes.dot.reg
+2,gi84-parent-top-level-abstract.js.reg
+2,groupCardInheritance2.js.reg
+2,i78_transitive-closure.js.reg
+2,mergeExpAndSetExpAlloy.als.reg
+2,constraints.dot.reg
+2,i101.dot.reg
+2,optionalClaferInitializer.dot.reg
+2,i131-incorrect-scope.html.reg
+2,i49_resolve_ancestor.js.reg
+2,2014_expansion_targets_simpler.reg
+2,validate_uk.reg
+2,opmessageplugin.reg
+2,C215p8+16p4_combined_tiles.reg
+2,agent.reg
+2,snr100.reg
+2,Remove Change Cursor.reg
+2,Remove Change Sound.reg
+2,Configure UAC for Software.reg
+2,Remove Games on Start Menu.reg
+2,Add Desktop Icons Settings.reg
+2,Add Windows Apps at Top.reg
+2,Remove Task Scheduler.reg
+2,Remove Task Manager Option.reg
+2,Unblock downloads.reg
+2,Flyout search menu.reg
+2,add open with notepad.reg
+2,Default Windows hover.reg
+2,New file type layout.reg
+2,turn off start menu baloon tips.reg
+2,FM.reg
+2,Depthmap.reg
+2,test_annuli_wcs.reg
+2,ClaferToolsDemo_Adding_Quality.html.reg
+2,i18.js.reg
+2,i83-individual-scope.js.reg
+2,deprecated.dot.reg
+2,i40-text-equality.js.reg
+2,ACCDemo_featureModels.dot.reg
+2,NestedInheritanceAndReference2.als.reg
+2,Environment_Tatoo.reg
+2,rings.reg
+2,spectral_apertures.reg
+2,trace_disable.reg
+2,2nd.reg
+2,ov5640_reset.reg
+2,xdebug.reg
+2,ne.reg
+2,skybkg.reg
+2,37. Solarized Dark.reg
+2,22. Kibble.reg
+2,SetMSMQAlwaysWithoutDS.reg
+2,Disable Autorun for Fixed Drives.reg
+2,EjectCD context menu.reg
+2,Increase shutdown time.reg
+2,Add Copy File List Clipboard.reg
+2,Other Microsoft Updates enabled.reg
+2,Disable ReadyBoost.reg
+2,Add Registry Editor Option.reg
+2,IDL4_EA_Extension_WinRegistryKey.reg
+2,zenburn.reg
+2,test01_fk5_degree.reg
+2,Win10MonokaiConsole.reg
+2,AllowFormatNonMirror.reg
+2,proxy-example-HKLM.reg
+2,container.reg
+2,i74.html.reg
+2,scopes.dot.reg
+2,minAndMax.dot.reg
+2,i49_resolve_ancestor.html.reg
+2,objectivesMinMax.html.reg
+2,i50.js.reg
+2,EDMPoster_Intro.dot.reg
+2,observed_area_poly.reg
+2,CO_register_user.reg
+2,grob.reg
+2,opfavoriteplugin.reg
+2,addin.reg
+2,global_context_emacsclient.reg
+2,EngineMetrics_2005_64.reg
+2,Disable Adaptive Brightness service.reg
+2,Remove Change date time.reg
+2,Disable CTRL+ALT+DELETE login.reg
+2,Speed up shell and desktop.reg
+2,Add System Properties.reg
+2,Disable Auto-Layout.reg
+2,CabinetState.reg
+2,Window Switcher.reg
+2,Remove Recent Items from Start Menu.reg
+2,Disable Roaming security check.reg
+2,Restore Default Theme.reg
+2,caps2ctrl.reg
+2,worm.reg
+2,DisableWiFiSense.reg
+2,Tutorial_Intro.dot.reg
+2,eCos_model.dot.reg
+2,i89-references-should-be-unique.js.reg
+2,books_tutorial.html.reg
+2,i50.html.reg
+2,groupCardInheritance2.als.reg
+2,i239.html.reg
+2,i78_transitive-closure.dot.reg
+2,gi57-root-keyword.js.reg
+2,escapes.als.reg
+2,i50_stop_following_references.html.reg
+2,i49_resolve_ancestor.dot.reg
+2,i147-ref-disambiguation.html.reg
+2,i137_parsing.html.reg
+2,opendav.reg
+2,Baidu Software Center.reg
+2,sylpheed-mailto-protocol.reg
+2,PuTYDel.reg
+2,test06.reg
+2,cygwin_eclipse_setting.reg
+2,43. Terminal Basic.reg
+2,31. Novel.reg
+2,FileAssociations.reg
+2,Deactivate timestamp for files.reg
+2,Increase the USB-Polling time.reg
+2,Freak Attack vulnerability patch.reg
+2,Remove Folder Options.reg
+2,Allow MDAC internet requests.reg
+2,Add Run to My Computer.reg
+2,Enable USER Logfile on each boot.reg
+2,Windows Priority tweak.reg
+2,capsctrl.reg
+2,win7_64bit_wireshark.reg
+2,gotham.reg
+2,023.EnableScripts.reg
+2,Fix.reg
+2,Enable GameDVR.reg
+2,books_tutorial.js.reg
+2,ACCDemo_fullClafer.js.reg
+2,ClaferWiki-Specific_Help.dot.reg
+2,Scotiabank_Mortgages.dot.reg
+2,product.html.reg
+2,i49_parentReduce.js.reg
+2,WebServerHere.reg
+2,ridge_names.reg
+2,ami-remove-all.reg
+2,CO_unregister_admin.reg
+2,port445.reg
+2,dev-exp-setup.reg
+2,trace.reg
+2,mozilla.reg
+2,Baidu.reg
+2,test05.reg
+2,OpenPowerShellCmdHereAdmin-Remove.reg
+2,02. Argonaut.reg
+2,Enable_IE9.reg
+2,Do not allow RUN in the Registry.reg
+2,Configure Windows script host shell.reg
+2,Remove Always Select Current Users.reg
+2,Increase Network Throughput.reg
+2,Enable the Standard Profile.reg
+2,Manual Volume Shadow Copy.reg
+2,Clear the Page File at shutdown.reg
+2,Disable Autorun for Unknown Drives.reg
+2,SHow OS upgrade notifications.reg
+2,Manual SPP Notification Service.reg
+2,Remove Change Regional Settings.reg
+2,Add cmd prompt here.reg
+2,win7_64bit_crt.reg
+2,dpkg.reg
+2,dpd.reg
+2,DontReportInfectionInformation.reg
+2,SoulSharpPackages.reg
+2,simple-arithmetic.html.reg
+2,i57-navParent.js.reg
+2,i144-if-then-else.js.reg
+2,NestedInheritanceAndReference2.dot.reg
+2,i275-uniqueNames.html.reg
+2,i71.dot.reg
+2,personRelatives.html.reg
+2,eCos_model.html.reg
+2,negative.html.reg
+2,i19.dot.reg
+2,oclBench_b1.js.reg
+2,i78_transitive-closure.html.reg
+2,leftAssocDeref.als.reg
+2,liftingNestedConstraints.dot.reg
+2,i23.js.reg
+2,Twilight.reg
+2,sfdoctrinenestedsetplugin.reg
+2,SQLExpressAuthN+Network.reg
+2,dsccore.reg
+2,CanTS2D-p1.reg
+2,HIDMifareEmulationON.reg
+2,29. Monokai Stevelosh.reg
+2,EngineMetrics_2005_32.reg
+2,vs_vars.reg
+2,FixForSaveJavaPrefs.reg
+2,Disable Compatibility-Manager.reg
+2,Disable Autorun for Network Drives.reg
+2,Remove Open With Notepad.reg
+2,Do not allow Internet Explorer sync.reg
+2,Enable Tools Folder Options.reg
+2,Enable Windows Key Hotkeys.reg
+2,Remove Desktop Icons Settings.reg
+2,Remove User Accounts Classic.reg
+2,no lmhash on passwort change on LAN.reg
+2,Empty RecycleBin right click.reg
+2,Disable Web Services.reg
+2,Remove Change Screen Saver.reg
+2,Enable GodMode.reg
+2,Custom fonts.reg
+2,add_cmd.reg
+2,Remove.reg
+2,layout.html.reg
+2,product.js.reg
+2,i57-navParent.dot.reg
+2,i199-afm-with-inhritance.html.reg
+2,Telematics_PLA.dot.reg
+2,objectivesMinMax.dot.reg
+2,ForceRuntimeCompatibility.reg
+2,Notepad2.reg
+2,text_statistics.reg
+2,uninstall_lockcmd.reg
+2,.jpg.reg
+2,SetupBermudaODBCDriverDSII_64on64.reg
+2,test04.reg
+2,contextmenu.reg
+2,04. Blazer.reg
+2,51. Mariana.reg
+2,igvita-light.reg
+2,Add MSConfig Option.reg
+2,Remove Change Theme.reg
+2,Remove Send Feedback.reg
+2,kb933430.reg
+2,Disable UAC notify.reg
+2,Remove Run option.reg
+2,win7_64bit_ultravnc.reg
+2,ds9-blue.reg
+2,Default settings.reg
+2,csdoctrineactassortableplugin.reg
+2,i137_parsing.js.reg
+2,Linux_model.js.reg
+2,ACCDemo_featureModels.html.reg
+2,noAndNot.html.reg
+2,umlcd_model.dot.reg
+2,mergeExpAndSetExpAlloy.js.reg
+2,ESC_FMCSA571.126-model.html.reg
+2,person_tutorial.html.reg
+2,pear.chiaraquartet.net.reg
+2,admin_key_64.reg
+2,opblogplugin.reg
+2,EnableOutOfProcBuild.reg
+2,PotPlayerMini64.reg
+2,ittruSignAx.reg
+2,28. Monokai Dimmed.reg
+2,01. Apple Terminal.reg
+2,EngineMetrics_2008_32.reg
+2,gpio.reg
+2,Kill hung services after 5 seconds.reg
+2,Disable automatic updates.reg
+2,Remove Copy Contents To Clipboard.reg
+2,Add Change Theme.reg
+2,Disable System Restore.reg
+2,Remove Appearance.reg
+2,Manual Application Experience.reg
+2,Add Registry Editor.reg
+2,Disable Superfetch.reg
+2,Disable Backup for Windows 8.1 Apps.reg
+2,Admin Command Prompt here.reg
+2,Enable detection of slow networks.reg
+2,AddNodeToShell.reg
+2,Sign - ActiveXCLSID.reg
+2,test_neg_typesystem.html.reg
+2,enforcingInverseReferences.html.reg
+2,nested-ifthenelse.js.reg
+2,i150-or-groups.dot.reg
+2,i40_integers_strings_assignment.js.reg
+2,minAndMax.als.reg
+2,ifthenelse.als.reg
+2,gi78-extending-nested-abstract.dot.reg
+2,i57-navParent.html.reg
+2,person_tutorial.dot.reg
+2,target_fields.reg
+2,MSFT_nxPackageResource.reg
+2,remap_capslock_to_ctrl.reg
+2,C203p83+41p00_combined_tiles.reg
+2,C260p61+32p13_combined_tiles.reg
+2,messagebroker.reg
+2,tests.reg
+2,14. Highway.reg
+2,44. Thayer.reg
+2,08. Desert.reg
+2,snr400.reg
+2,ntvdmwow.reg
+2,yubnub-ie.reg
+2,Remove Event Viewer Option.reg
+2,Add System Shortcuts.reg
+2,Do not defrag boot files.reg
+2,Remove System Properties.reg
+2,Disable Disk Defragmenter service.reg
+2,Remove Printers.reg
+2,Scan with Windows Defender.reg
+2,Mouse Hover time 50.reg
+2,Add Search to My Computer.reg
+2,Classic Control Panel.reg
+2,Add Flip 3D to My Computer.reg
+2,Add Scan with Windows Defender.reg
+2,Show info warnings on user login.reg
+2,Restart popup for installed updates.reg
+2,Enable_formatting_with_ReFS.reg
+2,i50.dot.reg
+2,i72-shared-reference.dot.reg
+2,i144-if-then-else.dot.reg
+2,groupCardInheritance.js.reg
+2,layout.js.reg
+2,mergeExpAndSetExpAlloy.html.reg
+2,i227-implicit-this-in-IR.js.reg
+2,ifthenelse.html.reg
+2,ClaferToolsDemo_Adding_Quality.dot.reg
+2,optionalClaferInitializer.js.reg
+2,gi67-extending-nested-abstract.dot.reg
+2,nestedInheritanceWithReference.als.reg
+2,reminder-modulo_division.dot.reg
+2,Telematics_PLA.html.reg
+2,AppDdeCmdExampleReg.reg
+2,ami-launch-fix-64.reg
+2,qet_uninstall_file_associations.reg
+2,MSFT_nxFileLineResource.reg
+2,msdtc_pgxalib_tracing_enable.reg
+2,gitscc.reg
+2,SvnPlugin.reg
+2,C250p08+46p7_combined_tiles.reg
+2,EngineMetrics_2008_64.reg
+2,DisableSSLv3.reg
+2,Add Printers.reg
+2,Add Power Options.reg
+2,Allow non signated Windows Updates.reg
+2,Remove Search Option.reg
+2,Disable NTFS Last Access Time Stamp.reg
+2,Disable IP helper service.reg
+2,Enable UAC.reg
+2,Enable Dreamscene In Windows 7.reg
+2,Apply Thin Windows Borders.reg
+2,No print spooler popup.reg
+2,Stop start aero.reg
+2,Disable BranchCache service.reg
+2,EnableSQLAuth.reg
+2,i10.dot.reg
+2,gi84-parent-top-level-abstract.als.reg
+2,i89-references-should-be-unique.dot.reg
+2,subtyping-primitive-types.js.reg
+2,enforcingInverseReferences.dot.reg
+2,leftAssocDeref.dot.reg
+2,i205-ref-disambiguation-II.js.reg
+2,i126-empty.html.reg
+2,groupCardInheritance.html.reg
+2,ClaferWiki-Specific_Help.js.reg
+2,install_user.reg
+2,eclipse.reg
+2,svn-prefs.reg
+2,ov5640_720p.reg
+2,1080p.reg
+2,PrepareRegistry.reg
+2,explorer.reg
+2,06. Ciapre.reg
+2,19. Igvita Desert.reg
+2,Exceptions_2005_32.reg
+2,Exceptions_2008_64.reg
+2,Exceptions_2008_32.reg
+2,html_quickform_controller.reg
+2,html_bbcodeparser.reg
+2,Disable Windows Defender startup.reg
+2,RemoveToolbarsInTaskbar.reg
+2,Add Turn Firewall On or Off.reg
+2,Disable foreground windows flashing.reg
+2,Disable Autorun.reg
+2,Remove Turn Firewall On Off.reg
+2,Restore Default Borders.reg
+2,UAC for signature apps.reg
+2,Add Window Colorization.reg
+2,Disable Autorun for RAM Drives.reg
+2,Disable Windows Biometric Service.reg
+2,Increase the search speed.reg
+2,Enable ATI Context Menu.reg
+2,tlssecurity.reg
+2,Dont mark new applications.reg
+2,Figlut Server Manager Registry Key.reg
+2,test01_ds9_physical.reg
+2,test01_img.reg
+2,Remove context menu.reg
+2,1.WindowsTimeFixUTC.reg
+2,eCos_model.js.reg
+2,nested-ifthenelse.dot.reg
+2,i17.js.reg
+2,accesscontrol_Intro.js.reg
+2,i14.js.reg
+2,i131-incorrect-scope.dot.reg
+2,i235.js.reg
+2,fixmem.reg
+2,html_javascript.reg
+2,ami-launch-fix-32.reg
+2,Disable.reg
+2,test07.reg
+2,inSyca_Messagebroker.reg
+2,47. Twilight.reg
+2,46. Tomorrow Night.reg
+2,EngineMetrics_2013_32.reg
+2,Logon Screen Text default.reg
+2,Update msg configuration.reg
+2,Add app paths.reg
+2,Remove Network Connections.reg
+2,Show desktop icons.reg
+2,Show Windows classic folders.reg
+2,Notepad saves window position.reg
+2,Disable Libraries in Windows 7.reg
+2,Disable Prefetcher on SSD Systems.reg
+2,gvim.reg
+2,mirice.reg
+2,http-bots.reg
+2,proxy-example-HKCU.reg
+2,web2boardTo32.reg
+2,drmingw.reg
+2,gi57-root-keyword.dot.reg
+2,i81.dot.reg
+2,telematics.js.reg
+2,reminder-modulo_division.html.reg
+2,i121-comments.html.reg
+2,redefinition.dot.reg
+2,i235.dot.reg
+2,oclBench_b1.dot.reg
+2,umlcd_model.js.reg
+2,BMM_model.html.reg
+2,i188-sum-quantifier.js.reg
+2,telematics.dot.reg
+2,validate_finance_creditcard.reg
+2,opintrofriendplugin.reg
+2,MSFT_nxFileResource.reg
+2,enable-debug-print.reg
+2,DoNotShowLeadGenDialog.reg
+2,edit_with_neovim_menu.reg
+2,Profile3.reg
+2,test09.reg
+2,NetworkRestore.reg
+2,EngineMetrics_2010_32.reg
+2,EngineMetrics_2013_64.reg
+2,Hover window select.reg
+2,Do not allow Online Help.reg
+2,Disable Compatibility Manager.reg
+2,Default Value Aero Peek.reg
+2,Add Windows Apps at Bottom.reg
+2,Add Copy Contents To Clipboard.reg
+2,File Manager link.reg
+2,Disable User Account Control UAC.reg
+2,Disable TPM Base Services Service.reg
+2,ad9361_config.reg
+2,scan.reg
+2,ansi.reg
+2,RunAsSmartscreen.reg
+2,caps-as-ctrl.reg
+2,isapi_redirect.reg
+2,i227-implicit-this-in-IR.dot.reg
+2,i49_parentReduce.html.reg
+2,groupCardInheritance2.dot.reg
+2,nested-ifthenelse.html.reg
+2,objectivesMinMax.js.reg
+2,i19.js.reg
+2,enforcingInverseReferences.js.reg
+2,i55.html.reg
+2,WebBrowseDirectory.reg
+2,Zenburn.reg
+2,liveuser.reg
+2,common.reg
+2,stretch-p1.reg
+2,test10.reg
+2,plugin.reg
+2,Disable-UAC.reg
+2,36. Seafoam Pastel.reg
+2,41. Sympfonic.reg
+2,Exceptions_2005_64.reg
+2,Deactivate the ADM-File updates.reg
+2,Everyone can create anyonym guests.reg
+2,Disable Hibernate.reg
+2,Enable secured login.reg
+2,Add Change Screen Saver.reg
+2,Change print spooling priority.reg
+2,Install automatically updates asap.reg
+2,Disable Smart Card Service.reg
+2,Remove Administrative Tools..reg
+2,Disable Thumbsdb on network drives.reg
+2,Add open folder in a new window.reg
+2,Add Folder Options.reg
+2,Disable ipsec services.reg
+2,Add Internet Options.reg
+2,cmdPromptAsAdministrator.reg
+2,Add Windows Apps.reg
+2,Add Change Sound.reg
+2,Add Recycle Bin to My Computer.reg
+2,Remove Music Link from My Computer.reg
+2,LAT_ext_v15.reg
+2,aspi.reg
+2,RegSettingsForWdfLog.reg
+2,mirror.reg
+2,sfphpexcelplugin.reg
+2,ACCDemo_attributedFeatureModels.dot.reg
+2,noAndNot.dot.reg
+2,EDMPoster_Intro.html.reg
+2,i19.html.reg
+2,simpleConstraint.html.reg
+2,nestedInheritanceWithReference.dot.reg
+2,i121-comments.dot.reg
+2,noAndNot.als.reg
+2,redefinition.html.reg
+2,ACCDemo_featureModels.js.reg
+2,i150-or-groups.html.reg
+2,optionalClaferInitializer.html.reg
+2,constraints.html.reg
+2,i71.html.reg
+2,keys.reg
+2,html_ajax.reg
+2,opdiaryplugin.reg
+2,MSFT_nxGroupResource.reg
+2,MSFT_nxEnvironmentResource.reg
+2,Cantilever-KLshell.reg
+2,Tencent.reg
+2,DemandLoad.reg
+2,13. Grass.reg
+2,16. Hurtado.reg
+2,Disable Home Group Provider service.reg
+2,Logon screen Text shadow.reg
+2,Disable automatic reboot when BSOD.reg
+2,Allow UntrustedHandlers.reg
+2,Remove ATI Context Menu.reg
+2,Add MSCONFIG to My Computer.reg
+2,Enable addition Avalon effects.reg
+2,Typing Long File Names In DOS.reg
+2,Only UAC for secure software.reg
+2,Remove Internet Options.reg
+2,Disable Remote Registry Service.reg
+2,Windows 8 dns leakage fix.reg
+2,tsmonservice_x86.reg
+2,aslr.reg
+2,reals.dot.reg
+2,liftingNestedConstraints.js.reg
+2,i199-afm-with-inhritance.js.reg
+2,reminder-modulo_division.js.reg
+2,ClaferTools_ToolingArchitecture.js.reg
+2,ClaferTools_CommandLineArguments.js.reg
+2,simpleConstraint.dot.reg
+2,2014_expansion_targets.reg
+2,CO_unregister_user.reg
+2,msdtc_pgxalib_tracing_disable.reg
+2,ov2643_720p_ycbcr-slow.reg
+2,add reg entry to trust db.reg
+2,KBDKGO.reg
+2,fortyninerToolsTextPad5.reg
+2,addPrinter.reg
+2,test08.reg
+2,shutdown.reg
+2,23. Liquid Carbon.reg
+2,50. Zenburn.reg
+2,Add Appearance.reg
+2,Clear Hide Inactive Icon History.reg
+2,Clear Search History.reg
+2,Disable Home Group Listener service.reg
+2,Disable wus background processes.reg
+2,Remove Registry Editor Option.reg
+2,Do not allow login screensaver.reg
+2,Remove MSConfig Option.reg
+2,Hiberboot disable.reg
+2,GSM.reg
+2,test_annuli_ciao.reg
+2,Disable Quick Access.reg
+2,i17.dot.reg
+2,paths.dot.reg
+2,i122-CVL.js.reg
+2,groupCardInheritance2.html.reg
+2,i137_parsing.dot.reg
+2,i23.dot.reg
+2,gi67-extending-nested-abstract.html.reg
+2,resolution.js.reg
+2,redefinition.als.reg
+2,NestedInheritanceAndReference2.js.reg
+2,EDM_Intro.dot.reg
+2,i40-text-equality.html.reg
+2,configure_inadyn_service_dyndns.reg
+2,pear_delegator.reg
+2,3.reg
+2,mid_sys.reg
+2,38. Solarized Light.reg
+2,net_dns.reg
+2,sftaskextraplugin.reg
+2,Universal take Ownership.reg
+2,Add Desktop Shortcuts at Top.reg
+2,Minumum password lengh of 8 chars.reg
+2,CloseCD context menu.reg
+2,Add Programs Option.reg
+2,Change logintext.reg
+2,Disable Auto Play.reg
+2,Settings.reg
+2,minAndMax.js.reg
+2,i50_stop_following_references.js.reg
+2,i70.dot.reg
+2,i275-uniqueNames.dot.reg
+2,navAndDeref.js.reg
+2,primitiveTypesAndCoersions.dot.reg
+2,i18.dot.reg
+2,i14.html.reg
+2,i81.js.reg
+2,ESC_FMCSA571.126-model.dot.reg
+2,i50_stop_following_references.dot.reg
+2,putty-eclectide.reg
+2,html_menu.reg
+2,configure_inadyn_service_freedns.reg
+2,opcommunitytopicplugin.reg
+2,opwebapiplugin.reg
+2,Apple Pro Keyboard Map.reg
+2,exact_p2.reg
+2,sfpropel15plugin.reg
+2,360.reg
+2,test03.reg
+2,07. Dark Pastel.reg
+2,24. Liquid Carbon Transparent.reg
+2,20. Igvita Light.reg
+2,gp_timer.reg
+2,Open NFO files with notepad.reg
+2,Add Desktop Shortcuts.reg
+2,Underline letters on right click.reg
+2,Force unlocked login.reg
+2,Remove Programs Option.reg
+2,Disable Screeensaver.reg
+2,Check roaming owner profiles.reg
+2,Remove Device Manager Option.reg
+2,real.reg
+2,i126-empty.js.reg
+2,personRelatives.dot.reg
+2,i199-afm-check.js.reg
+2,gi78-extending-nested-abstract.html.reg
+2,navAndDeref.dot.reg
+2,i122-CVL.dot.reg
+2,reals.html.reg
+2,ifthenelse.js.reg
+2,assertionsAndScopes.als.reg
+2,reminder-modulo_division.als.reg
+2,mergeExpAndSetExp.dot.reg
+2,i227-implicit-this-in-IR.html.reg
+2,i188-sum-quantifier.dot.reg
+2,telematics.html.reg
+2,i226-unary-minus.dot.reg
+2,winxp.reg
+2,DisableVSTestHost15.0.reg
+2,opauthmobileuidplugin.reg
+2,defender.reg
+2,Profile2.reg
+2,notepad.exe.reg
+1,LMI_Storage.reg
+1,association.reg
+1,es-es.reg
+1,nvic.reg
+1,dma_channel_selection.reg
+1,dma.reg
+1,associations-7zip.reg
+1,ShellItem.reg
+1,putty-lighter.reg
+1,RegistryCleaner.reg
+1,TCPTuning.reg
+1,VisualStudioDark.reg
+1,UXLanguages_Tokens_wow.reg
+1,edit-with-vim.reg
+1,numlock.reg
+1,Wheather2config.reg
+1,Office_Source_Engine.reg
+1,Tile_Data_model_server.reg
+1,Windows_Biometric_Service.reg
+1,ESIF_Upper_Framework_Service.reg
+1,Dsiable_BallonTipsNewDeviceInstall.reg
+1,Disable_Stickykeys.reg
+1,Cursor fri for DSR applications.reg
+1,Allow simultaneous connections.reg
+1,Fix Realtek crackling (workaround).reg
+1,Disable_TourPrompt.reg
+1,Disable_TSConnections.reg
+1,Enable Web Content on New Tab Page.reg
+1,Default (enabled).reg
+1,Add DISM (Restorehealth).reg
+1,google.reg
+1,Enable Create a system image.reg
+1,Brazilian Daniel voice.reg
+1,Workaround for Event ID 10016.reg
+1,Hide Account protection.reg
+1,Remove Default Apps in Context menu.reg
+1,IE 11 Ram Drive - Cache.reg
+1,Deactivate IE Adobe Flash.reg
+1,Disable DNS Multicast.reg
+1,Add Environment Variables.reg
+1,Enable Sync on metered_connections.reg
+1,systemdefault.reg
+1,ctfmom fix.reg
+1,Fast Deleting files.reg
+1,TCPIP_HostResolutionPriority.reg
+1,Unlock nViddia DCH Control Panel.reg
+1,SystemCacheDirtyPageThreshold.reg
+1,Add Classic Personalization.reg
+1,Removal.reg
+1,xcomdoc..reg
+1,eventlog.reg
+1,Enable Details Pane.reg
+1,WinMerge_for_TFS_VS2010_x86.reg
+1,remove_mycomputer_icons.reg
+1,Bespin.reg
+1,DisableVSIPLoggingVS2010.reg
+1,enable_aliases.reg
+1,auth_radius.reg
+1,xml_cssml.reg
+1,crab_nebula_9regions.reg
+1,casa_multiple.reg
+1,console2.reg
+1,explorer.favorite.hide.reg
+1,removeRGA.reg
+1,rga_stub_remove.reg
+1,multi.reg
+1,html_quickform_advmultiselect.reg
+1,Rectangle-p2_penalty_CH.reg
+1,Miehe71_FDporo.reg
+1,057-159714840-DSx1.jpg.centroid.reg
+1,103-159713827-DSx1.jpg.centroid.reg
+1,RegisterContextMenu.reg
+1,thg-cmenu-he.reg
+1,i49_resolve_ancestor.py.reg
+1,disableLCIE.reg
+1,UnregisterMyMeta12.reg
+1,apagar.reg
+1,New Registry Setup.reg
+1,discovermdi.reg
+1,windows_localdomain.reg
+1,Install PowerShell here.reg
+1,SmallComp.reg
+1,MaterialMultiple.reg
+1,Annulus2D.reg
+1,Annulus3D.reg
+1,svndelete.reg
+1,win16.reg
+1,setupProtocolHandlers.reg
+1,winxp_webdav.reg
+1,PRG3_beforecuts.reg
+1,PRG1_aftercuts.reg
+1,cclboss.reg
+1,httpfirefox64.reg
+1,exodep.reg
+1,CurrentControlSet_Control_Video.reg
+1,pearified.com.reg
+1,zbandinit.reg
+1,cortana_disable.reg
+1,openvpn_autoconnect.reg
+1,WOR_Dentist_Config.reg
+1,instant_share.reg
+1,6b.reg
+1,1c.reg
+1,N0tch2k.reg
+1,Builtin Solarized Light.reg
+1,Fideloper.reg
+1,Ollie.reg
+1,Monokai Vivid.reg
+1,Earthsong.reg
+1,Settings-Disable.reg
+1,SecurityAndMaintenance-Enable.reg
+1,Cortana.reg
+1,Expenditure.reg
+1,relay 1 on.reg
+1,tmp_eventually04.als.reg
+1,tmp_Global03.html.reg
+1,tmp_transitionconstraintguard02.als.reg
+1,tmp_clafertransitions01.als.reg
+1,tmp_after01.html.reg
+1,tmp_Global01.html.reg
+1,SetWinApp1+2.reg
+1,Win8_ALT-F4_Default-Sign_Out.reg
+1,Default-Hide_File_Extensions.reg
+1,disable_spectre_mitigations.reg
+1,addopencmdhere.reg
+1,circ_R1B30.reg
+1,rootpath.reg
+1,Emacs-W32.reg
+1,chrome_windows.reg
+1,c16p23+0p06_NE_D1_coords_corrected.reg
+1,C234p2+24p4_NW_D2_coords.reg
+1,C203p83+41p00_SW_D2_coords.reg
+1,c319p70+0p56_NW_D1_coords_corrected.reg
+1,C234p2+24p4_SW_D2_coords_corrected.reg
+1,C322p51-0p35_SE_D2_coords_corrected.reg
+1,C260p61+32p13_SE_D2_coords.reg
+1,c354p41+0p27_NE_D3_coords_corrected.reg
+1,c322p51-0p35.reg
+1,c16p23+0p06_NW.reg
+1,C250p08+46p7_SE_D3_coords.reg
+1,brctif2png.reg
+1,setup_windows_webdav_23.0.reg
+1,Disable Xbox DVR.reg
+1,edit with vim.reg
+1,pt-br.reg
+1,MyIE.reg
+1,WE-Markdown.PrinterSetup.reg
+1,Panda Pustaka.reg
+1,vsCodeAddRight.reg
+1,RemoveCustomKeyMappings.reg
+1,spi.reg
+1,Use classic search in explorer.reg
+1,vista_StopHijackingMySleepButton.reg
+1,emulab-mime-winxp.reg
+1,regAlias.reg
+1,AddExtensions.reg
+1,DiskView.reg
+1,disable_regedit.reg
+1,StockChartWithDll.reg
+1,test02_1_fk5.reg
+1,Hyper-V_Heartbeat_Service.reg
+1,Network_Setup_Service.reg
+1,Windows_Defender_Service.reg
+1,Windows_Installer.reg
+1,Delivery_Optimization.reg
+1,Host_Network_Service.reg
+1,IPsec_Policy_Agent.reg
+1,copyAsPath.reg
+1,Disable_BrokenLinkTracking.reg
+1,Disable TLS 1.1.reg
+1,Enable Pin to taskbar.reg
+1,ChangeTempFolder.reg
+1,IE_Disable_PersistentCache.reg
+1,Restore Default DPI.reg
+1,Remove Disk Cleanup to Context Menu.reg
+1,fixexeopenwith.reg
+1,Autodesk 360 drive.reg
+1,Disable Telemetry suggestions.reg
+1,Disable Power Throttling.reg
+1,Explorer_NoOpenTreeOnClick.reg
+1,Explorer_SeperateProcess.reg
+1,Disable Cortana floating Search bar.reg
+1,Explorer with Ribbon Expanded.reg
+1,Automatic memory dump.reg
+1,Enable show taskbar on all displays.reg
+1,TCPIP_Tweaks.reg
+1,RestoreWindowsUpdateOLDVersion.reg
+1,Network folder.reg
+1,Disable ATMFD.reg
+1,Desktop and Shutdown.reg
+1,Disable_ScanWithAntiVirus.reg
+1,Enable Tritanopia.reg
+1,Disable Timeline.reg
+1,MenuShowDelay.reg
+1,Show Bookmarks Bar on New Tab Page.reg
+1,Explorer_NoNetHood.reg
+1,Add Pin to Start Menu.reg
+1,Restore Details Tab.reg
+1,Enable Windows Connection Manager.reg
+1,StobjectFromImages.reg
+1,Always show address bar in Edge.reg
+1,Shift + Presentation Settings.reg
+1,Disable sync.reg
+1,RestrictAnonymous.reg
+1,DNSCache_Tweaks.reg
+1,ZipFolders.reg
+1,Enable new file dates.reg
+1,Restore Documents To This PC 64-bit.reg
+1,MfcTableApp.reg
+1,tiger.reg
+1,wvtston.reg
+1,Rosipov.reg
+1,bpm_xy34.reg
+1,h_cyg_acc.reg
+1,T1546.010.reg
+1,fashion.reg
+1,i18.py.reg
+1,i71.py.reg
+1,1920x1200.reg
+1,3-2 - 720x480.reg
+1,WindowMetrics-classic-fonts.reg
+1,mailto_basic.reg
+1,win-context-menu-emacs.reg
+1,Outlook2013.reg
+1,directplay-win64.reg
+1,SetExecutionPolicyUnrestricted.reg
+1,HingedShallowArch-p2.reg
+1,Beam+KLcyl-p3.reg
+1,Cantilever-p3-restart.reg
+1,CanTS2D-p1-VCPs.reg
+1,Leviathan_Context_Remove.reg
+1,multdiv.reg
+1,rightkey.reg
+1,CxRun.reg
+1,vb6controls.reg
+1,vjcommentplugin.reg
+1,emacscfg.reg
+1,disable-credential-provider.reg
+1,autologon.reg
+1,ibandinit.reg
+1,del_invalid_files.reg
+1,chrome-add-reverse.reg
+1,3c.reg
+1,Arthur.reg
+1,IR_Black.reg
+1,Chalkboard.reg
+1,Broadcast.reg
+1,Elemental.reg
+1,Highway.reg
+1,BirdsOfParadise.reg
+1,OneHalfDark.reg
+1,Photos-Enable.reg
+1,News-Enable.reg
+1,Mail.reg
+1,Comment.reg
+1,FileExts.reg.reg
+1,Kindmap.reg.reg
+1,kitty-colors.reg
+1,putty-config.reg
+1,relay 3 on.reg
+1,registerset_all_on.reg
+1,custom_right_click_menu_in_win7.reg
+1,pteid_registry.reg
+1,tmp_transitionconstraint04.als.reg
+1,tmp_W01.html.reg
+1,Add-Open_PowerShell_Here-Expanded.reg
+1,Disable-Updates_Auto_Reboot.reg
+1,Default-Last_Active_Taskbar_Click.reg
+1,Enable-Instant_Aero_Peek.reg
+1,Default-Mouse_Sensitivity.reg
+1,Default-Updates_Hijacking_Shutdown.reg
+1,sfprototypetooltipplugin.reg
+1,geforce-timeout-patch.reg
+1,base.reg
+1,install_lync_plugin_as_application.reg
+1,Test Services.reg
+1,restore-windows-photo-viewer.reg
+1,jpegrecomp-register.reg
+1,OpenWithNotepad++.reg
+1,c319p70+0p56_SE.reg
+1,c328p59+0p62.reg
+1,C203p83+41p00_NE_D1_coords.reg
+1,c328p33+0p19_SW_D3_coords_corrected.reg
+1,C215p8+16p4_NE_D1_coords.reg
+1,C234p2+24p4_SW.reg
+1,c355p28+0p31.reg
+1,c354p41+0p27_NE_D2_coords_corrected.reg
+1,auto-mount.reg
+1,ThemeDarkVS.reg
+1,str_line.reg
+1,capslock.reg
+1,open_cmd.reg
+1,DiableFIPSPolicy.reg
+1,COM+_Event_System.reg
+1,Work_Folders.reg
+1,Auto_Time_Zone_Updater.reg
+1,Storage_Tiers_Management.reg
+1,Network_Connections.reg
+1,Payments_and_NFC-SE_Manager.reg
+1,Client_License_Service.reg
+1,Xbox_Live_Auth_Manager.reg
+1,sftaskloggerplugin.reg
+1,Heavenly.reg
+1,PaperColor-Dark.reg
+1,AutoConnectAllowedOEM.reg
+1,Remove all context menu entries.reg
+1,Turn OFF TruePlay.reg
+1,Add SEC NVMe Idle Timeout.reg
+1,ShellNew.reg
+1,Enable Narrator QuickStart.reg
+1,Enable Deuteranopia.reg
+1,Always ask before sending data.reg
+1,Enable Network Location Wizard.reg
+1,Remove System Protection.reg
+1,Disable_PassportCreationPrompt.reg
+1,SecondLevelDataCache.reg
+1,Disable_SimpleShares.reg
+1,Enable verbose service messages.reg
+1,Add GodMode into My Computer.reg
+1,Disable Store time as UTC.reg
+1,IoPageLockLimit.reg
+1,Enable save passwords.reg
+1,Disallow apps using cellular data.reg
+1,Enable_Prefetcher.reg
+1,Disable_UAC.reg
+1,Enable Windows Error Reporting.reg
+1,Disable_WMILogging.reg
+1,Enable theme syncing.reg
+1,Add context menu (Shift).reg
+1,Services.reg
+1,Hide Device security.reg
+1,Enable Negative Scaling.reg
+1,PerfEnablePackageIdle.reg
+1,Disable passwords sync.reg
+1,Remove  x86 Open here context menu.reg
+1,Remove New Context Menu entry.reg
+1,Remove x64 Open here context menu.reg
+1,Disable front panel detection.reg
+1,topic2_resampled.nii.gz.reg
+1,Add Snipping Tool to Login Screen.reg
+1,wine.reg
+1,VS 2005 LoadMacroProject RJK_InDn.reg
+1,EnableVSIPLoggingVS2010.reg
+1,rga_rguninst.reg
+1,model.reg
+1,menu_remove.reg
+1,win7-8-dst-patch.reg
+1,reset.reg
+1,references-in-bound-identifiers.py.reg
+1,i188-sum-quantifier2.py.reg
+1,Coadded_copy_Good1_shifted_compare.reg
+1,Add to context menu.reg
+1,Plugin.reg
+1,DisableCortana.reg
+1,sardine_w64.reg
+1,MSFT_nxOMSSyslogResource.reg
+1,restore_open_cmd_here_for_windows10.reg
+1,Cylinder-Spectral.reg
+1,PolePinchedSphere_p2.reg
+1,Beam+Uprofil-p2.reg
+1,Hole2D-immS2-p1.reg
+1,Bolt.reg
+1,httpfirefox.reg
+1,SET1337.reg
+1,6a.reg
+1,8b.reg
+1,stofcplugin.reg
+1,playvideo.reg
+1,setupEmacsPath.reg
+1,duotone-darkspace.reg
+1,UsbDk-Autologger-On.reg
+1,Spring.reg
+1,VibrantInk.reg
+1,Material.reg
+1,BlulocoLight.reg
+1,Monokai Soda.reg
+1,CrayonPonyFish.reg
+1,Solarized Light.reg
+1,Belafonte Day.reg
+1,OneDrive-Disable.reg
+1,FileExt.txt.reg
+1,hex.reg
+1,clientes.reg
+1,international keyboards.reg
+1,SUSE_SystemOwnerRegistraionSFCB.reg
+1,tmp_next02.html.reg
+1,tmp_transitionconstraint01.als.reg
+1,tmp_W01.dot.reg
+1,tmp_next01.als.reg
+1,tmp_before01.dot.reg
+1,tmp_Global04.dot.reg
+1,tmp_next05.dot.reg
+1,tmp_afteruntil01.dot.reg
+1,Run.reg
+1,VolFlux.reg
+1,https_userchoice_to_delegateBrowser.reg
+1,windows-taskbar-icon-fix.reg
+1,powershell-context-menu.reg
+1,C234p2+24p4_SW_D3_coords.reg
+1,C215p8+16p4_SW_D2_coords.reg
+1,C260p61+32p13_NE.reg
+1,C234p2+24p4_SE.reg
+1,C250p08+46p7_NW_D1_coords_corrected.reg
+1,C234p2+24p4_NW_D3_coords.reg
+1,163347.2+571510.15_NW.reg
+1,c260p61+32p13.reg
+1,XMMXCSJ125650.2+254803.2_NW.reg
+1,c328p33+0p19_SW_D1_coords_corrected.reg
+1,C250p08+46p7_SW_D3_coords.reg
+1,C203p83+41p00_NW_D1_coords.reg
+1,c240p82+3p27.reg
+1,c328p33+0p19_SE_D3_coords_corrected.reg
+1,c319p70+0p56_NW.reg
+1,C234p2+24p4_NW_D3_coords_corrected.reg
+1,Chinese-IME-Qwerty.reg
+1,Explorer_ThisPCFolders_Hide.reg
+1,setup_windows_webdav_22.0.reg
+1,MyComm.reg
+1,JbstIcon.reg
+1,PotterDraw.reg
+1,html_tagcloud.reg
+1,show_windows_version_on_desktop.reg
+1,winXP-10_disable_all_balloon_tips.reg
+1,template.reg
+1,32bit_ie11.reg
+1,espressotutti.reg
+1,BOOT_0.reg
+1,win_chrome_manual_policy.reg
+1,arm.reg
+1,System_Event_Notification_Service.reg
+1,Windows_Firewall.reg
+1,Spot_Verifier.reg
+1,Software_Protection.reg
+1,COM+_System_Application.reg
+1,regupdate.reg
+1,Enable Timeline.reg
+1,Disable Java Auto-Update.reg
+1,Remove Windows 10 BSoD.reg
+1,Enable Show more tiles.reg
+1,Enable Tabs (Sets).reg
+1,RemoveFoldersMyComp.reg
+1,Enable Do not Track.reg
+1,Disable taskbar context menus.reg
+1,DelayedDesktopSwitchTimeout.reg
+1,Turn ON mono audio.reg
+1,Enable Dithering.reg
+1,Resize Metro Apps to Any Size.reg
+1,secdrv.reg
+1,Every week (all users).reg
+1,Enable Certificate Error Overrides.reg
+1,Disable swapfile.sys.reg
+1,Disable App suggestions.reg
+1,Remove Customize tab.reg
+1,UnhidePowerControls.reg
+1,Windows Defender Icon.reg
+1,Add WIM righ tclick.reg
+1,Add Run as Different User.reg
+1,Enable shortcut bar.reg
+1,Block Firefox About pages.reg
+1,AutoEndTasksQuicker.reg
+1,Disable_LowDiskSpaceCheck.reg
+1,download_mode_off.reg
+1,utc.reg
+1,lab.gekosale.pl.reg
+1,squirrelmail.mailto.NT2KXP.reg
+1,Enable-GoogleChrome-AutoUpdate.reg
+1,P4win.reg
+1,pks.reg
+1,AddVSCodeShellExtensions.reg
+1,bpm_xy00.reg
+1,crypt_xtea.reg
+1,crypt_rc4.reg
+1,http_upload.reg
+1,html_css.reg
+1,file_htaccess.reg
+1,explorer.favorite.show.reg
+1,setRGUNINST.reg
+1,gamehouse reg tree.reg
+1,Rectangle-p2_CH.reg
+1,119-175707767-DSx1.jpg.centroid.reg
+1,067-159714840-DSx1.jpg.centroid.reg
+1,043-159713827-DSx1.jpg.centroid.reg
+1,cmd-window-here.reg
+1,thg-cmenu-da.reg
+1,personRelatives.py.reg
+1,regfile.reg
+1,1920x1440.reg
+1,Unreg_Unicode_ArcGIS10.reg
+1,sageset_64.reg
+1,DisableOnedriveAds.reg
+1,sfassetslibraryplugin.reg
+1,MSFT_nxIPAddressResource.reg
+1,SetExecutionPolicyRemoteSigned.reg
+1,CanTS2D-p2-restart.reg
+1,SSbeamPointLoad-project-file.reg
+1,NavierPress_p2.reg
+1,CanTD2D-p1.reg
+1,NavierPart_p3.reg
+1,Setup_Emacs_Home.reg
+1,PRG1_F140W_10arcsec_beforecuts.reg
+1,run_editor.reg
+1,synaptics-middle-click.reg
+1,new.reg
+1,RCP_UnixProcess.reg
+1,php_codesniffer.reg
+1,putty_color_set.reg
+1,monokai_ext.reg
+1,RCP_HttpdHostedAccessPoint.reg
+1,pear.phpkitchen.com.reg
+1,SystemCrash.reg
+1,SDSSJ0951+2635_10x10arcsec_init.reg
+1,ChangxipuAdmin.reg
+1,C64.reg
+1,MonaLisa.reg
+1,Desert.reg
+1,AlienBlood.reg
+1,Brogrammer.reg
+1,WarmNeon.reg
+1,Jackie Brown.reg
+1,4_43_to_4_45.reg
+1,OneDrive.reg
+1,basregau.reg
+1,emacs-shell-cleanup.reg
+1,SetupShellExt.reg
+1,tmp_next02.als.reg
+1,tmp_initially02.html.reg
+1,tmp_transitionconstraint04.html.reg
+1,tmp_liftingNestedConstraints.als.reg
+1,tmp_finally02.als.reg
+1,tmp_initially01.dot.reg
+1,tmp_TrafficLight1.als.reg
+1,tmp_Global05.html.reg
+1,MPC-HC-settings.reg
+1,Default-Aero_Shake.reg
+1,dark-sol.reg
+1,tutexam_hkcu.reg
+1,avec-v1.3.reg
+1,Neovim.reg
+1,man-page.reg
+1,num.reg
+1,C260p61+32p13_SW.reg
+1,c354p41+0p27_NW_D2_coords_corrected.reg
+1,C260p61+32p13_SE.reg
+1,C322p51-0p35_SE_D3_coords_corrected.reg
+1,c250p08+46p7.reg
+1,C322p51-0p35_NE.reg
+1,C322p51-0p35_NE_D1_coords_corrected.reg
+1,grunt.reg
+1,setup_windows_webdav_author_18.0.reg
+1,SampleProjectors.reg
+1,MIMEType.reg
+1,image_graph.reg
+1,EnableUserDumps.reg
+1,take-screenshot.reg
+1,enable_command-prompt_auto-complete.reg
+1,bf2_x86.reg
+1,LAT_extended_sources_8years.reg
+1,NodeJS.reg
+1,MFCAutoClient1.reg
+1,test03_fk5.reg
+1,test03_img.reg
+1,Microsoft_Passport_Container.reg
+1,Microsoft_Passport.reg
+1,Network_List_Service.reg
+1,Interactive_Services_Detection.reg
+1,NtfsDisableLastAccessUpdate_ON.reg
+1,CrystalReports13_PDFExport.reg
+1,Enable Show most used apps.reg
+1,Add Settings to Control Panel.reg
+1,Enable detailed Battery stats.reg
+1,WMP Skipps.reg
+1,Enable Saving History.reg
+1,Allow writes.reg
+1,Disable Startup Sound.reg
+1,Disable Sign In and Sync.reg
+1,Disable SMB Port 445.reg
+1,IE7_PlaceMenubarAtTop.reg
+1,Enable GetWindows 10.reg
+1,Manual Application Information.reg
+1,Enable Font smoothing.reg
+1,Disable Port 1900 UPnP.reg
+1,Dr.Watson.reg
+1,Disable Lock Icon Moving.reg
+1,Enable Sets (all users).reg
+1,Remove Intel Graphics Control Panel.reg
+1,MS Edge (Chromium)  GPO example.reg
+1,Remove DTS.reg
+1,Disable_MouseAccel.reg
+1,Disable RC4.reg
+1,Disable Push To Install apps.reg
+1,Enable Biometrics.reg
+1,Completely disable windows defender.reg
+1,CPU.reg
+1,FirstRunIE.reg
+1,Disable Font smoothing.reg
+1,Disable Narrator QuickStart.reg
+1,Disable SSL 3.0.reg
+1,Enable Screen Saver.reg
+1,Title Bar Reducer.reg
+1,Use_Sideload_apps_developer_feature.reg
+1,bla.reg
+1,RemoveContextMenu.reg
+1,RCW49.reg
+1,specz.reg
+1,windows_jar_association.reg
+1,3024.reg
+1,bpm_xy23.reg
+1,TeamInfoON.reg
+1,explorer.network.show.reg
+1,rga_stub_bypass.reg
+1,removeDMG.reg
+1,LplsShlx64-enable-convert-menu.reg
+1,bwu.reg
+1,pade.stream.deck.json.reg
+1,ts1-50x40-Miehe_FD.reg
+1,thg-cmenu-ca.reg
+1,thg-cmenu-en_GB.reg
+1,layout.py.reg
+1,i121-comments.py.reg
+1,i50_stop_following_references.py.reg
+1,i147-ref-disambiguation.py.reg
+1,i199-afm-check.py.reg
+1,i144-if-then-else.py.reg
+1,German.reg
+1,640x480.reg
+1,9-5 - 2160x1200.reg
+1,IISxpressLoadPriority_Low.reg
+1,cmd-colors-solarized.reg
+1,Proxi.reg
+1,dfmsearch.reg
+1,logging-on.reg
+1,launch_timeout_registry_fix.reg
+1,remove_shortcut_text.reg
+1,omsconfig.reg
+1,MSFT_nxOMSAutomationWorkerResource.reg
+1,Change3389to55599.reg
+1,ScordelisPoint-NURBS.reg
+1,Cylinder-Axisymm.reg
+1,Rad Studio Tokyo Monokai Theme.reg
+1,PRG2_12arcsec_aftercuts.reg
+1,UninstallCommand2Control.reg
+1,brtest2.reg
+1,visualstudio.sharpmake.reg
+1,WmcSoft.CodeGenerator.reg
+1,HKUPerioUpdate.reg
+1,IE11_config.reg
+1,7b.reg
+1,5c.reg
+1,UsbDk-Autologger-Off.reg
+1,Wez.reg
+1,ForestBlue.reg
+1,Ryuuko.reg
+1,Chalk.reg
+1,Man Page.reg
+1,Hopscotch.256.reg
+1,AtomOneLight.reg
+1,Settings-Enable.reg
+1,Calendar-Disable.reg
+1,Calendar-Enable.reg
+1,unc.reg
+1,4_69_to_4_71.reg
+1,InstallWin32ProtocolHandler.reg
+1,_FileExts.reg
+1,.h.t.m.reg
+1,dverty.reg
+1,SUSE_SystemOwnerRegistraionPegasus.reg
+1,tmp_transitionconstraintguard01.dot.reg
+1,tmp_initially02.dot.reg
+1,Painter.reg
+1,Plaxis1DVerif-LR.reg
+1,2set3set.reg
+1,BreakOnSysRq.reg
+1,TotalCmdContextMenu.reg
+1,papirus-dark.reg
+1,C210p2+02p8_SE_D1_coords_corrected.reg
+1,124425.9+164758.0_NW.reg
+1,C234p2+24p4_SE_D3_coords.reg
+1,C234p2+24p4_NE_D2_coords.reg
+1,c319p70+0p56_SW.reg
+1,C234p2+24p4_SE_D3_coords_corrected.reg
+1,setup_windows_webdav_18.1.reg
+1,msraurl.reg
+1,it.reg
+1,XpertMillInstall.reg
+1,timo.reg
+1,my_register.reg
+1,Install_01.reg
+1,Install_02.reg
+1,HomeFolderDesktop.reg
+1,ContextMenu_Uninstall.reg
+1,CCSwisssys2.reg
+1,disable_weak_ciphers.reg
+1,Windows_Audio.reg
+1,Data_Usage.reg
+1,Device_Association_Service.reg
+1,Power.reg
+1,Embedded_Mode.reg
+1,CNG_Key_Isolation.reg
+1,Net_RPCPacketSize.reg
+1,Disable_AutoRun.reg
+1,Disable Reserved Storage.reg
+1,Remove SFC SCANNOW.reg
+1,Explorer_ShowStausbar.reg
+1,Disable suggestions in Start menu.reg
+1,Add Accounts Settings Context Menu.reg
+1,Enable Hide restart dialogue.reg
+1,Disable_TaskbarGlomming.reg
+1,Remove Dropbox context menu.reg
+1,DisableAC.reg
+1,Always enable Favorites Bar.reg
+1,No Lock Screen.reg
+1,Add back missing tray icon.reg
+1,Remove Open in Visual Studio (2017).reg
+1,Disable DNSCache.reg
+1,CompressOldFiles.reg
+1,Add Sync Center.reg
+1,Command Prompt.reg
+1,EnableWebContentEvaluation.reg
+1,Add VBS Run as administrator.reg
+1,MyComputerZone.reg
+1,Enable non-critical Notifications.reg
+1,WMP-ContextMenuItems.reg
+1,Add Pin to Start context menu.reg
+1,optimized.reg
+1,Supress notifications.reg
+1,Remove Secure Delete to Recycle Bin.reg
+1,Explorer_FullPath.reg
+1,BSplayer.reg
+1,Enable Aero with Blur.reg
+1,Webcam workaround.reg
+1,Add all apps list to Start Menu.reg
+1,CMD.reg
+1,time.reg
+1,iterm2.reg
+1,ensembl.reg
+1,enable_text_prediction.reg
+1,atomscript.reg
+1,coadd_template.edgemask.reg
+1,Xoria.reg
+1,1.-fix-ssl-2.0-vulnerability.reg
+1,KernelMode.reg
+1,Install-Newsid.reg
+1,_Win_8_Multi_Changes.reg
+1,net_smartirc.reg
+1,dbx.reg
+1,tycho.reg
+1,explorer-columns.reg
+1,ra3_amg_hack_chickinvaders4.reg
+1,rawk_licensekeys.reg
+1,rgs_context_menu.reg
+1,save.reg
+1,VS2012InterfaceToModel.reg
+1,099-175707767-DSx1.jpg.centroid.reg
+1,i228-this-and-parent-types.py.reg
+1,i40-text-equality.py.reg
+1,0. Very Low.reg
+1,m33_bricks.reg
+1,win98pwdcache.reg
+1,passearch.reg
+1,aliases_install.reg
+1,remove-java-preferences.reg
+1,wsh_64bit.reg
+1,wine_fontsubstitutes_wqymicrohei.reg
+1,circ_P2.reg
+1,Win10_DisableAntiSpyware.reg
+1,5mrtg.reg
+1,pscp.reg
+1,SDKv7.1A.reg
+1,TightVNC-del.reg
+1,SSUprofil-p1.reg
+1,RemoteDesktop_SuppressWhenMinimized.reg
+1,OpenToPc.reg
+1,PRG1_10arcsec_aftercuts.reg
+1,addi.reg
+1,sficalcreatorplugin.reg
+1,MediaImporter-dir.reg
+1,ArcGIS 10.1 - Python 2.7.reg
+1,pmgravatarplugin.reg
+1,HLM_privoxy.reg
+1,ntp.reg
+1,duotone-darkheath.reg
+1,remap_caps_lock_to_ctrl.reg
+1,Tomorrow Night Bright.reg
+1,Thayer Bright.reg
+1,Ocean.reg
+1,LiquidCarbonTransparent.reg
+1,Square.reg
+1,Afterglow.reg
+1,copylink.reg
+1,Cortana-Disable.reg
+1,Mail-Disable.reg
+1,Edge-Enable.reg
+1,ACDC_JPG.reg
+1,TechInfo.Rus.reg
+1,Privacy & Security.reg
+1,App - Edge.reg
+1,Anwendung - 7-Zip.reg
+1,lh.benson14_retinotopy.v4_0.sphere.reg
+1,showsel.reg
+1,tmp_DefaultGlobal.js.reg
+1,tmp_eventually02.als.reg
+1,tmp_next04.dot.reg
+1,Add-Desktop_ControlPanel.reg
+1,Default-Updates_Auto_Reboot.reg
+1,open in tc.reg
+1,sfujsplugin.reg
+1,syswow64_regkey.reg
+1,idletoes.reg
+1,putty-solarized-light.reg
+1,c319p70+0p56_SW_D2_coords_corrected.reg
+1,c328p33+0p19_NE_D1_coords_corrected.reg
+1,C215p8+16p4_NE.reg
+1,C215p8+16p4_NW.reg
+1,C210p2+02p8_NE_D2_coords_corrected.reg
+1,c328p33+0p19_NW.reg
+1,c354p41+0p27_SW_D2_coords_corrected.reg
+1,C234p2+24p4_SW_D3_coords_corrected.reg
+1,124425.9+164758.0_NE.reg
+1,SysWOW.reg
+1,PilRc_PRCExp.reg
+1,DNSCrypt_example.reg
+1,mips.reg
+1,Remote_Registry.reg
+1,Storage_Service.reg
+1,Application_Information.reg
+1,BitLocker_Drive_Encryption_Service.reg
+1,Data_Sharing_Service.reg
+1,017.Windows_Universal_Time-On.reg
+1,Network_Location_Awareness.reg
+1,Extensible_Authentication_Protocol.reg
+1,Tweak for High Performance Profile.reg
+1,Remove Games.reg
+1,Disable_AutoMountNetDrives.reg
+1,Show hidden files in Explorer.reg
+1,IconHandlerJobObject.reg
+1,Disable MMX (default).reg
+1,Disable_ProtectedAudioDG.reg
+1,Disable NetBios for all Interfaces.reg
+1,Security_HTTP.reg
+1,Disable GameDVR.reg
+1,Enable CCleaner CCHealthCheckOff.reg
+1,Remove msconfig from Control Panel.reg
+1,Disable_SFC.reg
+1,IE_P3P_1004.reg
+1,Disable_AutoAdminShares.reg
+1,Remove Boot to Advanced Startup.reg
+1,Deactivate (patched BIOS installed).reg
+1,Explorer_DisableThumbnailCache.reg
+1,Disable_LanManServerAutoShare.reg
+1,Disable Tritanopia.reg
+1,Restrict Thunderbolt 2.reg
+1,Enable Default Apps in Context Menu.reg
+1,IEicon.reg
+1,Disable Maintenance.reg
+1,MediaPreview.reg
+1,Change Windows default fonts.reg
+1,ImgBurn.reg
+1,Add SFC SCANNOW.reg
+1,Ennable SMB3 compression.reg
+1,PreviousVersions.reg
+1,Rootsupd_Fix.reg
+1,RecycleBinDiskSize.reg
+1,Enable LockscreenBlur.reg
+1,Restore DTS.reg
+1,LBCPUMon-AliveLoggingActivation.reg
+1,putty_zsh_reg.reg
+1,au_4.reg
+1,RegKey.reg
+1,cli.reg
+1,Remove zip files as folders.reg
+1,RegisterNFC.reg
+1,idl.reg
+1,convert.reg
+1,nicer_saa.reg
+1,config.native.reg
+1,a2142.reg
+1,SolarizedLight.reg
+1,WinCtl-Menu-Uninstall.reg
+1,stdResults7.reg
+1,magick.reg
+1,enable_UTC_Windows.reg
+1,math_fibonacci.reg
+1,image_iptc.reg
+1,mail_queue.reg
+1,db_pager.reg
+1,crab_nebula_13regions.reg
+1,PowerMenu.reg
+1,adobe-4k-monitor-fix.reg
+1,unreg_path.reg
+1,Tetris.reg
+1,123-159713827-DSx1.jpg.centroid.reg
+1,thg-cmenu-cs.reg
+1,thg-cmenu-pl.reg
+1,thg-cmenu-zh_CN.reg
+1,thg-cmenu-fr.reg
+1,3. High.reg
+1,1600x900.reg
+1,adobe.reg
+1,cmd-font.reg
+1,notepad.reg
+1,my3-fonts.reg
+1,images_to_pdf.reg
+1,sardine.reg
+1,cleanreg.reg
+1,x264vfw_cfg.reg
+1,porttalk.reg
+1,Restore_wuauserv.reg
+1,IE_Rondo-ACTIVEX.reg
+1,ChromeBlockSTUN.reg
+1,directsound-latency.reg
+1,CxDev.reg
+1,RCP_HttpdSettingData.reg
+1,OpenWithContext.reg
+1,ALBW.reg
+1,ubu-image.reg
+1,GioTest.reg
+1,1out.reg
+1,filter.reg
+1,01_ref_Mergeide.reg
+1,duotone-darksea.reg
+1,Nocturnal Winter.reg
+1,Gruvbox Dark.reg
+1,Builtin Light.reg
+1,Neopolitan.reg
+1,Kibble.reg
+1,3024 Night.reg
+1,Urple.reg
+1,Registry (64 bit).reg
+1,MSPaper.Document.reg
+1,mplayerc.3gp.reg
+1,tmp_DefaultGlobal.html.reg
+1,tmp_combinedEGX02.dot.reg
+1,tmp_transitionconstraint02.dot.reg
+1,Firewallmenu.reg
+1,Win8_ALT-F4_Default-Switch_User.reg
+1,Add-Open_Command_Window_Here.reg
+1,revert.reg
+1,expanded.reg
+1,khadafy.reg
+1,nk2set.reg
+1,monokai-stevelosh.reg
+1,cc_20130705_215913.reg
+1,DWrite.reg
+1,bf_failover_relay.reg
+1,XMMXCSJ125650.2+254803.2_SE.reg
+1,c16p23+0p06_SW.reg
+1,C215p8+16p4_NW_D1_coords_corrected.reg
+1,C215p8+16p4_SW.reg
+1,c328p33+0p19_NE.reg
+1,c354p41+0p27_NW_D1_coords_corrected.reg
+1,C322p51-0p35_NW_D2_coords_corrected.reg
+1,c354p41+0p27_SE_D3_coords_corrected.reg
+1,C250p08+46p7_NE_D3_coords.reg
+1,C250p08+46p7_NE_D1_coords.reg
+1,C322p51-0p35_SE.reg
+1,C203p83+41p00_NE_D3_coords.reg
+1,C215p8+16p4_SE_D2_coords_corrected.reg
+1,C215p8+16p4_SE_D2_coords.reg
+1,c319p00+0p25.reg
+1,C250p08+46p7_NE_D2_coords_corrected.reg
+1,register_neovim.reg
+1,setup_windows_webdav_author_17.1.reg
+1,de.reg
+1,Scancode Map Undo.reg
+1,Scancode Map AltWinCtrl.reg
+1,disable_office_adal.reg
+1,sys_tick.reg
+1,dac.reg
+1,disable_Tray_Balloon_Notifcations.reg
+1,win7_shrink_window_borders.reg
+1,win7_enable_tcpipv6.reg
+1,registerAsDefaultBrowser.reg
+1,64bit_ie11.reg
+1,deuac.reg
+1,excel32.reg
+1,Demons.reg
+1,Performance_Counter_DLL_Host.reg
+1,Cryptographic_Services.reg
+1,Local_Session_Manager.reg
+1,Hyper-V_Virtual_Machine_Management.reg
+1,007.Disable_System_Restore.reg
+1,WLAN_AutoConfig.reg
+1,reg_entry.reg
+1,sigma.reg
+1,openIpythonHere.reg
+1,Disable Activity history.reg
+1,Add Customize tab.reg
+1,Minimize Narrator Home to Taskbar.reg
+1,Enable Run Dialog Box (all users).reg
+1,Disable_WindowsInstallerRemote.reg
+1,Increase responsiveness.reg
+1,Increase Icon Cache to 4MB.reg
+1,Default (removed).reg
+1,Enable all Notifications.reg
+1,Disable Edge Flash.reg
+1,Enable verbose logon.reg
+1,AccessibilityOptions.reg
+1,Disable Certificate Error Overrides.reg
+1,Disable Office 2016 Account lockout.reg
+1,wpad additional.reg
+1,Enable Windows Features.reg
+1,Force PCIE Gen 3 in Windows 10.reg
+1,Disable CCleaner CCHealthCheckOff.reg
+1,Disable Sync on metered_connections.reg
+1,Enable Location (default).reg
+1,Trigger a Windows 10 BSoD.reg
+1,Disable online Narrator services.reg
+1,Remove Sign-out Button.reg
+1,Change Owner.reg
+1,Disable telemetry.reg
+1,Add x64 Open here context menu.reg
+1,Disable_NoSaveSettings.reg
+1,Disable color filters hotkey.reg
+1,Disable Biometrics.reg
+1,Disable Microsoft Edge preload.reg
+1,pear.php-tools.net.reg
+1,SeleniumNode.reg
+1,ic3478rss_256.reg
+1,defaultSettings.reg
+1,remap_caps.reg
+1,notepad2_explorer.reg
+1,Mocha.reg
+1,fix_unc_path.reg
+1,WinUI.reg
+1,EnhancedCrossHairOFF.reg
+1,context-menu.txt.reg
+1,explorer.home-group.hide.reg
+1,saturation_revised.reg
+1,jarofmarbles_ra3___1.reg
+1,OKreisClassic.reg
+1,Sneddon-unit_FDporo.reg
+1,KU-HKLM64.reg
+1,049-175707767-DSx1.jpg.centroid.reg
+1,recab.reg
+1,Tutorial_Intro.py.reg
+1,i150-or-groups.py.reg
+1,resolution.py.reg
+1,cmd-colors-original.reg
+1,MSFT_nxOMSAuditdPluginResource.reg
+1,BetterNewMenu.reg
+1,PlateWithColumns_p2.reg
+1,CanTS2D-p2-dmp.reg
+1,CanTS2D-fields-p2.reg
+1,SS45-Cable4p.reg
+1,SSbeamPointLoad-project.reg
+1,oauthclient-api-protocol.reg
+1,acadStartWiz.reg
+1,CapsLock_to_rightAlt.reg
+1,installOEM.reg
+1,removelastupdatecheck.reg
+1,cmdRemoveCHCP65001.reg
+1,gruvbox_dark.reg
+1,x64HKCUWorcesterRegistryWinter2015.reg
+1,Autox86HKUBostonRegistryWinter2015.reg
+1,x86HKCUWorcesterRegistryWinter2015.reg
+1,2c.reg
+1,Espresso.reg
+1,UnderTheSea.reg
+1,Hurtado.reg
+1,Belafonte Night.reg
+1,ToyChest.reg
+1,Cobalt2.reg
+1,4_45_to_4_47.reg
+1,ImpEx.reg
+1,ClipFixer.reg
+1,UnInstall.reg
+1,Anwendung - Eingabeaufforderung.reg
+1,Disable_Open_File_Security_Warning.reg
+1,Test_Sketcher.reg
+1,relay 6 on.reg
+1,tmp_eventually03.dot.reg
+1,tmp_until01.als.reg
+1,tmp_finally02.dot.reg
+1,tmp_Global03.dot.reg
+1,tmp_combinedEGX01.html.reg
+1,Add-Take_Ownership.reg
+1,Add-Open_Command_Window_Here-Admin.reg
+1,Default-Instant_Aero_Peek.reg
+1,tweaks.reg
+1,nocapslock-win2alt-alt2altgr-tilde.reg
+1,seafoam-pastel.reg
+1,chalkboard.reg
+1,github.reg
+1,myreg.reg
+1,C203p83+41p00_NW_D3_coords.reg
+1,C322p51-0p35_SE_D1_coords_corrected.reg
+1,c354p41+0p27_NW_D3_coords_corrected.reg
+1,C215p8+16p4_NE_D3_coords_corrected.reg
+1,163347.2+571510.15_SE.reg
+1,c354p41+0p27_SE.reg
+1,C260p61+32p13_NW_D2_coords.reg
+1,C210p2+02p8_SW_D1_coords.reg
+1,XMMXCSJ163347.2+571510.15_SW.reg
+1,C322p51-0p35_SW_D1_coords_corrected.reg
+1,C322p51-0p35_SW_D2_coords_corrected.reg
+1,C203p83+41p00_NW_D2_coords.reg
+1,c354p41+0p27.reg
+1,Chinese-IME-Dvorak.reg
+1,suite.reg
+1,Uninstall32.reg
+1,cmder-here-disable.reg
+1,setup_windows_webdav_author_22.1.reg
+1,setup_windows_webdav_author_20.0.reg
+1,Scancode Map WinCtrl.reg
+1,DesktopContextExample.reg
+1,net_dnsbl.reg
+1,My_Putty_solarized_dark.reg
+1,dbg.reg
+1,cpp.reg
+1,tsmonservice.reg
+1,win_chrome_policy.reg
+1,Windows_Defender_Antimalware-off.reg
+1,Windows_Connection_Manager.reg
+1,Certificate_Propagation.reg
+1,Internet_Connection_Sharing_(ICS).reg
+1,Peer_Networking_Identity_Manager.reg
+1,Network_Connection_Broker.reg
+1,State_Repository_Service.reg
+1,Aria2-uriScheme.reg
+1,WebBrowserEmulaterFix.reg
+1,ipr.reg
+1,Show Microsoft Edge button in IE.reg
+1,Remove Screen snip (all users).reg
+1,LargeSystemCache.reg
+1,Enable_BallonTips.reg
+1,Enable advanced indexing options.reg
+1,Add Rotate right and left.reg
+1,Add Notepad context menu.reg
+1,NtfsDisableLastAccessUpdate.reg
+1,Remove Edit with 3D Paint.reg
+1,Enable Online Speech Recognition.reg
+1,Explorer_NoRemoteRecursiveEvents.reg
+1,NET 4.5.reg
+1,Enable touch by finger.reg
+1,Enable Guest Mode (current users).reg
+1,AMDSettingsMenuitem.reg
+1,Kill Cortana.reg
+1,Remove_Open_Location_context_menu.reg
+1,Keep NUMLock always on.reg
+1,AlexaRegEntry.reg
+1,Add Manage to This-PC.reg
+1,Show file extensions in Explorer.reg
+1,GoButton.reg
+1,Disable touch by finger.reg
+1,Enable AHCI Link Setting.reg
+1,Enable Power Throttling.reg
+1,Add Boot to Advanced Startup.reg
+1,Remove Magnifier Context Menu.reg
+1,NewDocument.reg
+1,LogonOld.reg
+1,DontDisplayLastUserName.reg
+1,!Default_XP_Pro_x64_SP2_Start_v205.reg
+1,CMD_CompletionChar.reg
+1,remove_shortcut_suffix_text.reg
+1,download_mode_lan.reg
+1,onedrive.reg
+1,unregeister_codeshare.reg
+1,pear.gekosale.pl.reg
+1,install_testclassex.reg
+1,Console-6.3.reg
+1,Add Bluetooth Context menu.reg
+1,FileAgeMonitoring_Example1.reg
+1,VS 2008 LoadMacroProject RJK_InDn.reg
+1,Railscasts.reg
+1,Grayscale.reg
+1,translation.reg
+1,crypt_cbc.reg
+1,image_gis.reg
+1,crab_nebula_30regions.reg
+1,DataSourcesAcrossDomain.reg
+1,rawk_prefs.reg
+1,JET40.reg
+1,models_routine_process.reg
+1,add-to-registry.reg
+1,Miehe71_restart_poro.reg
+1,Miehe71-nocrack_FD.reg
+1,msyh_config.reg
+1,d.reg
+1,039-175707767-DSx1.jpg.centroid.reg
+1,thg-cmenu-en_US.reg
+1,i78_transitive-closure.py.reg
+1,i17.py.reg
+1,i55.py.reg
+1,fpC-007202-r2-0199.reg
+1,gll_psc_v14_assoc.reg
+1,OutlookTLS12-on.reg
+1,Remove from context menu.reg
+1,remove-long-paths-enabled.reg
+1,MSVCDetectionFix_x86.reg
+1,NavierPoint_p3.reg
+1,mymac.reg
+1,disable_web_search.reg
+1,fast_smb.reg
+1,blobgals_PRG1_10arcsec_raw.reg
+1,PRG1_beforecuts.reg
+1,Voukoder.reg
+1,kbdbone_win10_install.reg
+1,MarkDeleted.reg
+1,Linux_Fan.reg
+1,Publisher.reg
+1,TSDisp.reg
+1,hello.reg
+1,Pytnashki Shablon.reg
+1,Pro Light.reg
+1,Ciapre.reg
+1,purplepeter.reg
+1,ENCOM.reg
+1,vlc-custom-protocol.reg
+1,Hello-Disable.reg
+1,Mail-Enable.reg
+1,4_65_to_4_67.reg
+1,Disable Kerberos Logging.reg
+1,FileExts.tif.reg
+1,HKCR.reg.reg
+1,HKCR_Protocols.reg
+1,System - Remote.reg
+1,Windows Scripting Host.reg
+1,Quick Actions.reg
+1,service_resgistry.reg
+1,Test 2.reg
+1,tmp_finally01.als.reg
+1,All.reg
+1,Win8_ALT-F4_Default-Sleep.reg
+1,notc.reg
+1,FxFileExtension64.reg
+1,AVITest.reg
+1,AddNewV4P.reg
+1,http_userchoice_to_delegateBrowser.reg
+1,Test Applications.reg
+1,vlanintel.reg
+1,c319p70+0p56_SW_D3_coords_corrected.reg
+1,C250p08+46p7_SW_D3_coords_corrected.reg
+1,C234p2+24p4_NE_D3_coords_corrected.reg
+1,C260p61+32p13_SW_D1_coords.reg
+1,c16p23+0p06_NW_D1_coords_corrected.reg
+1,c198p77+51p81.reg
+1,C234p2+24p4_NE_D3_coords.reg
+1,Sys32.reg
+1,vscode-contextmenu.reg
+1,setup_windows_webdav_19.1.reg
+1,setup_windows_webdav_author_24.1.reg
+1,vim newtab.reg
+1,putty-configurations.reg
+1,SolarizedLightPutty.reg
+1,mpu.reg
+1,Mario.reg
+1,Enable Status bar in Notepad.reg
+1,WineDirect3D.reg
+1,HbgMain.reg
+1,MSTTS_V110_enUS_EvaM.reg
+1,Ca200Sample.reg
+1,StockChartAuto.reg
+1,null.reg
+1,IP_Helper.reg
+1,Net.Tcp_Port_Sharing_Service.reg
+1,RPC_Endpoint_Mapper.reg
+1,Windows_Font_Cache_Service.reg
+1,open_in_emacs.reg
+1,Disable Widevine DRM.reg
+1,Suppress EOS notifications.reg
+1,Disable verbose logon.reg
+1,Disable_NullSessionPipesLogging.reg
+1,Turn ON My People app suggestions.reg
+1,Enable mDNS.reg
+1,Enable Shutdown.reg
+1,Disable Cloud Content.reg
+1,Add View Owner.reg
+1,HelpPane.exe.reg
+1,Disable Dump File creation on BSOD.reg
+1,Remove View Owner.reg
+1,Enable Push To Install apps.reg
+1,Disable People Bar.reg
+1,TIPC.reg
+1,Disable_SecurityCenterNotifications.reg
+1,Turn_ON_Allow_VPN_while_roaming.reg
+1,Disable Shutdown.reg
+1,Disable_ScriptDebugger.reg
+1,Enable_BackgroundOptimization.reg
+1,Remove Sync Center.reg
+1,Enable Hotspot 2.0.reg
+1,Disable Windows Features.reg
+1,(default) Add Location tab.reg
+1,Handwriting Panel (Small font size).reg
+1,Disable Online Speech Recognition.reg
+1,Disable inactive window scrolling.reg
+1,Set Chrome as default Browser.reg
+1,sflessphpplugin.reg
+1,Bred2Not.reg
+1,J000448-415729_slits.reg
+1,Regshot.2.Redo.reg
+1,kbddvp.reg
+1,CFH12K_9_03_1999.reg
+1,TortoiseMantis.reg
+1,WinMerge_for_TFS_VS2010_x64.reg
+1,doc.TCPv4.reg
+1,Marrakesh.reg
+1,2.-fix-BEAST-vulnerability.reg
+1,bpm_xy61.reg
+1,stdResults2.reg
+1,tclink.reg
+1,auth_http.reg
+1,enablewarmboot.reg
+1,uninstall-shell-here.reg
+1,job0.reg
+1,IgnoreRemoteKeyboardLayout.reg
+1,Miehe71-lstatic_FD.reg
+1,RegisterHoReverseX64.reg
+1,SecureW2_ProfileSetup.reg
+1,077-159714840-DSx1.jpg.centroid.reg
+1,047-159714840-DSx1.jpg.centroid.reg
+1,cgi.reg
+1,thg-cmenu-ru.reg
+1,i40_integers_strings_assignment.py.reg
+1,i83-individual-scope.py.reg
+1,i50.py.reg
+1,accesscontrol_Intro.py.reg
+1,Outlook-SupportUTF8-remove.reg
+1,win7samba.reg
+1,unlock-gammarange.reg
+1,add-context-menu.reg
+1,cygwin-clean.reg
+1,SpeedTreeKeyMultivers060605.reg
+1,scalebar.reg
+1,EBbeam+KLplate-p2.reg
+1,PointLoadedPlate-project-file.reg
+1,CanTS2D-p2-qstat.reg
+1,dynmac.reg
+1,blobgals_PRG1_12arcsec_cuts.reg
+1,PRG2_aftercuts.reg
+1,blobgals_PRG3_12arcsec_cuts.reg
+1,keyboard-layout-rus-eng.reg
+1,RCP_Processor.reg
+1,"huge, default colors.reg"
+1,RCP_HttpdProtocolService.reg
+1,image_transform.reg
+1,H1413+117_10x10arcsec_Nebula4_init.reg
+1,remove_This_PC_folders_64bit.reg
+1,samba.reg
+1,4b.reg
+1,5b.reg
+1,simplexml.reg
+1,Rippedcasts.reg
+1,idleToes.reg
+1,NightLion v1.reg
+1,Royal.reg
+1,Shaman.reg
+1,AtelierSulphurpool.reg
+1,Hopscotch.reg
+1,Store-Disable.reg
+1,ActionCenter-Disable.reg
+1,onehalf-dark.reg
+1,Windows Updates.reg
+1,Personalisierung - Hintergrund.reg
+1,open-command-window.reg
+1,open-with-node.js.reg
+1,reg-init.reg
+1,dragdrop.reg
+1,tmp_betweenand01.als.reg
+1,strongNameBypass2.reg
+1,fskn_win32_protocol_handler.reg
+1,haBlob_r_b.reg
+1,consoletools.reg
+1,liquid-carbon.reg
+1,ic-green-ppl.reg
+1,liquid-carbon-transparent-inverse.reg
+1,invisibone.reg
+1,Emacs-24.3.reg
+1,C210p2+02p8_NE_D1_coords_corrected.reg
+1,C203p83+41p00_SW_D3_coords.reg
+1,C215p8+16p4_SE_D1_coords_corrected.reg
+1,c16p23+0p06_NE_D3_coords_corrected.reg
+1,C322p51-0p35_NW_D3_coords_corrected.reg
+1,c328p33+0p19_NW_D1_coords_corrected.reg
+1,register_gvim.reg
+1,removecontext.reg
+1,DylanVSShell.reg
+1,AddToRunLocalMachine.reg
+1,adostream.reg
+1,SetWindowsGPUTimeoutTo20s.reg
+1,avizo.reg
+1,Make Windows Use Local Time.reg
+1,Modbus Poll.reg
+1,Radio_Management_Service.reg
+1,Offline_Files.reg
+1,Hyper-V_Guest_Shutdown_Service.reg
+1,Windows_Mobile_Hotspot_Service.reg
+1,IE_DisablePasswordCaching.reg
+1,Enable NTFS file encryption.reg
+1,Disable TLS 1.0.reg
+1,Antivirus Registry Key Check.reg
+1,ChangeProgramFilesFolder.reg
+1,WMP_MP3RecordRate.reg
+1,Enable SmartScreen.reg
+1,Build 16299 x86.reg
+1,Unblock Firefox About pages.reg
+1,Disable_StandbyLogoff.reg
+1,Disable Shared Experiences.reg
+1,Hide Device performance and healt.reg
+1,Remove Presentation Settings.reg
+1,Right-Click_Open_in_New_Process.reg
+1,Disable NTFS file encryption.reg
+1,Add Copy to and move to.reg
+1,Windows Sandbox.reg
+1,Disable_BootOptimizeFunction.reg
+1,Enable Phone-PC linking on this PC.reg
+1,Remove ReadyBoost Tab.reg
+1,blockHelpPane.exe.reg
+1,Diffie-Hellman Key Exchange.reg
+1,CantDeleteUsers.reg
+1,Windows Installer Patch cache.reg
+1,StartIsBack++ avatar animation.reg
+1,Remove Unblock Context Menu.reg
+1,Remove Location tab.reg
+1,Show Device performance and health.reg
+1,Premiere12Portable.reg
+1,Hide Family options.reg
+1,Disable WEBSearch.reg
+1,Disable Location.reg
+1,Disable Tabs (Sets).reg
+1,Enable OpenGL.reg
+1,Hide App and browser control in.reg
+1,Add Open in new tab context menu.reg
+1,Default (TCP 3389).reg
+1,Driver Updates off .reg
+1,OpenJsonInInternetExplorer.reg
+1,make_cmd_UTF-8.reg
+1,telemetry.reg
+1,pear.pagosoft.com.reg
+1,bfcache.reg
+1,ClearMainMRU.reg
+1,fontfix.reg
+1,WFI.2000-12-26T07:30:37.238_1.reg
+1,install-x86.reg
+1,ytb.reg
+1,WinDirStatConfig.reg
+1,polarhorns.reg
+1,LondonTube.reg
+1,4.-fix-poodle-3.0-vulnerability.reg
+1,Uninstall-h_ctgacc32.reg
+1,contact_vcard_parse.reg
+1,net_pop3.reg
+1,menu_add.reg
+1,Miehe71_restart.reg
+1,RegisterWithVisualStudio.reg
+1,059-175707767-DSx1.jpg.centroid.reg
+1,i61-cardinalities.py.reg
+1,enableLCIE.reg
+1,configure_inadyn_service_dns.reg
+1,python-pe.exe.reg
+1,MSFT_nxOMSPerfCounterResource.reg
+1,modern.reg
+1,background.reg
+1,Hole2D-Spectral.reg
+1,SSmembrane-p1.reg
+1,CoinProfitability.reg
+1,services_weather.reg
+1,PRG3_aftercuts.reg
+1,proxy_1.reg
+1,GameStudio.App.reg
+1,RCP_HttpdProtocolEndpoint.reg
+1,Right-Click-nvim.reg
+1,DisableStoreCloudContent.reg
+1,tags.reg
+1,ayu_light.reg
+1,Flatland.reg
+1,Red Sands.reg
+1,Audio-Enable.reg
+1,4_71_to_4_73.reg
+1,.3gp.reg
+1,tomcat32_ws.reg
+1,FolderActions.reg
+1,source_reg.reg
+1,tmp_initially01.html.reg
+1,tmp_next05.als.reg
+1,tmp_final01.dot.reg
+1,tmp_initially02.als.reg
+1,tmp_trafficLight_history.dot.reg
+1,tmp_final02.dot.reg
+1,add-python27-toregistry.reg
+1,Add-Copy_TXT_To_Clipboard-Expanded.reg
+1,Add-Open_Command_Window_Here-Icon.reg
+1,SoilColumn3D.reg
+1,OGSBenchmark1D-LR.reg
+1,ahnmatae.reg
+1,emacs.reg
+1,connect.magentocommerce.com_core.reg
+1,symfonic.reg
+1,C322p51-0p35_NW.reg
+1,c16p23+0p06_SW_D2_coords_corrected.reg
+1,C250p08+46p7_SW_D1_coords_corrected.reg
+1,c16p23+0p06_SE_D2_coords_corrected.reg
+1,c319p70+0p56_NE_D1_coords_corrected.reg
+1,c328p33+0p19_NE_D3_coords_corrected.reg
+1,C215p8+16p4_SE_D3_coords_corrected.reg
+1,c319p70+0p56_SW_D1_coords_corrected.reg
+1,C215p8+16p4_NE_D2_coords_corrected.reg
+1,XMMXCSJ125650.2+254803.2_SW.reg
+1,XMMXCSJ124425.9+164758.0_SW.reg
+1,putty-monokai-colors.reg
+1,setup_windows_webdav_21.1.reg
+1,setup_windows_webdav_24.1.reg
+1,enable_modal_dialog_on_segfault.reg
+1,enable_office_adal.reg
+1,webbrowser.reg
+1,SolarizedDarkPutty.reg
+1,opendocument.reg
+1,clear-binds.reg
+1,No sound on print.reg
+1,BSOD restart disable.reg
+1,windowsDragHandler.reg
+1,ContextMenu_Install.reg
+1,Make Windows Use UTC Time.reg
+1,Performance_Logs_&_Alerts.reg
+1,Windows_Audio_Endpoint_Builder.reg
+1,HomeGroup_Listener.reg
+1,Group_Policy_Client.reg
+1,Smart_Card_Removal_Policy.reg
+1,^enter.reg
+1,IEPatcher.reg
+1,Enable DNSCache.reg
+1,ContextMenuCleanup.reg
+1,Disable Touch by Finger.reg
+1,Disable_OpenFileSecurityWarning.reg
+1,Disable_ErrorReporting.reg
+1,Disable Dithering.reg
+1,TCPIP_Security.reg
+1,Disable_WindowsAnimationMinimized.reg
+1,Disable Screen Saver.reg
+1,Windows Default Themes Colors.reg
+1,DefaultStartPanelOff.reg
+1,CalcPlusClassic.reg
+1,Edit (In MSPaint).reg
+1,Remove Google Drive context menu.reg
+1,Disable Taskbar Settings.reg
+1,Disable_ShellURLProtocol.reg
+1,MEGA.reg
+1,Enable Mobile Hotspot sharing.reg
+1,Win32PrioritySeparation.reg
+1,SkipRearm.reg
+1,Disable Inactive Window Scrolling.reg
+1,Disable_RPCbasedDCOM.reg
+1,Destkop Undo Manager.reg
+1,Enable swapfile.sys (default).reg
+1,Add_Open_Location_context_menu.reg
+1,Disable Firefox Crash Reporter.reg
+1,Every month (all users).reg
+1,Print build number on desktop.reg
+1,Remove VBS Run as administrator.reg
+1,Disable Pin to taskbar.reg
+1,Remove Details Tab.reg
+1,Folder options.reg
+1,htaMIMEType.reg
+1,Enable ReverseGrayscale.reg
+1,Disable_RecentDocs.reg
+1,Every day (all users).reg
+1,MSIInstallerLocation.reg
+1,Active memory dump.reg
+1,ALLOW_unsigned_elevation.reg
+1,ChangeLogonWallpaper.reg
+1,Enable Autofill.reg
+1,SetAsDesktopBackground.reg
+1,solarized_dark - 172-44.reg
+1,Dict.reg
+1,startseite.reg
+1,favoritenleiste.reg
+1,mp.reg
+1,Unhide-ContextMenu.reg
+1,RunAsSys.reg
+1,SeleniumHub.reg
+1,install-x64.reg
+1,doc.TCPv6Server.reg
+1,ezoth_kitty.reg
+1,Brewer.reg
+1,Google.reg
+1,thunderbird_portable_default.reg
+1,6.-enable-Perfect-Forward-Secrecy.reg
+1,bpm_xy16.reg
+1,setRFS.reg
+1,peaunt2012.reg
+1,observation.reg
+1,nondestruct_add.reg
+1,Miehe71-lstatic_FDporo.reg
+1,029-175707767-DSx1.jpg.centroid.reg
+1,i131-incorrect-scope-diag.py.reg
+1,i81.py.reg
+1,1680x1050.reg
+1,2560x1440.reg
+1,pointings.reg
+1,Shapefile_Unicode_ArcGIS9x.reg
+1,Regcontrols.reg
+1,EnableRemoteManagement.reg
+1,COM_obj.reg
+1,crash_dumps_on_windows.reg
+1,MSFT_nxMySqlDatabaseResource.reg
+1,MultiverseInterfaceStudio.reg
+1,MidShipFrame.reg
+1,PRG2_10arcsec_aftercuts.reg
+1,flora_plus.reg
+1,"mini, default colors.reg"
+1,putty_session_template_notheme.reg
+1,diff.reg
+1,Uninstall HLM_privoxy-ext.reg
+1,8out.reg
+1,dark.reg
+1,xspchartplugin.reg
+1,Lavandula.reg
+1,Grape.reg
+1,Tomorrow Night Eighties.reg
+1,Pandora.reg
+1,ActionCenter-Enable.reg
+1,4_61_to_4_63.reg
+1,Mail_HKCU.reg
+1,.txt.reg
+1,FileExts.txt.reg
+1,Windows Explorer.reg
+1,Windows Feedback.reg
+1,setup-msda.reg
+1,DisableLoadingFromRegistry.reg
+1,Remove Bash From Your Context Menu.reg
+1,restart.reg
+1,all relays on.reg
+1,tmp_betweenand01.html.reg
+1,tmp_eventually01.als.reg
+1,tmp_Global01.dot.reg
+1,tmp_Global02.als.reg
+1,tmp_trafficLight_history.als.reg
+1,tmp_afteruntil01.html.reg
+1,tmp_clafertransitions02.als.reg
+1,unlock_gamma_range.reg
+1,Enable-Explorer_This_PC.reg
+1,_Add-Cmder.reg
+1,TLS_1.0_DISABLE.reg
+1,ptc64bit.reg
+1,liquid-carbon-transparent.reg
+1,taskbar.reg
+1,C210p2+02p8_NW_D2_coords.reg
+1,C203p83+41p00_SW.reg
+1,C250p08+46p7_NW_D1_coords.reg
+1,C210p2+02p8_NW_D2_coords_corrected.reg
+1,Enable Aero Shake (Default).reg
+1,setup_windows_webdav_author_23.1.reg
+1,dev.reg
+1,rdf.reg
+1,basic_timer.reg
+1,PlaneGame.reg
+1,edit-with-vim_optional.reg
+1,test03_gal.reg
+1,i686.reg
+1,Windows_Search.reg
+1,Human_Interface_Device_Access.reg
+1,Wired_AutoConfig.reg
+1,Microsoft_iSCSI_Initiator_Service.reg
+1,AllJoyn_Router_Service.reg
+1,sublime.reg
+1,DisableUAC.reg
+1,Default Settings.reg
+1,Speedup_NTFS.reg
+1,Pane_Off.reg
+1,reg tweaks.reg
+1,Enable Continuum Mode.reg
+1,Change Notepad default font.reg
+1,Confirmation of file deletion.reg
+1,Device Defaults Vista+.reg
+1,Disable_UnPnP_SSDPDiscoverMessages.reg
+1,Build 15063_x86.reg
+1,Remove Open Linux shell here.reg
+1,Remove Set as Desktop Background.reg
+1,Enable share settings.reg
+1,NET 3.5.reg
+1,Disable Snap Window Manager.reg
+1,Home Folder Desktop.reg
+1,ClassicShell.reg
+1,Enable Store time as UTC.reg
+1,Delete_BagMRU_Bag.reg
+1,Add Network shortcut to This PC.reg
+1,Enable Intel IPPM.reg
+1,Enable Getting to know you.reg
+1,Show App and browser control.reg
+1,LastActiveClick (default).reg
+1,Disable Negative Scaling.reg
+1,Disable nVidia telemetry.reg
+1,Disable file obfuscation .reg
+1,AddLibrariesToNavi.reg
+1,au_3.reg
+1,au_5.reg
+1,LuciusLight.reg
+1,fDisabledAllowList.reg
+1,WFI.2000-12-26T07:30:37.238_2.reg
+1,CFH12K_12_06_2000.reg
+1,CFH12K_12_11_1999.reg
+1,add_to_open_with.reg
+1,WinMerge_for_TFS_VS2013_x86.reg
+1,open_settings.reg
+1,disableDragLock.reg
+1,VigilCap.reg
+1,!CMD IT!.reg
+1,Safed.reg
+1,Passthrough.reg
+1,cmd exit pause.reg
+1,powershell_solarized-dark.reg
+1,disable-fusionLog.reg
+1,net_ftp.reg
+1,net_finger.reg
+1,math_rpn.reg
+1,image_graphviz.reg
+1,casa_selected.reg
+1,casa.reg
+1,desktop.shortcut.show.reg
+1,right_click_hash.reg
+1,Russian.reg
+1,Disable Documents Folder.reg
+1,FileKiller_ContextMenu.reg
+1,Win10_remove_fast_access_last_used.reg
+1,ScordelisLo-p4-4x4.reg
+1,Cantilever-KLplate.reg
+1,Hole2D-NURBS.reg
+1,SSbeamPointLoad-graded.reg
+1,SolarSystem.reg
+1,blobgals_PRG3_10arcsec_cuts.reg
+1,cmdAdd65001.reg
+1,set_default_font_in_windows_10.reg
+1,halfordHKUx64.reg
+1,Sketcher.reg
+1,IE-Win32settings.reg
+1,consolecolors.reg
+1,SoftServer.reg
+1,MaterialDark.reg
+1,DotGov.reg
+1,Dark Pastel.reg
+1,Solarized Dark Higher Contrast.reg
+1,deep.reg
+1,Edge-Disable.reg
+1,4_55_to_4_57.reg
+1,kiosk-shell.reg
+1,Registry (32 bit).reg
+1,Anwendung - Powershell.reg
+1,enable-logging.reg
+1,NET40-Enable-TLS-12.reg
+1,removeWindowsCMDhere.reg
+1,ElectricField.reg
+1,ipcc.reg
+1,string.als.reg
+1,relay 7 on.reg
+1,InstallU2PA.reg
+1,tmp_transitionconstraintguard02.dot.reg
+1,tmp_transitionconstraint01.dot.reg
+1,tmp_eventually04.html.reg
+1,Add-Open_With_Notepad-Icon.reg
+1,Clear-Run.reg
+1,Default-Internet_Open_With.reg
+1,NeverCombineItemsInTaskbar.reg
+1,MgfxGenerator32.reg
+1,adoc_icon.reg
+1,sfdoctrinegraphvizplugin.reg
+1,win_py27.reg
+1,ciapre.reg
+1,Emacs-23.3.reg
+1,c16p23+0p06.reg
+1,C234p2+24p4_SW_D1_coords.reg
+1,C210p2+02p8_SW_D2_coords_corrected.reg
+1,C234p2+24p4_SE_D1_coords_corrected.reg
+1,C203p83+41p00_NE_D2_coords.reg
+1,setup_windows_webdav_author_23.0.reg
+1,coolq.reg
+1,BestThemes.reg
+1,fr.reg
+1,AutomaticFullBackup28days.reg
+1,AddToContextMenu.reg
+1,Disable_SkyDrive_Integration.reg
+1,path.reg
+1,copy_to_clipboard.reg
+1,SS_Log_Server.reg
+1,EnableFIPSPolicy.reg
+1,PacketSniffer.reg
+1,Undocumented Shell Interfaces.reg
+1,Microsoft_Storage_Spaces_SMP.reg
+1,Natural_Authentication.reg
+1,Windows_Time.reg
+1,Sensor_Service.reg
+1,Bluetooth_Support_Service.reg
+1,Xbox_Live_Game_Save.reg
+1,NtfsDisableLastAccessUpdate_OFF.reg
+1,windometrics-11pt.reg
+1,cmder.reg
+1,Enable Background Apps.reg
+1,Restore Windows defult fonts.reg
+1,Add_Install_to_cab_context_menu.reg
+1,Disable Aero Peek.reg
+1,Mixer Defaults.reg
+1,UnlockGammaRanges.reg
+1,Add Create a New Video context menu.reg
+1,Disable_FileMRU.reg
+1,EnableTLS_1.0.reg
+1,IE_Disable_ActiveX_JS.reg
+1,Enable Load all devices and drivers.reg
+1,Add Burn Disc Image.reg
+1,Persistant Action Center.reg
+1,Enable Hide Tray Icons.reg
+1,Set_Drag_and_Drop_to_Default.reg
+1,Password Powershell.reg
+1,Enable Auto-Mounting of Drives .reg
+1,Disable Intel IPPM.reg
+1,UltraEdit_rightClick.reg
+1,Add Mixed Reality To Settings.reg
+1,Restore Videos To This PC 64-bit.reg
+1,Remove Desktop From This PC 64-bit.reg
+1,Restore Music To This PC 64-bit.reg
+1,Console-6.1.reg
+1,remove_from_open_with.reg
+1,open_about_box.reg
+1,registory-contextmenu-emacs.reg
+1,CPlot.reg
+1,doc.NamedPipeServer.reg
+1,EditLOGFILESinNeovim.reg
+1,Greenscreen.reg
+1,bpm_xy22.reg
+1,UninstallCygwin.reg
+1,uninstall_admin.reg
+1,disable_aliases.reg
+1,net_portscan.reg
+1,AddToTrustedSites.reg
+1,explorer.library.hide.reg
+1,ra3_amg_hack.reg
+1,removeAMI.reg
+1,Miehe71_FD.reg
+1,KU-HKLM32.reg
+1,i205-ref-disambiguation-II.py.reg
+1,French (CA).reg
+1,1. Low.reg
+1,pvslices_finalfig.reg
+1,Lock-Screen-On.reg
+1,enable-cmder-context-menu.reg
+1,WEWB.reg
+1,fix_asus_smart_gesture_cpu_usage.reg
+1,SetExecutionPolicyBypass.reg
+1,NavierPart_p2.reg
+1,SquarePlate-Lagrange.reg
+1,Lshape-adap-p2.reg
+1,PRG2_10arcsec_beforecuts.reg
+1,current.reg
+1,uyf.reg
+1,Command2Control.reg
+1,kbdneo_win10_install.reg
+1,extension.reg
+1,windows_registry.reg
+1,config.sample.reg
+1,NFS5-Inukaze.reg
+1,test_circle_region.reg
+1,6c.reg
+1,TestPIWS.reg
+1,OpenBashHere.reg
+1,IC_Green_PPL.reg
+1,Darkside.reg
+1,Solarized Darcula.reg
+1,Monokai Remastered.reg
+1,SpaceGray Eighties Dull.reg
+1,Fahrenheit.reg
+1,Relaxed.reg
+1,Red Planet.reg
+1,News-Disable.reg
+1,VPN-Enable.reg
+1,Suggested-Enable.reg
+1,knownbugs.reg
+1,magnets.reg
+1,tomcat64.reg
+1,pteidcsp.reg
+1,nihklm.reg
+1,tmp_transitionconstraint04.dot.reg
+1,tmp_trafficLight_history.html.reg
+1,tmp_liftingNestedConstraints.html.reg
+1,Remove-Desktop_ControlPanel.reg
+1,Enable-Mouse_Sensitivity.reg
+1,hybrid-bash-for-windows.reg
+1,Plaxis1DVerif-nonmixed.reg
+1,SoilColumn3D-nonmixed.reg
+1,avec-v1.2.reg
+1,sfpropelplugin.reg
+1,fix.mount.error.reg
+1,solarized-darcula.reg
+1,pro.reg
+1,x-dotshare.reg
+1,C215p8+16p4_SE.reg
+1,C234p2+24p4_NW.reg
+1,C210p2+02p8_NE_D3_coords.reg
+1,C260p61+32p13_NE_D2_coords.reg
+1,XMMXCSJ163347.2+571510.15_NW.reg
+1,filelist.reg
+1,setup_windows_webdav_author_21.1.reg
+1,setup_windows_webdav_22.1.reg
+1,vsCocoRegistration.reg
+1,mdb2_schema.reg
+1,Add_Take_Ownership_to_context_menu.reg
+1,del_cmd.reg
+1,IISExpressHere32bit.reg
+1,win_act.reg
+1,openerp.reg
+1,dalvik.reg
+1,Diagnostic_Policy_Service.reg
+1,DHCP_Client.reg
+1,System_Events_Broker.reg
+1,ReCreateCommands.reg
+1,fileassoc.reg
+1,Hide Cortana taskbar button.reg
+1,DialingOptions.reg
+1,Add Back Button.reg
+1,Explorer_Tweaks.reg
+1,Disable Color Filter.reg
+1,Disable UTC Time.reg
+1,Enable_Wallpaper.reg
+1,SharedDocuments.reg
+1,Enable Lock-Screen.reg
+1,DriveContextMenucmd.reg
+1,profile paths.reg
+1,Disable_Messengerfrombeingrun.reg
+1,MemoryManagement.reg
+1,Smartscreen hardening.reg
+1,OE_HideMessenger.reg
+1,Disable LockscreenBlur.reg
+1,RemoveGPExtensionsAndNotify.reg
+1,Disabble WPAD.reg
+1,Remove File Explorer context menu.reg
+1,DisableUACforAdmin.reg
+1,Disable AV check.reg
+1,Disable_WebDAV.reg
+1,Remove Rotate right and left.reg
+1,Workaround.reg
+1,Feedback Smiley Button (disabled).reg
+1,Let Windows handle long Paths .reg
+1,Don't highlight new installed apps.reg
+1,DisableAN.reg
+1,Explorer_NoNetCrawling.reg
+1,IE_Disable_PhishingFilter.reg
+1,Disable Diagnostic Data.reg
+1,Add Press Shift+ Compact OS.reg
+1,Disable Mobile Hotspot sharing.reg
+1,Create Minidump on BSOD.reg
+1,sfdomainrouteplugin.reg
+1,MSDTC.Security.reg
+1,P4EntityCreation.reg
+1,crab_bkg_reg.reg
+1,enable_switch_user_option.reg
+1,util.reg
+1,Imp.reg
+1,enable auto correction.reg
+1,WFI.2000-12-26T07:30:37.238_4.reg
+1,Open Command Window Here - Console2.reg
+1,AdobeAcrobatClearRecent.reg
+1,x2_smaller_annulus.reg
+1,create_commit.reg
+1,ceusbkwrapperdrv.reg
+1,regtweaks.reg
+1,disableTapToClick.reg
+1,cumulative.reg
+1,TestCase.Config.reg
+1,AtelierDune.reg
+1,dba.reg
+1,payment_clieop.reg
+1,removeRGUNINST.reg
+1,rga_uninstall.reg
+1,ra_default_keys.reg
+1,VS2008InterfaceToModel.reg
+1,Miehe71-nocrack_FDporo.reg
+1,RegisterHoReverse.reg
+1,089-175707767-DSx1.jpg.centroid.reg
+1,_ExportODCConnection.ContextMenu.reg
+1,thg-cmenu-fa.reg
+1,ClaferTools_CommandLineArguments.py.reg
+1,4. Amazing.reg
+1,Disable Music Folder.reg
+1,Unreg_Unicode_ArcGIS9x.reg
+1,Shapefile_Unicode_ArcGIS102.reg
+1,draco_roi.reg
+1,ColorEyeI.reg
+1,FileKiller.reg
+1,MSFT_nxFirewallResource.reg
+1,legacy.reg
+1,NavierIcrack_p2-adap.reg
+1,Beam+supel.reg
+1,CanTS2D-p2-dyn.reg
+1,MaterialExpression.reg
+1,PRG1_10arcsec_beforecuts.reg
+1,movtest.reg
+1,Ultravnc_mirror3.reg
+1,Ultravnc_mirror4.reg
+1,Medium.reg
+1,cpts.reg
+1,del_longpath.reg
+1,3a.reg
+1,Wryan.reg
+1,Misterioso.reg
+1,Red Alert.reg
+1,3024 Day.reg
+1,Wombat.reg
+1,Autoplay-Disable.reg
+1,Audio-Disable.reg
+1,FileExt.3gp.reg
+1,Settings Synchronization.reg
+1,dverty64.reg
+1,articulo.reg
+1,tmp_Global04.html.reg
+1,tmp_until01.html.reg
+1,tmp_eventually03.html.reg
+1,tmp_final02.als.reg
+1,tmp_Global01.als.reg
+1,Add-VBS_as_Administrator.reg
+1,disable-lockstation.reg
+1,cleanup_pixarmovies.reg
+1,hybrid-command-prompt.reg
+1,sfpropelparanoidbehaviorplugin.reg
+1,sfprototypewindowplugin.reg
+1,sfsupercacheplugin.reg
+1,32bit_regkey.reg
+1,kibble.reg
+1,ocean.reg
+1,espresso.reg
+1,C250p08+46p7_SE_D2_coords_corrected.reg
+1,C250p08+46p7_NE_D1_coords_corrected.reg
+1,C250p08+46p7_SE.reg
+1,C322p51-0p35_NE_D2_coords_corrected.reg
+1,C203p83+41p00_SE_D2_coords.reg
+1,C234p2+24p4_NE_D2_coords_corrected.reg
+1,163347.2+571510.15_NE.reg
+1,C250p08+46p7_NE_D2_coords.reg
+1,C234p2+24p4_NE.reg
+1,Install32.reg
+1,Uninstall64.reg
+1,darkman.reg
+1,uk.reg
+1,pt-pt.reg
+1,en.reg
+1,clean-reg.reg
+1,PackBitmap.reg
+1,Bluestack Register.reg
+1,I Don't Want Windows 10.reg
+1,TroyFile.reg
+1,iic.reg
+1,scb_fp.reg
+1,sfdoctrinechoicechainplugin.reg
+1,rename-folder-fix.reg
+1,misc2.reg
+1,execpol.reg
+1,beancounturi.reg
+1,test03_icrs.reg
+1,rdp-uri.reg
+1,Xbox_Accessory_Management_Service.reg
+1,Sensor_Monitoring_Service.reg
+1,IKE_and_AuthIP_IPsec_Keying_Modules.reg
+1,Portable_Device_Enumerator_Service.reg
+1,IE_Disable_ImageToolbar.reg
+1,Disable_FileAssociationWebService.reg
+1,Remove Copy as Path Option.reg
+1,Enable animations.reg
+1,WebFolders.reg
+1,Remove Look for an app in theStore.reg
+1,Pin to Start Menu.reg
+1,MrtCache.reg
+1,BAT-remove Open with.reg
+1,Enable Periodic Registry backups.reg
+1,Fake Bluescreen fix.reg
+1,Enable Black Accent color.reg
+1,Disable Favorites Bar.reg
+1,Default Color accent.reg
+1,Remocequickaccess.reg
+1,Disable Enhanced Anti-Spoofing.reg
+1,more transparent taskbar.reg
+1,Restore_Run-as-administrator.reg
+1,Disable Create a system image.reg
+1,Enable  Office 2016 Account lockout.reg
+1,Add Primary NVMe Idle Timeout.reg
+1,Disable SSL 2.0.reg
+1,Set Explorer's Folder properties.reg
+1,VirtualCloneDrive.reg
+1,British George voice.reg
+1,No sound on print finished.reg
+1,Deactivate Flip3D preview.reg
+1,Disable EULA nag.reg
+1,Add Intel Graphics Control Panel.reg
+1,Add Magnifier Context Menu.reg
+1,NumberOfSIUFInPeriod.reg
+1,Disable FullPathTitleBar.reg
+1,Remove Pin to Start context menu.reg
+1,Hide Microsoft Edge button in IE.reg
+1,RDSObjects.reg
+1,Disable_ParseAutoexec.reg
+1,Disable SMB3 compression.reg
+1,userinit.reg
+1,pws-php5isapi_2.reg
+1,increase_icon_cache_size.reg
+1,regeister_codeshare.reg
+1,svn-proxy-template.reg
+1,fSingleSessionPerUser.reg
+1,.capslock2Lcrtl.reg
+1,WinMerge for TFS.reg
+1,WinReg-File.reg
+1,VisualStudiForAzureGov_Remove.reg
+1,Colemak.reg
+1,doc.NamedPipe.reg
+1,poretools.reg
+1,html_template_sigma.reg
+1,m87_core+jet.reg
+1,cena_jet2.reg
+1,rawk_reset.reg
+1,rga_stub_init_script.reg
+1,ContextCmder-Enable.reg
+1,2016_0326_wine-font-smoothing-rgb.reg
+1,regions.reg
+1,bginfo.reg
+1,leagueoflegends.reg
+1,033-159713827-DSx1.jpg.centroid.reg
+1,thg-cmenu-de.reg
+1,person_tutorial.py.reg
+1,English (US).reg
+1,1280x1024.reg
+1,w32time-win10build1511-fix.reg
+1,createPrefsRootNode_64.reg
+1,restore_all_user_folders_to_this_pc.reg
+1,remove_onedrive_from_file_explorer.reg
+1,PointLoadedPlate-adap.reg
+1,Hole2D-immS1-p1.reg
+1,remove_scancode_mappings.reg
+1,vista_webdav.reg
+1,win_error_report.reg
+1,brtest1.reg
+1,gae.reg
+1,techinfo.reg
+1,Hard.reg
+1,usershellfolder.reg
+1,AllowXPathTransform.reg
+1,install_template.reg
+1,duotone-darkpool.reg
+1,Obsidian.reg
+1,Neutron.reg
+1,Tomorrow Night Blue.reg
+1,Medallion.reg
+1,CLRS.reg
+1,OneHalfLight.reg
+1,Argonaut.reg
+1,FishTank.reg
+1,Jellybeans.reg
+1,Sundried.reg
+1,Seafoam Pastel.reg
+1,FileExt.tif.reg
+1,emacs-shell-setup.reg
+1,install-native-messaging.reg
+1,tmp_eventually03.als.reg
+1,tmp_afteruntil01.als.reg
+1,tmp_DefaultGlobal.als.reg
+1,reg-alias.reg
+1,Terzhagi-restart.reg
+1,haBlob_r.reg
+1,disable_caps_lock.reg
+1,remove_xe_key.reg
+1,monokai-dimmed.reg
+1,thayer.reg
+1,remove-powershell-context-menu.reg
+1,Emacs-E.reg
+1,c16p23+0p06_SE_D3_coords_corrected.reg
+1,C203p83+41p00_NW.reg
+1,LibrarianHereAdd.reg
+1,setup_windows_webdav_author_20.1.reg
+1,setup_windows_webdav_author_19.1.reg
+1,setup_windows_webdav_23.1.reg
+1,set_UTC_BIOS.reg
+1,del_proxy_config.reg
+1,scb.reg
+1,libraries-remove.reg
+1,ZChatSystem.reg
+1,win7_disable_libraries.reg
+1,win10_disable_annoying_lock_screen.reg
+1,MSRemote.reg
+1,tsmonservice_x64.reg
+1,paint.reg
+1,manuals.reg
+1,ffdshow-cfg.reg
+1,test03_ciao_physical.reg
+1,FabAtHome.reg
+1,Shared_PC_Account_Manager.reg
+1,UPnP_Device_Host.reg
+1,DataCollectionPublishingService.reg
+1,018.Windows_Universal_Time-Off.reg
+1,context_handler.reg
+1,Disable Autofill.reg
+1,Disable Storage Sense (all users).reg
+1,Use classic search in Explorer.reg
+1,Remove Run as Different User.reg
+1,rpcssError5.reg
+1,IE_Disable_InfoBar.reg
+1,Enable_16bit_App_Separate.reg
+1,Disable Guest Mode (all users).reg
+1,Enable Guest Mode (all users).reg
+1,Add Copy as Path Option.reg
+1,Enable Feedback Notifications.reg
+1,Enable Windows Hello Biometrics.reg
+1,Disable Sets (all users).reg
+1,Disable Pointer Precision.reg
+1,Disable cortana but keep search.reg
+1,Disable_PerformanceCounters.reg
+1,Remove all libraries.reg
+1,Tweaked.reg
+1,Disable Show more tiles.reg
+1,Enable Activity history.reg
+1,Disable Samples Page.reg
+1,Enable Autostart for MEI App.reg
+1,Disable Hardware Accelerated GPU.reg
+1,Enable Shared Experiences.reg
+1,DEV ERROR 6071.reg
+1,Unlock 2009 Features in 2004.reg
+1,Disable_BarricadedFolders.reg
+1,Disable_ActiveDesktop.reg
+1,!Safe_XP_Pro_x64_SP2_Start_v2.05.reg
+1,Prevent changing desktop background.reg
+1,Enable printing.reg
+1,Alt+Tab Open only windows.reg
+1,Disable save passwords.reg
+1,Remove Offline Context Menu.reg
+1,putty_color.reg
+1,Restore Downloads To This PC 64-bit.reg
+1,Add Control Panel Context Menu.reg
+1,ShowDriveLettersFirst.reg
+1,generate_review_stats.reg
+1,regcontextmenu.reg
+1,ConEmu-ro.reg
+1,powershell_solarized-light.reg
+1,Monokai.reg
+1,Shapeshifter.reg
+1,Ashes.reg
+1,enable-fusionLog.reg
+1,bpm_xy42.reg
+1,Object.reg
+1,diagram.reg
+1,math_trigop.reg
+1,math_vector.reg
+1,Reg-Keys-7zip.reg
+1,putty-picomite.reg
+1,Short10x20-preref_FD.reg
+1,097-159714840-DSx1.jpg.centroid.reg
+1,129-175707767-DSx1.jpg.centroid.reg
+1,thg-cmenu-it.reg
+1,oclBench_b1.py.reg
+1,i226-unary-minus.py.reg
+1,EDMPoster_Intro.py.reg
+1,i101.py.reg
+1,i122-CVL.py.reg
+1,test_edit.reg
+1,1280x960.reg
+1,UnregisterMyMeta13.reg
+1,add-long-paths-enabled.reg
+1,minttyHere.reg
+1,restore_3D_Objects_Folder.reg
+1,MSFT_nxFileInventoryResource.reg
+1,MSFT_nxDNSServerAddressResource.reg
+1,ntp3.reg
+1,SetExecutionPolicyRestricted.reg
+1,SetExecutionPolicyAllSigned.reg
+1,SSsolid-p2.reg
+1,PressurizedHemisphere-p2.reg
+1,7Zip_ConfigurationSettings.reg
+1,blobgals_PRG2_12arcsec_cuts.reg
+1,PowerPointDPI-150.reg
+1,memexc.reg
+1,oauthclient-codeflow-protocol.reg
+1,kbdneo2_install.reg
+1,RCP_HttpdHostedService.reg
+1,dp83640.reg
+1,NFS5-Voodoo2.reg
+1,ssh.reg
+1,test_rect_region.reg
+1,1a.reg
+1,ResolucionSM.reg
+1,WIF.reg
+1,nao_renew.reg
+1,duotone-darkearth.reg
+1,Duotone Dark.reg
+1,Homebrew.reg
+1,Elementary.reg
+1,UserChoice.reg
+1,_tlh.reg
+1,@.reg
+1,Personalisierung - Farben.reg
+1,wscitecm-remove.reg
+1,Windows Advanced Firewall Log.reg
+1,rule.reg
+1,filesizelimit.reg
+1,register_openid_protocol_handler.reg
+1,bds-11-settings.reg
+1,target_reg.reg
+1,tmp_TrafficLight1.html.reg
+1,tmp_next01.dot.reg
+1,tmp_next03.dot.reg
+1,lock_gamma_range.reg
+1,RegisterMSIEProtocol.reg
+1,Add-Open_PowerShell_Here.reg
+1,_Remove-Cmder.reg
+1,Default-Shortcut_Text.reg
+1,Terzhagi.reg
+1,delegateBrowser.reg
+1,kbdneo2.reg
+1,esc-caps-keys.reg
+1,fix-windows-timezone.reg
+1,c16p23+0p06_SE.reg
+1,124425.9+164758.0_SW.reg
+1,C203p83+41p00_NE.reg
+1,C260p61+32p13_SW_D3_coords.reg
+1,c319p70+0p56_NE.reg
+1,C210p2+02p8_NW.reg
+1,c16p23+0p06_SE_D1_coords_corrected.reg
+1,20140913nignt.reg
+1,FastSendDatagramThreshold.reg
+1,Themeall.reg
+1,FcHtmlEd.reg
+1,Bluestack Register(OLD_0.8.9.3088).reg
+1,sfscmignorestaskplugin.reg
+1,MSDefault.reg
+1,putty-add-lamp-session.reg
+1,IISExpressHere64bit.reg
+1,winvista-bahamut.registry.reg
+1,Add Powershell To Win8 Context Menu.reg
+1,StockChartUDT.reg
+1,sparc.reg
+1,Windows_License_Manager_Service.reg
+1,Netlogon.reg
+1,Hyper-V_Guest_Service_Interface.reg
+1,Diagnostic_System_Host.reg
+1,SNMP_Trap.reg
+1,User_Profile_Service.reg
+1,^#enter.reg
+1,Add_Hash_to_context_menu.reg
+1,Default_PerformanceCounters.reg
+1,surya.reg
+1,Remove Copy Contents to Clipboard.reg
+1,Enable Long Paths.reg
+1,Build 16299 x64.reg
+1,Add recycle confirmation.reg
+1,Disable Welcome Screen.reg
+1,Enable Diagnostic Data.reg
+1,Remove Services.msc.reg
+1,Disable_ClickHereToBegin.reg
+1,UserPasswordsClassic.reg
+1,Change Owner including pause.reg
+1,EntireNetworks_MyNetworkPlaces.reg
+1,SetDesktopWallpaper.reg
+1,Disable ReverseGrayscale.reg
+1,Enable Offline Files.reg
+1,Change WSL Font & Console Color.reg
+1,Hide Bookmarks Bar on New Tab Page.reg
+1,Explorer_SearchDefaults.reg
+1,ShortcutArrows.reg
+1,AddRecycleBinToMyComputer.reg
+1,Enable_FolderOptions.reg
+1,Add Screen snip (current user).reg
+1,Disable automatically BSOD restart.reg
+1,Turn off Clipboard History.reg
+1,Add creation of Batch .cmd .reg
+1,Disable ValidateAdminCodeSignatures.reg
+1,Enable Cortana floating Search bar.reg
+1,topic3_resampled.nii.gz.reg
+1,catalogue.reg
+1,xcomdocu.exe.reg
+1,mstestex.reg
+1,DisableWUReboot.reg
+1,fixme.reg
+1,160802 H band 2MASS sources.reg
+1,IRAC Annulus subtraction regions.reg
+1,WinMerge_for_TFS_VS2012_x64.reg
+1,create_review.reg
+1,ceusbkwrapper.reg
+1,regtweak.reg
+1,DisableAllDocumentsSearchFunction.reg
+1,readd_mycomputer_icons.reg
+1,doc.common.reg
+1,Paraiso.reg
+1,AtelierForest.reg
+1,bpm_xy44.reg
+1,ditto-emacs.reg
+1,net_ident.reg
+1,net_nntp.reg
+1,disable.crash.dialog.reg
+1,EnableOfficeTelemetry.reg
+1,context-menu.empty-recycle-bin.reg
+1,setISS.reg
+1,RegHive.reg
+1,ami-launch-fix-keys-only-64.reg
+1,am-supertapajam_REGISTRY.reg
+1,DebugLogOff.reg
+1,109-175707767-DSx1.jpg.centroid.reg
+1,i89-references-should-be-unique.py.reg
+1,i98_top-level-references.py.reg
+1,i10.py.reg
+1,1600x1200.reg
+1,BasicAuth.reg
+1,integrate (use for debugging).reg
+1,liveobjects.reg
+1,createPrefsRootNode_32.reg
+1,Win_DisableRemovableDriveIndexing.reg
+1,SpeedTreeKeyMultiverseCurrent.reg
+1,MSVCDetectionFix_x64.reg
+1,Cantilever-p2-1x1.reg
+1,PRG2_12arcsec_beforecuts.reg
+1,memtest0.reg
+1,kbdmine_win10_install.reg
+1,windows-11-taskbar-large.reg
+1,pos253.reg
+1,Easy.reg
+1,reg_delta4.reg
+1,VgFrame.reg
+1,WebComponentPrereqs.reg
+1,idm1.reg
+1,SpaceGray Eighties.reg
+1,Harper.reg
+1,Whimsy.reg
+1,SeaShells.reg
+1,FarS.exe.reg
+1,Install Command here.reg
+1,bds-21-settings.reg
+1,tmp_eventually02.html.reg
+1,tmp_before01.html.reg
+1,tmp_finally01.html.reg
+1,tmp_transitionconstraint02.html.reg
+1,tmp_Global02.html.reg
+1,Remove-Copy_TXT_To_Clipboard.reg
+1,Add-Desktop_Run.reg
+1,sfreviewplugin.reg
+1,hivedll.reg
+1,IDEenv.reg
+1,teerb.reg
+1,wallpaper.reg
+1,VNCHooks_Settings.reg
+1,OpenWithNotepad++-Remove.reg
+1,C250p08+46p7_NW_D3_coords.reg
+1,125650.2+254803.2_SW.reg
+1,C322p51-0p35_NE_D3_coords_corrected.reg
+1,C215p8+16p4_NW_D3_coords_corrected.reg
+1,C322p51-0p35_NW_D1_coords_corrected.reg
+1,sublimetext-openfolder.reg
+1,setup_windows_webdav_author_22.0.reg
+1,setup_windows_webdav_17.1.reg
+1,RegKeyExistsTest2.reg
+1,pristontale.reg
+1,CELibrarian.reg
+1,rPanelAllegroDog.reg
+1,take-ownership-add.reg
+1,take-ownership-remove.reg
+1,Enable Clear Type for everything.reg
+1,PreferExternalManifest.reg
+1,document.reg
+1,codec.reg
+1,caps-to-esc_scroll-to-caps.reg
+1,StockChartOle.reg
+1,yasep.reg
+1,i386.reg
+1,WMI_Performance_Adapter.reg
+1,SSDP_Discovery.reg
+1,TCP-IP_NetBIOS_Helper.reg
+1,Remote_Procedure_Call_(RPC).reg
+1,Routing_and_Remote_Access.reg
+1,Fax.reg
+1,Disable_ActionCenterNotifications.reg
+1,Status bar (bottom) in Explorer.reg
+1,Enable ReadyBoost.reg
+1,Disable Cortana WebSearch.reg
+1,Disable_Telemetry.reg
+1,TheGimp.reg
+1,AllowProtectedRenames.reg
+1,Explorer_DisableCDBurningCrap.reg
+1,Add Screen snip (all users).reg
+1,Remove Burn Disc.reg
+1,Remove Copy Move-To.reg
+1,FoxItPDF.reg
+1,Turn OFF touch visual feedback.reg
+1,Enable SMB signing.reg
+1,SystemResponsiveness.reg
+1,Explorer_HideFileExt_Hidden.reg
+1,DisableIntellSenseVS2008.reg
+1,Enable Startup Sound.reg
+1,Default Font.reg
+1,Add Secure Delete to Recycle Bin.reg
+1,Enable Diagnostic data viewer.reg
+1,ServicesDescriptions.reg
+1,Enable Fast Startup for Apps.reg
+1,Hide Virus and threat protection.reg
+1,Disabling WMP media sharing.reg
+1,refreshrate144hzbug.reg
+1,RecycleBinIconNotChanging.reg
+1,Disable Hover Time.reg
+1,Unlink services.reg
+1,Disable Lock-Screen.reg
+1,Active_development_of_Windows.reg
+1,Disable Web Content on New Tab Page.reg
+1,Lock Account after xy denials.reg
+1,Disable reserved storage.reg
+1,PowerShellCodepage.reg
+1,DisableAttachSecurityWarning.reg
+1,pws-php5cgi_2.reg
+1,ActivateDragAndDrop.reg
+1,ngc1313_targets.reg
+1,Remove Pictures From This PC 64-bit.reg
+1,Remove Videos From This PC 64-bit.reg
+1,tanetsblue_32bit.reg
+1,DeregisterNFC.reg
+1,RunAsSys - ActiveLog.reg
+1,Any2FB_register_emulator.reg
+1,Caps Lock - Map to Escape.reg
+1,zh.reg
+1,reginfo.reg
+1,monodrv.reg
+1,VGER.reg
+1,bpm_xy43.reg
+1,vim.reg
+1,DKoala1.reg
+1,pear_info.reg
+1,DisableOfficeTelemetry.reg
+1,Example1.reg
+1,ts1-25x25-5P-adap2-relax_FD.reg
+1,Miehe71-explcrack_FDporo.reg
+1,MSOFT.reg
+1,037-159714840-DSx1.jpg.centroid.reg
+1,113-159713827-DSx1.jpg.centroid.reg
+1,thg-cmenu-uk.reg
+1,i227-implicit-this-in-IR.py.reg
+1,umlcd_model.py.reg
+1,i72-shared-reference.py.reg
+1,i126-empty.py.reg
+1,i199-afm-with-inhritance.py.reg
+1,WinNetworkServerTweak.reg
+1,m33_bconfig_3point.reg
+1,Shapefile_Unicode_ArcGIS101.reg
+1,SharedBox-SentItems.reg
+1,add-to-context-menu.reg
+1,Registry Settings.reg
+1,putty_Solarized-Light.reg
+1,MSFT_nxOMSSudoCustomLogResource.reg
+1,BRE.StaticSupport.x64.reg
+1,TightVNC_win7.reg
+1,PipeJoint-vibration.reg
+1,SquarePlate-Splines.reg
+1,SScablePointLoad.reg
+1,PRG1_12arcsec_aftercuts.reg
+1,blobgals_PRG2_12arcsec_raw.reg
+1,flora_pac.reg
+1,windows-11-taskbar-small.reg
+1,KG_Kbd_NT.reg
+1,DisableOfflineFiles.reg
+1,x64HKCUBostonRegistryWinter2015.reg
+1,sflessplugin.reg
+1,myVNA_setup.reg
+1,Power Text.reg
+1,duotone-darkpark.reg
+1,Builtin Solarized Dark.reg
+1,AdventureTime.reg
+1,rebecca.reg
+1,Builtin Tango Light.reg
+1,Solarized Dark.reg
+1,vpn-triggers.reg
+1,Hello-Enable.reg
+1,Cortana-Enable.reg
+1,lua_edit2008.reg
+1,.tif.reg
+1,Hart_Test-.reg
+1,Personalisierung - Designs.reg
+1,Anwendung - RegEdit.reg
+1,0.reg
+1,tomcat32.reg
+1,remap_caps_lock_to_escape.reg
+1,unregister_openid_protocol_handler.reg
+1,tmp_next03.als.reg
+1,tmp_next01.html.reg
+1,tmp_eventually01.dot.reg
+1,tmp_Global00.html.reg
+1,tmp_Global00.js.reg
+1,tmp_next04.html.reg
+1,tmp_clafertransitions02.dot.reg
+1,Remove-Open_With_Notepad.reg
+1,Win8_ALT-F4_Default-Shutdown.reg
+1,AdjustVisualsForBestPerformance.reg
+1,enable_baloon.reg
+1,highway.reg
+1,blazer.reg
+1,firefox_windows.reg
+1,jpegrecomp-unregister.reg
+1,C234p2+24p4_NW_D1_coords.reg
+1,124425.9+164758.0_SE.reg
+1,C260p61+32p13_NW_D1_coords.reg
+1,C210p2+02p8_NW_D1_coords_corrected.reg
+1,C210p2+02p8_NE_D2_coords.reg
+1,C234p2+24p4_NW_D2_coords_corrected.reg
+1,c234p91+34p42.reg
+1,C250p08+46p7_NW_D2_coords_corrected.reg
+1,C210p2+02p8_SE_D2_coords.reg
+1,C215p8+16p4_NW_D3_coords.reg
+1,PatternToolkitHost.reg
+1,Enable Xbox DVR (Default).reg
+1,Putty Templates.reg
+1,NppLoader (32-bit OS).reg
+1,CleanProjectShellMenuExt.reg
+1,flash.reg
+1,my_unregister.reg
+1,TSFileSource.reg
+1,FieldDataDSN.reg
+1,fstimer_demo.reg
+1,Diagnostic_Service_Host.reg
+1,Retail_Demo_Service.reg
+1,Windows_Backup.reg
+1,dmwappushsvc.reg
+1,App_Readiness.reg
+1,Xbox_Live_Networking_Service.reg
+1,Windows_Error_Reporting_Service.reg
+1,010.Turn_SmartScreen_Off.reg
+1,Device_Install_Service.reg
+1,Block_Level_Backup_Engine_Service.reg
+1,Optimize_drives.reg
+1,windowmetris-default.reg
+1,CrystalReports13_PDFExportMachine.reg
+1,Enable  inactive window scrolling.reg
+1,ControlPanelFonts.reg
+1,Enable online Narrator services.reg
+1,Disable Preview Build.reg
+1,Add Compatibility tab to properties.reg
+1,Enable_LongPaths.reg
+1,Remove Settings from Control Panel.reg
+1,Enable Aero Peek.reg
+1,Show Family options.reg
+1,Disable_StartSaveInMyDocs.reg
+1,Enable Windows Explorer StatusBar.reg
+1,Disable_SearchAsst.reg
+1,RestoreVolumeIcon.reg
+1,Enable_Openwith.reg
+1,Disable Guest Mode (current users).reg
+1,Enable recommended troubleshooting.reg
+1,Reset MS Paint Window Position.reg
+1,Disable Silksmooth.reg
+1,Build 15063_x64.reg
+1,Disablecontrolled folder access.reg
+1,Enable Windows Firewall.reg
+1,Enable F1 Hotkey.reg
+1,Disable Windows Store.reg
+1,DisableAutostart for MEI App.reg
+1,Enable Lock Icon Moving.reg
+1,Disable_Negotiate.reg
+1,SendTo.reg
+1,Enable file obfuscation.reg
+1,Add Dropbox context menu.reg
+1,notepad_replace.reg
+1,nahowikiplugin.reg
+1,LBCPUMon-ErrorLoggingActivation.reg
+1,xcomdoc_unicode.reg
+1,Restore Desktop To This PC 64-bit.reg
+1,Remove Music From This PC 64-bit.reg
+1,nam.reg
+1,Add Bash to Context Menu.reg
+1,wvtstoff.reg
+1,Modbucfg.reg
+1,xml_svg.reg
+1,cena_jet+core.reg
+1,cc-ext.reg
+1,explorer.home-group.show.reg
+1,Test_LPT.reg
+1,gh-stub2.reg
+1,ami-launch-fix-minimal-64.reg
+1,colors-putty.reg
+1,Sneddon-200_FD.reg
+1,ts1-25x25-5P-adap2-relax-aitken_FD.reg
+1,center.reg
+1,079-175707767-DSx1.jpg.centroid.reg
+1,ClaferWiki-Specific_Help.py.reg
+1,1280x720.reg
+1,disable_activity_history.reg
+1,autorun.reg
+1,MSFT_nxOMSCustomLogResource.reg
+1,bookmarks-v1-nested-show-on-toolbar.reg
+1,Hole2D-Lagrange.reg
+1,Ultravnc_mirror2.reg
+1,html_template_flexy.reg
+1,pdo.reg
+1,hash.reg
+1,AllowDetachedSignature.reg
+1,mask_J0005-0006.reg
+1,phpstorm_xdebug-file-link.reg
+1,Japanesque.reg
+1,LiquidCarbonTransparentInverse.reg
+1,BlulocoDark.reg
+1,Mathias.reg
+1,Operator Mono Dark.reg
+1,4_37_to_4_41.reg
+1,DeshabilitarJavaUpdates.x64.reg
+1,System - Computername.reg
+1,fastcopy_reg.reg
+1,install_MSYS2_right_click_menu.reg
+1,showselun.reg
+1,ForceRemovePteid35.reg
+1,tmp_betweenand01.dot.reg
+1,tmp_TrafficLight.als.reg
+1,ProcessExplorerColumnSets.reg
+1,ScreenSaver.reg
+1,Default-Explorer_Quick_Access.reg
+1,Enable-Last_Active_Taskbar_Click.reg
+1,Disable-Updates_Hijacking_Shutdown.reg
+1,Default-Context_Menu_Actions.reg
+1,setup_pixarmovies.reg
+1,OGSBenchmark1D-nonmixed.reg
+1,manual-bsod-enable.reg
+1,vaughn.reg
+1,hurtado.reg
+1,BEurtle.reg
+1,c319p70+0p56_combined_tiles.reg
+1,C322p51-0p35_combined_tiles.reg
+1,C210p2+02p8_NE_D3_coords_corrected.reg
+1,c328p33+0p19.reg
+1,C215p8+16p4_NE_D1_coords_corrected.reg
+1,C210p2+02p8_NE_D1_coords.reg
+1,c3p71-0p95.reg
+1,C234p2+24p4_SW_D1_coords_corrected.reg
+1,C250p08+46p7_NE_D3_coords_corrected.reg
+1,C260p61+32p13_NE_D1_coords.reg
+1,C210p2+02p8_SW.reg
+1,C203p83+41p00_SE_D3_coords.reg
+1,BRE_EnableStaticMethodCall.reg
+1,Common_Registry_Settings.reg
+1,setup_windows_webdav_author_18.1.reg
+1,setup_windows_webdav_author_24.0.reg
+1,setup_windows_webdav_18.0.reg
+1,ThemeHC.reg
+1,DNAssist.reg
+1,file_gettext.reg
+1,controls.reg
+1,pwr.reg
+1,dualdos.reg
+1,All_Class.reg
+1,qgis.reg
+1,win8-dot-bit.reg
+1,Ram Drive - Cache.reg
+1,force_NumLock_on_at_startup.reg
+1,all_in_one.reg
+1,c.reg
+1,suffix.reg
+1,BOOT_2.reg
+1,RCP_Crash.reg
+1,Windows_Management_Instrumentation.reg
+1,Smart_Card.reg
+1,Active-X_Installer.reg
+1,LPA_Service.reg
+1,Print_Spooler.reg
+1,Enable Dns over HTTOS (DoH).reg
+1,Show_default_shortcut_tooltips.reg
+1,Zero Startup Delay.reg
+1,Trial Reset.reg
+1,Default_active_hours_range.reg
+1,DisableWindows10Nagging.reg
+1,Add Shift+Open Linux shell here.reg
+1,Block Feature Updates.reg
+1,Driver Updates off (until 2004).reg
+1,nmap.reg
+1,Enable Samples Page.reg
+1,myownmodded.reg
+1,MetroIE.reg
+1,Preview_Pane.reg
+1,Remove Encrypt-Decrypt.reg
+1,Desktop qualitywallpaper.reg
+1,Add cmd.reg
+1,Show Account protection.reg
+1,DisablePrefetchSuperFetch.reg
+1,Speedup_Shutdown.reg
+1,Turn ON touch visual feedback.reg
+1,Disable Hotspot 2.0.reg
+1,(defaults).reg
+1,Enable Grayscale.reg
+1,ERBM-.reg
+1,RestoreIPSECDriver.reg
+1,Disable Feedback Notifications.reg
+1,Increase Taskbar Transparency Level.reg
+1,Enable_QuickEdit.reg
+1,Enable Pointer Precision.reg
+1,Explorer_MaxCachedIcons.reg
+1,dbfinderplugin.reg
+1,exclusion.reg
+1,topic1_resampled.nii.gz.reg
+1,policies.reg
+1,EnableFusionLog.reg
+1,shellContextAdd.reg
+1,coadd_W-J-V_Zw2089_good.edgemask.reg
+1,WFI.2000-12-26T07:30:37.238_3.reg
+1,example-custom-protocol.reg
+1,MIM-Powershell-Agent.reg
+1,EnableAllDocumentsSearchFunction.reg
+1,doc.TCPv6.reg
+1,EditinNeovim.reg
+1,MinttyDefault.reg
+1,cmd_to_utilman.reg
+1,backup_outlook.reg
+1,auth_prefmanager.reg
+1,math_matrix.reg
+1,casa_scan.reg
+1,disablewarmboot.reg
+1,DesktopShortcuts.reg
+1,EnhancedCrossHairON.reg
+1,setRGUNINST_mod.reg
+1,am-instant-run__template.reg
+1,individual.reg
+1,gamma.reg
+1,thg-cmenu-nl.reg
+1,constraints.py.reg
+1,i74.py.reg
+1,ClaferTools_ToolingArchitecture.py.reg
+1,simple-arithmetic.py.reg
+1,1280x800.reg
+1,pointing_wrong.reg
+1,GCQL.reg
+1,circ_P1.reg
+1,SMBForward.reg
+1,Git_AddToContextMenu.reg
+1,MSFT_nxMySqlGrantResource.reg
+1,MSHaruka_64bit.reg
+1,Mt5UI.reg
+1,PointLoadedPlate-NURBS.reg
+1,Harmonic1D-p3.reg
+1,shifttest.reg
+1,ZCharacterExhibitor.reg
+1,PowerShellRunAsAdmin.reg
+1,sfforkeddoctrineapplyplugin.reg
+1,RegTestChangesFile.reg
+1,7c.reg
+1,3out.reg
+1,ActivateNet472WpfFix.reg
+1,Tango Adapted.reg
+1,PencilDark.reg
+1,Borland.reg
+1,Piatto Light.reg
+1,Symfonic.reg
+1,Suggested-Disable.reg
+1,Store-Enable.reg
+1,DDE.reg
+1,Windows Firewall.reg
+1,ComServer.reg
+1,SccmConsoleHKCU.reg
+1,tmp_after01.als.reg
+1,tmp_before01.als.reg
+1,tmp_final01.html.reg
+1,netzwerk_wechseln.reg
+1,Trottlemenu.reg
+1,setup_outlook.reg
+1,C210p2+02p8_SW_D3_coords_corrected.reg
+1,c354p41+0p27_SW.reg
+1,c319p70+0p56_SE_D1_coords_corrected.reg
+1,C203p83+41p00_SE_D1_coords.reg
+1,c354p41+0p27_NW.reg
+1,c319p70+0p56.reg
+1,addBashInContextMenu.reg
+1,NppLoader (64-bit OS).reg
+1,LATED.reg
+1,enable_adodb_stream.reg
+1,Render_JSON_in_IE.reg
+1,vars.reg
+1,dma_interrupts.reg
+1,highlight80.reg
+1,EnableMemoryProtector.reg
+1,Application_Management.reg
+1,Still_Image_Acquisition_Events.reg
+1,Windows_Update.reg
+1,Connected_Devices_Platform_Service.reg
+1,WebClient.reg
+1,006.Enable_System_Restore.reg
+1,Disable Grayscale.reg
+1,elevated.reg
+1,Enable ValidateAdminCodeSignatures.reg
+1,Send all data.reg
+1,Disable Network Location Wizard.reg
+1,Fix 0x800705b4.reg
+1,Add Sign-out Button.reg
+1,Turn OFF mono audio.reg
+1,Turn_OFF_Allow_VPN_while_roaming.reg
+1,Remove Open in new tab context menu.reg
+1,Remove Compact OS.reg
+1,Enable sync.reg
+1,Driver Updates on.reg
+1,Change Insider Level to Slow ring.reg
+1,Remove File Attributes context.reg
+1,Remove DISM (Restorehealth).reg
+1,BAT-add Open with.reg
+1,Add Edit with VS Code.reg
+1,Automatically run Disk Cleanup.reg
+1,1 hour inactivity lock.reg
+1,ComputersWorkgroupDomain.reg
+1,Add Linux to navigation panel.reg
+1,Show hidden files.reg
+1,Disable First Logon Animation.reg
+1,AutoChkTimeOut.reg
+1,Remove control userpasswords2.reg
+1,sfcombineplugin.reg
+1,addFileType.reg
+1,csdoctrineactasgeolocatableplugin.reg
+1,vfsstream.reg
+1,Caps Lock - Restore Default.reg
+1,WinMerge_for_TFS_VS2012_x86.reg
+1,VisualStudioForAzureGov.reg
+1,saa.reg
+1,wannacry-vaccine.reg
+1,stdResults6.reg
+1,Phone.reg
+1,net_dig.reg
+1,ami-launch-fix-keys-only-32.reg
+1,gh-stub1.reg
+1,Short10x20-adap_FD.reg
+1,enable_windows_long_path.reg
+1,087-159714840-DSx1.jpg.centroid.reg
+1,i70.py.reg
+1,my2-fonts.reg
+1,restore_shortcut_text_to_default.reg
+1,python-pe.exe -2.reg
+1,python-pe.exe -3.reg
+1,Cantilever-p3-10x1.reg
+1,SquarePlate-Spectral.reg
+1,desserts.reg
+1,runonce.reg
+1,lsgc.reg
+1,Doskey_Registry.reg
+1,x86HKCUBostonRegistryWinter2015.reg
+1,4out.reg
+1,synthwave.reg
+1,Galaxy.reg
+1,JetBrains Darcula.reg
+1,ChallengerDeep.reg
+1,ps1_protocoll.reg
+1,execution-policy.reg
+1,BatterySaver-Disable.reg
+1,4_59_to_4_61.reg
+1,DeshabilitarJavaUpdates.i586.reg
+1,lua_edit2010.reg
+1,base16-codedark.reg
+1,System - Computerschutz.reg
+1,Desktop.reg
+1,uninstall_MSYS2_right_click_menu.reg
+1,lh.benson14_retinotopy.v3_0.sphere.reg
+1,RegistryEntry.reg
+1,tmp_Global05.als.reg
+1,tmp_clafertransitions02.html.reg
+1,tmp_after01.dot.reg
+1,Add-Desktop_Power_Menu.reg
+1,Remove-Open_Command_Window_Here.reg
+1,comp_default.reg
+1,LBRY-URI.reg
+1,anaconda_mysql_windows_fix.reg
+1,sundried.reg
+1,apple-terminal.reg
+1,c328p33+0p19_SE.reg
+1,C250p08+46p7_SW.reg
+1,C250p08+46p7_SW_D2_coords.reg
+1,c203p83+41p00.reg
+1,C210p2+02p8_NW_D3_coords.reg
+1,c328p33+0p19_NE_D2_coords_corrected.reg
+1,C215p8+16p4_SW_D2_coords_corrected.reg
+1,c5p20+0p18.reg
+1,C210p2+02p8_SE_D2_coords_corrected.reg
+1,C203p83+41p00_SE.reg
+1,C234p2+24p4_SW_D2_coords.reg
+1,iis_redirect.reg
+1,brcwatermark.reg
+1,setup_windows_webdav_21.0.reg
+1,setup_windows_webdav_17.0.reg
+1,setup_windows_webdav_20.0.reg
+1,Dark1.reg
+1,Themes FULLLLL.reg
+1,Primordial Life.reg
+1,mdb2_driver_pgsql.reg
+1,dev-policy.reg
+1,one-click-window-switch.reg
+1,disable_Java_Auto-Update.reg
+1,bf2_x64.reg
+1,putty-vg93em.reg
+1,change_langage_xp.reg
+1,LAZY.reg
+1,StockChartX.reg
+1,explorer_namefix_integrate.reg
+1,Downloaded_Maps_Manager.reg
+1,AppX_Deployment_Service.reg
+1,Plug_and_Play.reg
+1,Superfetch.reg
+1,Task_Scheduler.reg
+1,Phone_Service.reg
+1,Distributed_Link_Tracking_Client.reg
+1,Themes.reg
+1,WWAN_AutoConfig.reg
+1,HV_Host_Service.reg
+1,Distributed_Transaction_Coordinator.reg
+1,temp_env.reg
+1,WMP_Tweaks.reg
+1,DisableIPv6.reg
+1,Turn ON TruePlay.reg
+1,DisableFileSyncNGSC.reg
+1,Disable Getting to know you.reg
+1,Restart Aero.reg
+1,Remove Manage from This-PC.reg
+1,Close Emoji Panel.reg
+1,Unhide Control Panel items.reg
+1,NetworkDrive.reg
+1,Windows 10 Startup Delay tweak.reg
+1,Enable Run Command.reg
+1,Disable Smartscreen hardening.reg
+1,USB Malware.reg
+1,Net_FasterThroughput.reg
+1,Enable Diagnostic Data of Narrator.reg
+1,Send parameters.reg
+1,Remove Classic Personlization.reg
+1,extreme-settings.reg
+1,Disable numerical sorting.reg
+1,Show all icons in the Control Panel.reg
+1,Add Look for an app in the Store.reg
+1,Enable NTFS file compression.reg
+1,DisablePagingExecutive.reg
+1,IncludeInLibrary.reg
+1,Disable Saving History.reg
+1,Disable printing.reg
+1,Enable Dark(er) Title Bars.reg
+1,Enable MMX.reg
+1,vdserver_d.reg
+1,swcrosslinkapplicationplugin.reg
+1,Codeschool.reg
+1,org_console.reg
+1,bpm_xy32.reg
+1,db_querytool.reg
+1,stream_var.reg
+1,SmallCapsMenu.reg
+1,explorer.network.hide.reg
+1,ami-launch-fix-minimal-32.reg
+1,rawk_prefs_v1.0.reg
+1,Remove VNR Settings.reg
+1,job1.reg
+1,2016_0326_wine-font-replace-mona.reg
+1,pd-settings.reg
+1,027-159714840-DSx1.jpg.centroid.reg
+1,i275-uniqueNames.py.reg
+1,i49_parentReduce.py.reg
+1,ClaferToolsDemo_Adding_Quality.py.reg
+1,paths.py.reg
+1,eCos_model.py.reg
+1,Good1_copy_Coadded_shifted_compare.reg
+1,1024x768.reg
+1,IISxpressLoadPriority_Medium.reg
+1,IISxpressLoadPriority_High.reg
+1,pvslices.reg
+1,backup.reg
+1,HideUserFromLogon.reg
+1,MSFT_nxAvailableUpdatesResource.reg
+1,directplay-win32.reg
+1,add_open_cmd_here_for_windows10.reg
+1,BeamFrame.reg
+1,exact_p1.reg
+1,NavierPress_p3.reg
+1,PointLoadedPlate-project.reg
+1,CanTS2D-p2.reg
+1,setup_python26_for_py2exe.reg
+1,LockFolder.reg
+1,cloclztest.reg
+1,Ultravnc_mirror.reg
+1,RCP_PhysicalMemory.reg
+1,kbdneo2_uninstall.reg
+1,atom_home.reg
+1,tomorrow_night.reg
+1,HKLocal.reg
+1,Lina.reg
+1,chrome.reg
+1,install1.reg
+1,onoff_region_on.reg
+1,6out.reg
+1,session.reg
+1,Enable Remote pc shutdown.reg
+1,duotone-darkcave.reg
+1,Flat.reg
+1,Terminal Basic.reg
+1,Tango Half Adapted.reg
+1,Calamity.reg
+1,Hybrid.reg
+1,Molokai.reg
+1,Toggle.reg
+1,Wireless-Disable.reg
+1,Enable Kerberos Logging.reg
+1,txtfile.reg
+1,Energieoptionen.reg
+1,Uninstall Command here.reg
+1,relay 5 on.reg
+1,tmp_initially01.als.reg
+1,tmp_combinedEGX01.als.reg
+1,tmp_U01.html.reg
+1,tmp_combinedEGX01.dot.reg
+1,Remove-Take_Ownership.reg
+1,Disable-Shortcut_Text.reg
+1,OGSBenchmark1D.reg
+1,old2set3set.reg
+1,sfjqueryuiplugin.reg
+1,hiveodbc.reg
+1,PluginSettings.reg
+1,TinyCAD.reg
+1,vm.Aspects.Messages.reg
+1,nrg.reg
+1,homebrew.reg
+1,c319p70+0p56_NW_D3_coords_corrected.reg
+1,c221p13+31p22.reg
+1,125650.2+254803.2_NE.reg
+1,C322p51-0p35_SW.reg
+1,C210p2+02p8_SW_D3_coords.reg
+1,C215p8+16p4_NE_D3_coords.reg
+1,C250p08+46p7_NW.reg
+1,C250p08+46p7_SE_D3_coords_corrected.reg
+1,c319p70+0p56_NW_D2_coords_corrected.reg
+1,VSSTUDIOFULL.reg
+1,ThemeOld2.reg
+1,CapsLock2Esc.reg
+1,capstoctrl.reg
+1,Decoder registry.reg
+1,enable_uisuppressionmode.reg
+1,emacsHome.reg
+1,RunPowerShellScriptAsAdministrator.reg
+1,solve_admin_problem_thalamus.reg
+1,autodiscoverfix.reg
+1,syscfg.reg
+1,PuttySolarizedDark.reg
+1,Shell cmd - no working dirs.reg
+1,enable_standard_RunAs_on_Vista.reg
+1,disable_shortcut_to_text.reg
+1,EnableLinkedConnections.reg
+1,MSTTS_V110_enGB_EvaM_remove.reg
+1,Disable_WDDM_TDR.reg
+1,Remote_Access_Connection_Manager.reg
+1,Remote_Desktop_Services.reg
+1,testbox.reg
+1,Disable Periodic Registry backups.reg
+1,Disable_GuestAccessEventLog.reg
+1,Turn OFF fix scaling for apps.reg
+1,Disable_LMhashPW.reg
+1,Disable recommended troubleshooting.reg
+1,Disable Auto-Mounting of Drives.reg
+1,Enable_ElevateNonAdmins.reg
+1,Google Backup and Sync.reg
+1,Sandboxie Trial Reseter.reg
+1,Disable Deuteranopia.reg
+1,ClassicControlPanel.reg
+1,Disable powermanagement on port0.reg
+1,Allow changing desktop background.reg
+1,British Susan voice.reg
+1,ScannersAndCameras.reg
+1,Disable NetworkThrottlingIndex.reg
+1,Disable_AutoRestartShell.reg
+1,Add Compact OS.reg
+1,TdrDelay-GPUReset.reg
+1,Enable Cortana WebSearch .reg
+1,Show Device security.reg
+1,Remove Give access to.reg
+1,Disable PreloadCondition.reg
+1,Enable PreloadCondition.reg
+1,Add Intel Graphics.reg
+1,Disable detailed Battery stats.reg
+1,Disable_SmoothScroll.reg
+1,DisableWifi Sense.reg
+1,vdserver.reg
+1,Ontica.reg
+1,Banobras.reg
+1,GammaFix.reg
+1,cmd_env.reg
+1,Regshot.1.Redo.reg
+1,Open Command Window Here.reg
+1,iquomi-protocol.reg
+1,doc.TCPv4Server.reg
+1,bpm_xy55.reg
+1,bpm_xy24.reg
+1,html_template_phplib.reg
+1,MGen.reg
+1,ContextCmder-Disable.reg
+1,move.reg
+1,KU-HKCU64.reg
+1,053-159713827-DSx1.jpg.centroid.reg
+1,KePlayerPlugin.reg
+1,thg-cmenu-pt_BR.reg
+1,thg-cmenu-ko.reg
+1,ACCDemo_attributedFeatureModels.py.reg
+1,BMM_model.py.reg
+1,Coadded_copy_Coadded_copy_compare.reg
+1,5. Custom.reg
+1,Spanish (SP).reg
+1,1920x1080.reg
+1,hipoor_GMCs_xraysrcs.reg
+1,sfsimplecmsplugin.reg
+1,MSFT_nxOMSPluginResource.reg
+1,MSFT_nxMySqlUserResource.reg
+1,MSFT_nxNopResource.reg
+1,MSHaruka_32bit.reg
+1,triangular-neumann.reg
+1,SquarePoint_p3.reg
+1,CanTS2D-p3.reg
+1,LatticeRelaxation.reg
+1,Windows_8_No_Startup_Delay.reg
+1,ExportXE7.reg
+1,blobgals_PRG3_12arcsec_raw.reg
+1,RCP_OSProcess.reg
+1,RCP_ComputerSystem.reg
+1,enablesmartnumpad.reg
+1,Autox64HKUBostonRegistryWinter2015.reg
+1,bcmath.reg
+1,duotone-darklake.reg
+1,Pnevma.reg
+1,Batman.reg
+1,idea.reg
+1,Ubuntu.reg
+1,WildCherry.reg
+1,PencilLight.reg
+1,onehalf-light.reg
+1,4_57_to_4_59.reg
+1,lua_edit2005.reg
+1,Regedit.Document.reg
+1,FileExts.h.t.m.reg
+1,Snipping Tool.reg
+1,installWindowsCMDhere.reg
+1,Reset-ISESteroids.reg
+1,tmp_transitionconstraint02.als.reg
+1,tmp_clafertransitions01.dot.reg
+1,tmp_until01.dot.reg
+1,tmp_final01.als.reg
+1,tmp_Global02.dot.reg
+1,Add-Open_With_Notepad.reg
+1,Disable-Aero_Shake.reg
+1,tcb.reg
+1,Terzhagi-nondim.reg
+1,php_codecoverage.reg
+1,phpunit_mockobject.reg
+1,pic18f2550.reg
+1,delsvn.reg
+1,red-sands.reg
+1,novel.reg
+1,cntlm.reg
+1,AdminPrivileges.reg
+1,C250p08+46p7_SW_D2_coords_corrected.reg
+1,C215p8+16p4_NE_D2_coords.reg
+1,C250p08+46p7_SE_D2_coords.reg
+1,virus_footprint.reg
+1,c16p23+0p06_NE_D2_coords_corrected.reg
+1,C250p08+46p7_SE_D1_coords.reg
+1,c328p33+0p19_SE_D1_coords_corrected.reg
+1,c319p70+0p56_SE_D3_coords_corrected.reg
+1,C234p2+24p4_NE_D1_coords_corrected.reg
+1,Install64.reg
+1,brcrenamer.reg
+1,swap_esc_capslock.reg
+1,sublimeAddRight.reg
+1,CapsLockToCtrl.reg
+1,80903.reg
+1,pythonreg.reg
+1,uninst_tsmonservice_x86.reg
+1,win10-bahamut.registry.reg
+1,Putty_NS2MAX.reg
+1,Time_Broker.reg
+1,Hyper-V_PowerShell_Direct_Service.reg
+1,Volume_Shadow_Copy.reg
+1,Enhanced Anti-Spoofing.reg
+1,Speedup_BrowsingRemoteComputers.reg
+1,Small title bar.reg
+1,Show Virus and threat protection.reg
+1,Delete recent documents in WordPad.reg
+1,Enable_Sign_in_Background_Image.reg
+1,Enable Most used Apps in Start Menu.reg
+1,Disallow Insecure Guest Auth.reg
+1,RestoreTCPIPDriver.reg
+1,RestoreNETBTDriver.reg
+1,Taskbar Button Flashes - undo.reg
+1,Enable Rename in Recycle Bin.reg
+1,BLOCK_unsigned_elevation.reg
+1,Disable Background Apps.reg
+1,Enable_ClassicShell.reg
+1,Disable SmartScreen.reg
+1,Disable_ShutdownEventTracker.reg
+1,Reenable netplwiz Autologin.reg
+1,Remove recycle confirmation.reg
+1,Disable share settings.reg
+1,SpyNetReporting.reg
+1,Force 1607.reg
+1,Truecrypt.reg
+1,Enable AV check.reg
+1,Enable AutoPlay.reg
+1,systernals-noEULAmsg.reg
+1,19042.329 bug.reg
+1,Block MS Edge (Chromium Update).reg
+1,NewOpenDocument.reg
+1,NoName.reg
+1,Add ReadyBoost Tab.reg
+1,FastBoot.reg
+1,Add open with Notepad context menu.reg
+1,DLL-OCX-AX_Reg_UnReg.reg
+1,Windows 2004+ skip updates.reg
+1,AdministrativeTools.reg
+1,Disable Diagnostic data viewer.reg
+1,au_2.reg
+1,filedisk.reg
+1,WinLinuxClock.reg
+1,.atom.reg
+1,disablefeatures.reg
+1,WinMerge_for_TFS_VS2013_x64.reg
+1,ezoth_putty.reg
+1,Base16Default.reg
+1,stdResults9.reg
+1,stdResults4.reg
+1,stdResults5.reg
+1,stream_shm.reg
+1,html_template_xipe.reg
+1,cena_knots.reg
+1,setAMI.reg
+1,rga_gh_HKLM.reg
+1,reset-intellij-eval.reg
+1,key-remap.reg
+1,protocol.reg
+1,xmpp.reg
+1,117-159714840-DSx1.jpg.centroid.reg
+1,thg-cmenu-zh_TW.reg
+1,ACCDemo_featureModels.py.reg
+1,Telematics_PLA.py.reg
+1,ACCDemo_fullClafer.py.reg
+1,books_tutorial.py.reg
+1,sq_P1.reg
+1,MSFT_nxComputerResource.reg
+1,bookmarks-v1.reg
+1,ScordelisLo-symm-p4-2x2.reg
+1,Biharmonic1D-p3.reg
+1,PRG1_12arcsec_beforecuts.reg
+1,PRG1_F140W_10arcsec_aftercuts.reg
+1,KG_Kbd_9x.reg
+1,globalpowerpolicy.reg
+1,CapsLockIsCtrl.reg
+1,AddPdfContextMenu.reg
+1,7out.reg
+1,duotone-light.reg
+1,Github.reg
+1,Hacktober.reg
+1,ayu.reg
+1,Solarized Dark - Patched.reg
+1,Floraverse.reg
+1,Slate.reg
+1,Violet Light.reg
+1,NightLion v2.reg
+1,DisableProxy.reg
+1,OneDrive-Enable.reg
+1,VPN-Disable.reg
+1,default-shell.reg
+1,Personalisierung - Taskleiste.reg
+1,Notepad.reg
+1,Erleichterte Bedienung - Tastatur.reg
+1,setup-ado.net4_x86.reg
+1,build_solution_vs2010.reg
+1,excel-analysistoolpak-x86.reg
+1,extend_windows_temperature_range.reg
+1,tmp_Global03.als.reg
+1,tmp_next05.html.reg
+1,Default-CMD_AutoComplete.reg
+1,classicshell-init.reg
+1,chrome-remove-management.reg
+1,putty-solarized-dark.reg
+1,Magnet.reg
+1,tightvnc-2.x.reg
+1,c319p70+0p56_NE_D2_coords_corrected.reg
+1,c196p70+46p55.reg
+1,163347.2+571510.1_NE.reg
+1,C250p08+46p7_NW_D2_coords.reg
+1,c16p23+0p06_NW_D2_coords_corrected.reg
+1,c319p70+0p56_NE_D3_coords_corrected.reg
+1,c328p33+0p19_SW_D2_coords_corrected.reg
+1,125650.2+254803.2_NW.reg
+1,C260p61+32p13_NW_D3_coords.reg
+1,ContextMenu_PinToStart_Remove.reg
+1,Explorer_ThisPCFolders_Show.reg
+1,setup_windows_webdav_20.1.reg
+1,ComputerContextExample.reg
+1,add_Take_Ownership_to_context_menu.reg
+1,fstimer_default_project.reg
+1,UXLanguages_Tokens.reg
+1,key_repeat_settings.reg
+1,HomeGroup_Provider.reg
+1,Microsoft_Account_Sign-in_Assistant.reg
+1,Computer_Browser.reg
+1,Hyper-V_Host_Compute_Service.reg
+1,File_History_Service.reg
+1,008.Set_SmartScreen_to_Block.reg
+1,Xbox_Game_Monitoring.reg
+1,Remote_Procedure_Call_(RPC)_Locator.reg
+1,DNS_Client.reg
+1,Enable Color Filter.reg
+1,Turn on Clipboard History.reg
+1,Enable WMP media sharing.reg
+1,Disable Run Command.reg
+1,Explorer_FastUpdate.reg
+1,OneDrive Workaround.reg
+1,Disable capslock.reg
+1,Disable advanced indexing options.reg
+1,Workaround for Sigred.reg
+1,Remove SmartCardRoot certificates.reg
+1,Remove Infrared in Control Panel.reg
+1,MouseTrails.reg
+1,NewRarZip.reg
+1,AlwaysUnloadDLLs.reg
+1,Remove Back Button.reg
+1,Add open Elevated CMD here.reg
+1,Disable Cortana App during Startup.reg
+1,Enable Reserved Storage.reg
+1,Enable  LLMNR.reg
+1,Disable Offline Files.reg
+1,Remove Linux from navigation panel.reg
+1,EnableLM-NTLM_Responses.reg
+1,Remove Personlization.reg
+1,Extract tar files.reg
+1,Get Thin Borders.reg
+1,Stop or start Aero.reg
+1,Enable color filters hotkey.reg
+1,Enable_WindowsVersionDesktop.reg
+1,Disable_NetworkThrottlingIndex.reg
+1,Change Insider Level to Fast ring.reg
+1,Enable NetBios for all Interfaces.reg
+1,MyComputer_RecoverFolder.reg
+1,Restore Pictures To This PC 64-bit.reg
+1,tanetsblue_64bit.reg
+1,debug.reg
+1,open_review_board.reg
+1,SafedV.reg
+1,Embers.reg
+1,SolarizedDark.reg
+1,fsm.reg
+1,xml_nitf.reg
+1,contact_vcard_build.reg
+1,RemoveTakeOwnership.reg
+1,Example2.reg
+1,rga_gh_HKCR.reg
+1,rgs_open_default.reg
+1,URL_Protocol.reg
+1,VS2010InterfaceToModel.reg
+1,referecne.reg
+1,html_quickform_renderer_tableless.reg
+1,OpenCmderHere.reg
+1,063-159713827-DSx1.jpg.centroid.reg
+1,069-175707767-DSx1.jpg.centroid.reg
+1,i19.py.reg
+1,i14.py.reg
+1,Coadded2_copy_Coadded2_copy_compare.reg
+1,m33_bconfig_7point.reg
+1,BazisPortableCDBus.reg
+1,MSFT_nxOMSContainersResource.reg
+1,Win10_darkmode.reg
+1,Uninstall PowerShell here.reg
+1,NavierIcrack_p2.reg
+1,PolePinchedSphere-p3.reg
+1,PipeJoint-Lagrange.reg
+1,PRG1_F140W_12arcsec_aftercuts.reg
+1,llsctest.reg
+1,257_7600gt_seven.reg
+1,"default, alt. colors.reg"
+1,"mini, native colors.reg"
+1,RCP_HttpdServiceAccessBySAP.reg
+1,HLM_privoxy-ext.reg
+1,duotone-darkmeadow.reg
+1,duotone-darkforest.reg
+1,FrontEndDelight.reg
+1,Grass.reg
+1,FunForrest.reg
+1,PaulMillr.reg
+1,IC_Orange_PPL.reg
+1,Autoplay-Enable.reg
+1,Win7Balloons-Enable.reg
+1,Anwendungen - Treiber.reg
+1,windows_auto_logon_enable.reg
+1,Add Bash to Your Context Menu.reg
+1,registerset_all_off.reg
+1,tmp_next04.als.reg
+1,tmp_U01.dot.reg
+1,tmp_clafertransitions01.html.reg
+1,Default-Start_Menu_Recommended.reg
+1,Add-Desktop_Power_Sub_Menu.reg
+1,EST_MFC.reg
+1,Plaxis1DVerif.reg
+1,Plaxis1DVerif-nondim.reg
+1,37434_g.reg
+1,disable_baloon.reg
+1,its.reg
+1,fish-of-paradise.reg
+1,terminal-basic.reg
+1,C260p61+32p13_NE_D3_coords.reg
+1,C234p2+24p4_SE_D2_coords.reg
+1,XMMXCSJ163347.2+571510.15_NE.reg
+1,C215p8+16p4_NW_D2_coords.reg
+1,shifted.reg
+1,C234p2+24p4_NW_D1_coords_corrected.reg
+1,cmder-here-enable.reg
+1,Theme1.reg
+1,lusernet.reg
+1,alt-tab.reg
+1,PuttySolarizedLight.reg
+1,default_calc.reg
+1,.exe redirect.REPAIR.reg
+1,speedfix.reg
+1,win7-bahamut.registry.reg
+1,winprom.reg
+1,BOOT_1.reg
+1,MSTTS_V110_enUS_EvaM_remove.reg
+1,WindowsPhotoViewerWindows10.reg
+1,Hyper-V_Data_Exchange_Service.reg
+1,Peer_Name_Resolution_Protocol.reg
+1,Network_Store_Interface_Service.reg
+1,Device_Setup_Manager.reg
+1,Network_Connectivity_Assistant.reg
+1,Shell_Hardware_Detection.reg
+1,TokenBroker.reg
+1,Application_Layer_Gateway_Service.reg
+1,Enable People Barr.reg
+1,DevMgmt_PhantomDevices.reg
+1,Add Presentation Settings.reg
+1,Enable Hardware Accelerated GPU.reg
+1,AdditionalWorkerThreads.reg
+1,Disable_DesktopCleanupWizard.reg
+1,Disable Phone-PC linking on this PC.reg
+1,IE_Internet_Connection_Wizard_Done.reg
+1,Disable_WBEMLogging.reg
+1,Show seconds in taskbar clock.reg
+1,Best Quality settings.reg
+1,Disable theme syncing.reg
+1,Untrusted fonts blocking.reg
+1,Disable Windows Firewall.reg
+1,RecycleBinRenameCompost.reg
+1,Disables Insider Preview Builds.reg
+1,Disable Hide Tray Icons.reg
+1,Disable Diagnostic Data of Narrator.reg
+1,Enable UTC Time.reg
+1,DeferUpgrade.reg
+1,Disable_PCT.reg
+1,ProtocolHandlers.reg
+1,Turn ON fix scaling for apps.reg
+1,Windows Defender an adware killer.reg
+1,Disable Show Frequent Top Sites.reg
+1,Restore Default Library Settings.reg
+1,Remove windows store taskbar.reg
+1,Add Secure Delete context menu.reg
+1,Enable Windows Update Driver Update.reg
+1,Enable Bluetooth 100% volume.reg
+1,Add Timeline to Context Menu.reg
+1,ComputersNearMe.reg
+1,Windows RSAT workaround.reg
+1,Disable NTFS file compression.reg
+1,MyDocsStartmenu.reg
+1,Enable_ClearType.reg
+1,Default_processor_scheduling.reg
+1,Runaswin7_softwaredistrbutionfolder.reg
+1,sfgoogleanalyticsplugin.reg
+1,disable-keyboard-remap.reg
+1,Remove cab files as folders.reg
+1,ZSExcelAddIn.reg
+1,CFH12K_8_03_1999.reg
+1,Resourcer.reg
+1,FlatUI.reg
+1,Gnome.reg
+1,Eighties.reg
+1,nicesp.reg
+1,Windows_Online_Status_off.reg
+1,net_sieve.reg
+1,explorer.folder.hide.reg
+1,explorer.weiyun.hide.reg
+1,explorer.folder.show.reg
+1,rga_stub_remove_all.reg
+1,removeRFS.reg
+1,rga_rguninst_remove.reg
+1,Future Pinball Keys.reg
+1,win7.reg
+1,simsun_config.reg
+1,dcn.reg
+1,093-159713827-DSx1.jpg.centroid.reg
+1,127-159714840-DSx1.jpg.centroid.reg
+1,073-159713827-DSx1.jpg.centroid.reg
+1,thg-cmenu-nn.reg
+1,enforcingInverseReferences.py.reg
+1,French (FR).reg
+1,Lock-Screen-Off.reg
+1,twitch2vlc.reg
+1,wsh_32bit_ota.reg
+1,cobalt2.reg
+1,mlsubmit.reg
+1,TightVNC.reg
+1,TightVNC-del_win7.reg
+1,PointLoadedPlate+project.reg
+1,PipeJoint-NURBS.reg
+1,win_long_filename.reg
+1,ouverture_session_W7.reg
+1,nfs.reg
+1,x64HKLMRegistryWinter2015.reg
+1,mergeide.reg
+1,sane.reg
+1,instant_unshare.reg
+1,7a.reg
+1,5out.reg
+1,4c.reg
+1,Treehouse.reg
+1,Pro.reg
+1,Glacier.reg
+1,Atom.reg
+1,The Hulk.reg
+1,Bitlocker-Enable.reg
+1,SecurityAndMaintenance-Disable.reg
+1,Capabilities.reg
+1,System - Visuelle Effekte.reg
+1,Maps.reg
+1,browser tweak.reg
+1,pear.foo.com.reg
+1,basicauth.reg
+1,relay 2 on.reg
+1,relay 4 on.reg
+1,lockstartmenu.reg
+1,tmp_next03.html.reg
+1,tmp_eventually02.dot.reg
+1,Disable-Start_Menu_Recommended.reg
+1,Disable-Win10_Snap_Assist.reg
+1,Remove-Open_PowerShell_Here.reg
+1,standard.reg
+1,FxFileExtension32.reg
+1,install_lync_plugin_as_website.reg
+1,EmptyPluginSettings.reg
+1,andale_mono_in_console.reg
+1,QLV.reg
+1,circ_R1A30.reg
+1,Emacs-23.4.reg
+1,XMMXCSJ125650.2+254803.2_NE.reg
+1,C215p8+16p4_NW_D2_coords_corrected.reg
+1,125650.2+254803.2_SE.reg
+1,C260p61+32p13_NW.reg
+1,C250p08+46p7_NE.reg
+1,163347.2+571510.1_SE.reg
+1,C234p2+24p4_SE_D2_coords_corrected.reg
+1,registerset_fridge.reg
+1,sfckeditorplugin.reg
+1,BrowserVersion.reg
+1,usart.reg
+1,dma_channel.reg
+1,dma_stream.reg
+1,win98se_max_conn.reg
+1,KeyError.reg
+1,reuac.reg
+1,POSReady.reg
+1,install_toclip.reg
+1,ipoverusb-first.reg
+1,DisableMemoryProtector.reg
+1,test01_icrs.reg
+1,Encrypting_File_System_(EFS).reg
+1,Remote_Desktop_Configuration.reg
+1,CoreMessaging.reg
+1,Security_Accounts_Manager.reg
+1,Workstation.reg
+1,Windows_Camera_Frame_Server.reg
+1,Hide hidden files (default).reg
+1,Enable Show Frequent Top Sites.reg
+1,MouseWheelScrollLines.reg
+1,IE_HideGoButton.reg
+1,Add msconfig into Control Panel.reg
+1,IE_MaxConnections.reg
+1,Enable_ShellExecuteHooks.reg
+1,Add System Protection.reg
+1,Enable System Control panel.reg
+1,Disable nVidia startups.reg
+1,Disable AutoPlay.reg
+1,CloneCD.reg
+1,TaskManagerSettings.reg
+1,Defender exclusions.reg
+1,Replace Font.reg
+1,Enable (default) Widevine DRM.reg
+1,Workaround high CPU usage.reg
+1,Disable Windows Hello Biometrics.reg
+1,!xpsp3_safe.reg
+1,Disable_FilePrintSharing.reg
+1,Disable Bluetooth 100% volume.reg
+1,Disable_ShortcutTo.reg
+1,Disable animations.reg
+1,Disable Do not Track.reg
+1,Enable App suggestions.reg
+1,Disable USB acess for .exe.reg
+1,Add Personalization.reg
+1,Enable Microsoft Edge preload.reg
+1,IE_StartPage_Blank.reg
+1,Handwriting Panel (Large font size).reg
+1,Remove common program groups.reg
+1,Enable passwords sync.reg
+1,Disable registration handler.reg
+1,MSProgramGroup.reg
+1,Restrict Thunderbolt.reg
+1,Remove Intel Graphics.reg
+1,disable_switch_user_option.reg
+1,suchmaschine.reg
+1,install-calao.reg
+1,event.reg
+1,changeFontToUbuntu.reg
+1,helloworld.reg
+1,stdResults8.reg
+1,stdResults1.reg
+1,install_admin.reg
+1,file_smbpasswd.reg
+1,math_stats.reg
+1,crab_nebula_complex.reg
+1,OpenCommandPrompt.reg
+1,T1546.010-cleanup.reg
+1,desktop.shortcut.hide.reg
+1,ra3_gamelaunch_first.reg
+1,registry-entries.reg
+1,whgdsreg.reg
+1,signit.reg
+1,023-159713827-DSx1.jpg.centroid.reg
+1,oclBench_b3.py.reg
+1,2560x1600.reg
+1,Disable Pictures Folder.reg
+1,ntsyslog.reg
+1,clear registry.reg
+1,sfwebrpcplugin.reg
+1,integrate REMOVE.reg
+1,bibclean.reg
+1,sq_P2.reg
+1,Keep PowerShell Blue.reg
+1,disable_Bing_searches.reg
+1,mstsc_client_access_error_fix.reg
+1,Cantilever-Cable3p.reg
+1,Utkrager.reg
+1,ConEmu32.reg
+1,SetToUTC.reg
+1,PowerPointDPI-300.reg
+1,block.reg
+1,unblock.reg
+1,native.reg
+1,kbd_win10_uninstall.reg
+1,"default, default colors.reg"
+1,Comic Sans MS.reg
+1,gvim_cm.reg
+1,fedora-image.reg
+1,firewall_block.reg
+1,2b.reg
+1,Snazzy.reg
+1,Purple Rain.reg
+1,Builtin Dark.reg
+1,Vaughn.reg
+1,Novel.reg
+1,Wireless-Enable.reg
+1,Hart.reg
+1,HKCR_exts.reg
+1,RAE.reg
+1,Disable Crash Reporting.reg
+1,putty_default.reg
+1,SUSE_PackageRepositoryLocationSFCB.reg
+1,tmp_TrafficLight.dot.reg
+1,tmp_next02.dot.reg
+1,tmp_eventually04.dot.reg
+1,tmp_weakuntil01.dot.reg
+1,tmp_combinedEGX02.html.reg
+1,strongNameBypass.reg
+1,Add-Take_Ownership-Expanded.reg
+1,Remove-Desktop_Power_Menu.reg
+1,no_updates.reg
+1,UTC Time.reg
+1,SSL2 to SSL3.reg
+1,C234p2+24p4_NE_D1_coords.reg
+1,C210p2+02p8_SE_D1_coords.reg
+1,C210p2+02p8_NE.reg
+1,c16p23+0p06_NE.reg
+1,C210p2+02p8_SE_D3_coords.reg
+1,C215p8+16p4_SW_D3_coords_corrected.reg
+1,XMMXCSJ124425.9+164758.0_NE.reg
+1,c354p41+0p27_NE.reg
+1,registrychanges.reg
+1,setup_windows_webdav_24.0.reg
+1,ThemeOld.reg
+1,ds9_R1.reg
+1,net_url_mapper.reg
+1,NHaml_Schema-vs2008.reg
+1,sublimeDeleteRightTest.reg
+1,php.reg
+1,win10-deactivate-upnp.reg
+1,remap_caps_to_ctrl.reg
+1,date_holidays_japan.reg
+1,Enterprise_App_Management_Service.reg
+1,Geolocation_Service.reg
+1,Server.reg
+1,^i.reg
+1,fcdbbackupplugin.reg
+1,Enable Office 365 Macro protection.reg
+1,BackColor.reg
+1,ShellServiceObjectDelayLoad.reg
+1,ScheduledTasks.reg
+1,Add control userpasswords2.reg
+1,Turn off Tdr checker.reg
+1,Create Kernel memory dump on BSOD.reg
+1,Disable Windows Connection Manager.reg
+1,Add Shift+right click SFC_SCANNOW.reg
+1,(default) All context menu entries.reg
+1,Enable Indexer Backoff.reg
+1,IE_Disable_LangBar.reg
+1,Reset Night Light Default data.reg
+1,Disable GetWindows 10.reg
+1,Explorer with Ribbon minimized.reg
+1,Add File Attributes context.reg
+1,Enable Quick Access.reg
+1,IE_RemoveActiveXBar.reg
+1,Disable Indexer Backoff.reg
+1,OpenInVisualStudio.reg
+1,Disable Run Dialog Box (all users).reg
+1,Disable Runtime Broker.reg
+1,Enable Maintenance.reg
+1,CastToDevice.reg
+1,Enable animation.reg
+1,Remove Environment Variables.reg
+1,Disable Show most used apps.reg
+1,Add common program groups.reg
+1,x86.reg
+1,Taskbar Button Flashes.reg
+1,Remove Command Prompt.reg
+1,Add Set as Desktop Background.reg
+1,Enable start narrator after sign-in.reg
+1,Enable Console Mode Sign-in on.reg
+1,Reset MS Word Window Position.reg
+1,Disable GameDVR .reg
+1,Remove SEC NVMe Idle Timeout.reg
+1,dpmemio.reg
+1,HideSystemFolders.reg
+1,MyComputer_HideFolder.reg
+1,disable publisher verification.reg
+1,vol_add.reg
+1,Disable-GoogleChrome-AutoUpdate.reg
+1,doc.SerialPort.reg
+1,cmd_to_lsass.reg
+1,tree.reg
+1,html_crypt.reg
+1,xml_transformer.reg
+1,html_progress.reg
+1,windows.reg
+1,bypass_rga_stub.reg
+1,DebugLogOn.reg
+1,rdpro_reg.reg
+1,107-159714840-DSx1.jpg.centroid.reg
+1,thg-cmenu-es.reg
+1,i57-navParent.py.reg
+1,i23.py.reg
+1,i137_parsing.py.reg
+1,subtyping-primitive-types.py.reg
+1,i239.py.reg
+1,EDM_Intro.py.reg
+1,English (UK).reg
+1,Italian.reg
+1,ohbeam_with_hiiregions.reg
+1,hipoor_GMCs.reg
+1,elev.reg
+1,Shapefile_Unicode_ArcGIS10.reg
+1,Keep Command Window Scrollable.reg
+1,SpeedTreeKeyMultiverse060706.reg
+1,Change3389.reg
+1,rdp-client-license-registry.reg
+1,WedgeStretch.reg
+1,SSbeamPointLoad-adap.reg
+1,NREL_5MW_blade-vibration.reg
+1,PlateLineLoad.reg
+1,blobgals_PRG1_10arcsec_cuts.reg
+1,Leviathan_Context_Add.reg
+1,dark_theme.reg
+1,registro.reg
+1,maillog.reg
+1,nginx.reg
+1,NLB_Bldr.reg
+1,MGS2S-Inukaze.reg
+1,bidir.reg
+1,Uninstall HLM_privoxy.reg
+1,2out.reg
+1,8c.reg
+1,3b.reg
+1,Test_PulledInstance.reg
+1,WIF64.reg
+1,Builtin Tango Dark.reg
+1,Dracula.reg
+1,Firewatch.reg
+1,Tablet-Enable.reg
+1,autoprint.reg
+1,Hart_Test.reg
+1,EditByVim.reg
+1,original.reg
+1,win2000_export_before.reg
+1,tmp_transitionconstraintguard01.als.reg
+1,tmp_liftingNestedConstraints.dot.reg
+1,tmp_finally02.html.reg
+1,Disable-Hide_File_Extensions.reg
+1,conemu-context.reg
+1,hybrid-putty.reg
+1,MgfxGenerator64.reg
+1,reg_edits.reg
+1,nocapslock-win2alt-alt2altgr.reg
+1,augres.reg
+1,dark-pastel.reg
+1,OpenWithHexeditorNotepad.reg
+1,c328p33+0p19_NW_D2_coords_corrected.reg
+1,C260p61+32p13_SE_D1_coords.reg
+1,C215p8+16p4_SE_D1_coords.reg
+1,c354p41+0p27_SW_D1_coords_corrected.reg
+1,c328p33+0p19_SE_D2_coords_corrected.reg
+1,C260p61+32p13_SW_D2_coords.reg
+1,c354p41+0p27_SE_D1_coords_corrected.reg
+1,C215p8+16p4_SW_D1_coords.reg
+1,c354p41+0p27_SW_D3_coords_corrected.reg
+1,c16p62+0p13.reg
+1,OpenVSCode.reg
+1,setup_windows_webdav_author_21.0.reg
+1,setup_windows_webdav_author_19.0.reg
+1,RegKeyExistsTest1.reg
+1,beid_reg.reg
+1,adv_timer.reg
+1,Enable Scan Disk.reg
+1,disable_Adobe_Shockwave_Autoupdate.reg
+1,CreateTestConfig.reg
+1,win8-bahamut.registry.reg
+1,winxp-baseline.firewall.reg
+1,remove-userchoice.reg
+1,tw5_useLinuxPDFreader.reg
+1,test02_1_img.reg
+1,amd64.reg
+1,date_holidays.reg
+1,Bluetooth_Handsfree_Service.reg
+1,Telephony.reg
+1,Credential_Manager.reg
+1,Virtual_Disk.reg
+1,Windows_Event_Log.reg
+1,Infrared_monitor_service.reg
+1,replace_caps.reg
+1,Manual Computer Browser service.reg
+1,Disable Console Mode Sign-in on.reg
+1,ChangeDefaultBrowser.reg
+1,Add Copy Contents to Clipboard.reg
+1,Enable AHCI in Windows 7 and Vista.reg
+1,RestoreGPExtensionsAndNotify.reg
+1,Allow Insecure Guest Auth.reg
+1,Winrar.reg
+1,Disable_NetBiosOverTCPIP.reg
+1,Do not close Emoji Panel.reg
+1,Enable FullPathTitleBar.reg
+1,Enable numerical sorting.reg
+1,IE_Disable_CheckAssociations.reg
+1,Add Services.msc.reg
+1,Programs_processor_scheduling.reg
+1,WindowsClassicTheme.reg
+1,Show_custom_shortcut_tooltips.reg
+1,Disable_SystemRestore.reg
+1,Disable_DriverSigning.reg
+1,Remove Secure Delete Context menu.reg
+1,Disable_SaveFolderSettingsExplorer.reg
+1,MsiWmiAcpiMof.reg
+1,WFI_1.reg
+1,review_board_menu.reg
+1,ceusbkwrappertest.reg
+1,config.wow64.reg
+1,xml_htmlsax.reg
+1,explorer.library.show.reg
+1,create-domain.php.reg
+1,nfk_protocol_register.reg
+1,pade.igniterealtime.org.json.reg
+1,associate.reg
+1,thg-cmenu-hr.reg
+1,i235.py.reg
+1,negative.py.reg
+1,Good1_copy_Good1_copy_compare.reg
+1,800x600.reg
+1,Disable Videos Folder.reg
+1,Disable Desktop Folder.reg
+1,Disable Downloads Folder.reg
+1,IE-json.reg
+1,All in 1.reg
+1,gll_psc_v14.reg
+1,restore_onedrive_to_file_explorer.reg
+1,atmo_ch.reg
+1,SmallComp.x64.reg
+1,SSbeamPointLoad.reg
+1,Cylinder-Lagrange.reg
+1,AnnulusWithTemp2D.reg
+1,SamsungNP530.reg
+1,win7_webdav.reg
+1,windows_paths.reg
+1,PRG1_F140W_12arcsec_beforecuts.reg
+1,blobgals_PRG1_12arcsec_raw.reg
+1,blobgals_PRG2_10arcsec_raw.reg
+1,memtest1.reg
+1,RCP_RunningOS.reg
+1,257_7600gt_seven_2.reg
+1,cortana_enable.reg
+1,0x8000000A_fix.reg
+1,FixVS9CMake.reg
+1,4a.reg
+1,1b.reg
+1,curl.reg
+1,deploy_to_phone_fix.reg
+1,Later This Evening.reg
+1,Parasio Dark.reg
+1,Bright Lights.reg
+1,LiquidCarbon.reg
+1,bcCrack.reg
+1,rh.benson14_retinotopy.v4_0.sphere.reg
+1,tmp_transitionconstraint01.html.reg
+1,tmp_Global00.dot.reg
+1,tmp_finally01.dot.reg
+1,Default_Fonts.reg
+1,Remove-VBS_as_Administrator.reg
+1,Win8_ALT-F4_Default-Hibernate.reg
+1,Add-Open_PowerShell_Here-Icon.reg
+1,WindowsTimeFixUTC.reg
+1,php_timer.reg
+1,file_iterator.reg
+1,php_tokenstream.reg
+1,manual-bsod-disable.reg
+1,neopolitan.reg
+1,birds-of-paradise.reg
+1,api_server_port.reg
+1,C250p08+46p7_SE_D1_coords_corrected.reg
+1,C250p08+46p7_SW_D1_coords.reg
+1,c210p27+2p87.reg
+1,c16p23+0p06_SW_D3_coords_corrected.reg
+1,J124425.9+164758.0_NE.reg
+1,C210p2+02p8_SW_D2_coords.reg
+1,C215p8+16p4_NW_D1_coords.reg
+1,C210p2+02p8_NW_D1_coords.reg
+1,C210p2+02p8_NW_D3_coords_corrected.reg
+1,c16p23+0p06_SW_D1_coords_corrected.reg
+1,open-with-sublime-text.reg
+1,EmergencyUndoAllChanges.reg
+1,Remove libraries.reg
+1,approach_trace.reg
+1,VBA Mouse Wheel Fix.reg
+1,Dual_Strike_Name_Update.reg
+1,dmorton-putty-settings.reg.reg
+1,StockChartDebug.reg
+1,test01_fk4.reg
+1,Sensor_Data_Service.reg
+1,Secondary_Logon.reg
+1,Microsoft_App-V_Client.reg
+1,Remove_Hash_from_context_menu.reg
+1,Enable Silksmooth.reg
+1,Disable F1 Hotkey.reg
+1,No Drives in Send To Menu.reg
+1,LangBar.reg
+1,RegDone.reg
+1,Disable_CacheFailedDNSLookups.reg
+1,USB devices read-only.reg
+1,AdvertisingInfo.reg
+1,Disable mDNS.reg
+1,Disable animation.reg
+1,Add File Explorer context menu.reg
+1,Disable_UnreadMail.reg
+1,Change Owner and Support Info.reg
+1,Rename the Computer Icon.reg
+1,Enable Taskbar Settings.reg
+1,Add Disk Cleanup to Context Menu.reg
+1,ERBM+.reg
+1,Show shadows under windows.reg
+1,Disable LLMNR.reg
+1,Uninstall WIM righ tclick.reg
+1,Reduce inking latency.reg
+1,CustomDriveIcons.reg
+1,Activate Skip Ahead.reg
+1,Disable_FastUserSwitching.reg
+1,Enable Cloud Content.reg
+1,MSI_InstallerTweaks.reg
+1,Disable_Sign_in_Background_Image.reg
+1,Remove Edit with VS Code.reg
+1,Disable SMB signing.reg
+1,Disable SMB v1 and v2.reg
+1,Add Encrypt-Decrypt.reg
+1,x64.reg
+1,HelpFromStartmenu.reg
+1,Morethemesonline.reg
+1,Add Open in Visual Studio (2017).reg
+1,Remove AuthRoot certificates.reg
+1,Disable_UserTracking.reg
+1,Add Unblock Context Menu.reg
+1,Drew.reg
+1,crab_src_reg.reg
+1,RCW91.reg
+1,MyComputer.reg
+1,parser.reg
+1,Remove Mixed Reality From Settings.reg
+1,bpm_xy33.reg
+1,db_ldap.reg
+1,SystemShortcuts.reg
+1,pade.remote.control.json.reg
+1,reg_path.reg
+1,thg-cmenu-tr.reg
+1,Scotiabank_Mortgages.py.reg
+1,Disable 3D Objects Folder.reg
+1,RobotWorld.reg
+1,my1-fonts.reg
+1,visual-assist.reg
+1,remove-context-menu.reg
+1,RegistrySetup.reg
+1,contextmenu2.reg
+1,MSFT_nxOMSKeyMgmtResource.reg
+1,bookmarks-v2.reg
+1,disabledipv6.reg
+1,disc-stair-adap.reg
+1,Cylinder-NURBS.reg
+1,Rad Studio Berlin Monokai Theme.reg
+1,UnlockFolder.reg
+1,blobgals_PRG3_10arcsec_raw.reg
+1,proxy.reg
+1,RCP_OperatingSystem.reg
+1,kbdqwertz_win10_install.reg
+1,ArcGIS 10.0 - Python 2.6.reg
+1,after_install.reg
+1,matrix_theme.reg
+1,cygwinExplorerIntegration.reg
+1,RegTestBaseFile.reg
+1,5a.reg
+1,DisallowDetachedSignature.reg
+1,Hipster Green.reg
+1,Spacedust.reg
+1,Paraiso Dark.reg
+1,OceanicMaterial.reg
+1,Cobalt Neon.reg
+1,Seti.reg
+1,BatterySaver-Enable.reg
+1,4_47_to_4_49.reg
+1,4_67_to_4_69.reg
+1,4_41_to_4_43.reg
+1,4_63_to_4_65.reg
+1,htmlfile.reg
+1,Lock Screen.reg
+1,antarctica.reg
+1,Zarplata.reg
+1,merge.reg
+1,tmp_W01.als.reg
+1,tmp_Global04.als.reg
+1,tmp_DefaultGlobal.dot.reg
+1,CygWinHeap.reg
+1,map_esc_to_caps_lock.reg
+1,Remove-Desktop_Run.reg
+1,Default-Win10_Snap_Assist.reg
+1,Remove-Desktop_Power_Sub_Menu.reg
+1,Win8_ALT-F4_Default-Restart.reg
+1,cleanup_test_access.reg
+1,php_invoker.reg
+1,Disable setup telemetry.reg
+1,GameOfLife.reg
+1,monokai-soda.reg
+1,tomorrow-night.reg
+1,desert.reg
+1,OpenWithHexeditorNotepad-Remove.reg
+1,XMMXCSJ124425.9+164758.0_SE.reg
+1,c321p15-0p52.reg
+1,C234p2+24p4_SE_D1_coords.reg
+1,C210p2+02p8_SW_D1_coords_corrected.reg
+1,C210p2+02p8_SE_D3_coords_corrected.reg
+1,DarkA.reg
+1,terminal.sexy.reg
+1,disable_uisuppressionmode.reg
+1,set-video-title.reg
+1,Get Thin Borders in Windows 8.reg
+1,Foler options.reg
+1,Force Windows Upgrade via WUS.reg
+1,disable_Windows_Update_Auto-Reboot.reg
+1,uninst_flmon_driver.reg
+1,xp.reg
+1,whistler.reg
+1,aruba.reg
+1,009.Set_SmartScreen_to_Warn.reg
+1,Windows_Insider_Service.reg
+1,User_Manager.reg
+1,Function_Discovery_Provider_Host.reg
+1,Application_Identity.reg
+1,Security_Center.reg
+1,Base_Filtering_Engine.reg
+1,Windows_Image_Acquisition_(WIA).reg
+1,Windows_Event_Collector.reg
+1,WalletService.reg
+1,Peer_Networking_Grouping.reg
+1,Disable Workaround high CPU usage.reg
+1,Remove Notepad context menu.reg
+1,Regedit_Favorites.reg
+1,Disable Aero with Blur.reg
+1,git promt.reg
+1,IE_NotifyDownloadComplete.reg
+1,BlockNetworkDevicesFromInstalling.reg
+1,Disable non-critical Notifications.reg
+1,TaskbarStartmenuIcon.reg
+1,Enable  ATMFD.reg
+1,Show Cortana taskbar button.reg
+1,LogonNew.reg
+1,MuiCache.reg
+1,Turn OFF My People app suggestions.reg
+1,Downloaded Program Files.reg
+1,Quality and Features Updates.reg
+1,Enable Icon Shadows.reg
+1,Disable Icon Shadows.reg
+1,regChromeDefaultPrograms.reg
+1,Disable_TSAllowFullControl.reg
+1,Enable Touch by Finger.reg
+1,Disable SPDIF front jack.reg
+1,Add Google Drive context menu.reg
+1,fileToClipboard.reg
+1,01_disallow-telemetry.as_admin.reg
+1,squirrelmail.mailto.Win9x.reg
+1,copy path always visible.reg
+1,WinMerge Line Filters.reg
+1,FontSubstitution.reg
+1,html_select_common.reg
+1,science_chemistry.reg
+1,mdb_querytool.reg
+1,WindowsApps.reg
+1,SystemTools.reg
+1,FirstRun.reg
+1,rawk_prefs_v1.2.reg
+1,putty-colord.reg
+1,climatology.reg
+1,dataset.reg
+1,b0_ext.reg
+1,darktooth.reg
+1,Miehe71-explcrack_FD.reg
+1,thg-cmenu-pt.reg
+1,telematics.py.reg
+1,2. Medium.reg
+1,privatecmdrun-protocol.reg
+1,ClearType-off.reg
+1,winxplogon.reg
+1,putty_Solarized-Dark.reg
+1,MSFT_nxOMSWLIResource.reg
+1,atmods_settings.reg
+1,ExamplePutty.reg
+1,overrides-rem.reg
+1,overrides-add.reg
+1,pvscsi.reg
+1,Add Open by Emacs to mouse menu.reg
+1,Cef3.reg
+1,brtest3.reg
+1,windows-11-taskbar-medium.reg
+1,Windows_UID_sorting.reg
+1,MarsGuiPrefs.reg
+1,x86HKLMRegistryWinter2015.reg
+1,HKCUPerioPathUpdate.reg
+1,onoff_region_off.reg
+1,2a.reg
+1,8a.reg
+1,duotone-darkdesert.reg
+1,Espresso Libre.reg
+1,Blazer.reg
+1,Tomorrow Night Burns.reg
+1,DimmedMonokai.reg
+1,Violet Dark.reg
+1,SpaceGray.reg
+1,FirefoxDev.reg
+1,Bitlocker-Disable.reg
+1,Photos-Disable.reg
+1,Tablet-Disable.reg
+1,4_53_to_4_55.reg
+1,4_51_to_4_53.reg
+1,lua_edit2003.reg
+1,putty_session_sco.reg
+1,System - Hardware.reg
+1,setup-ado.net4_x64.reg
+1,africa.reg
+1,excel-analysistoolpak-x64.reg
+1,tmp_weakuntil01.html.reg
+1,tmp_U01.als.reg
+1,tmp_TrafficLight1.dot.reg
+1,tmp_weakuntil01.als.reg
+1,tmp_TrafficLight.html.reg
+1,tmp_eventually01.html.reg
+1,Add-Copy_TXT_To_Clipboard.reg
+1,swap-ctrl-caps.reg
+1,sgas-lens-components.reg
+1,argonaut.reg
+1,Emacs-D.reg
+1,C215p8+16p4_SW_D1_coords_corrected.reg
+1,C215p8+16p4_SE_D3_coords.reg
+1,C210p2+02p8_SE.reg
+1,c16p23+0p06_NW_D3_coords_corrected.reg
+1,C215p8+16p4_SW_D3_coords.reg
+1,c328p33+0p19_combined_tiles.reg
+1,XMMXCSJ124425.9+164758.0_NW.reg
+1,163347.2+571510.15_SW.reg
+1,c354p41+0p27_combined_tiles.reg
+1,C322p51-0p35_SW_D3_coords_corrected.reg
+1,C260p61+32p13_SE_D3_coords.reg
+1,c319p70+0p56_SE_D2_coords_corrected.reg
+1,C203p83+41p00_SW_D1_coords.reg
+1,c354p41+0p27_SE_D2_coords_corrected.reg
+1,ContextMenu_PinToStart_Restore.reg
+1,setup_windows_webdav_19.0.reg
+1,ru.reg
+1,secret.reg
+1,disable_modal_dialog_on_segfault.reg
+1,IfcQueryMFC.reg
+1,CIMPLE_Widget.reg
+1,WindowsVersionOnDesktop.reg
+1,vmdns.reg
+1,VS2012TitlecaseMenus.reg
+1,decoder.reg
+1,UAC-off.reg
+1,BranchCache.reg
+1,DCOM_Server_Process_Launcher.reg
+1,RestoreAFDDriver.reg
+1,Enable Runtime Broker.reg
+1,DontVerifyRandomDrivers.reg
+1,Enable PAE for x86 systems.reg
+1,Unregister.IDM.reg
+1,Activate (patched BIOS installed).reg
+1,Add_Turn_on_BitLocker_context_menu.reg
+1,EFS Ransomware workaround.reg
+1,Add Edit with VS Code in Extended.reg
+1,Disable_WelcomeToWindowsSplash.reg
+1,Disable TLS 1.2.reg
+1,Disable shortcut bar.reg
+1,More Windows Tile Colors.reg
+1,Reset Chkdsk.reg
+1,Default size of Scroll Bars.reg
+1,NoAutoRebootWithLoggedOnUsers.reg
+1,Remove Shortcut text.reg
+1,Enable Statusbar in Notepad.reg
+1,Disable OpenGL.reg
+1,Enable taskbar context menus.reg
+1,HttpAcceptLanguageOptOut.reg
+1,ThumbnailsForVideos.reg
+1,Disable Protanopia.reg
+1,IEHelpMenuItems.reg
+1,SetShellCU.reg
+1,Disable new file dates.reg
+1,Remove God mode.reg
+1,Disable all Notifications.reg
+1,Shell32.dll@8506.reg
+1,Disable_WindowsErrorReportingCU.reg
+1,Enable Protanopia.reg
+1,Disable_TSAllowToGetHelp.reg
+1,Remove duplicate Drives.reg
+1,Turn on ALSR.reg
+1,Not2Bred.reg
+1,Console-10.0.reg
+1,RunAsSys - ActiveLog 64.reg
+1,Dvorak.reg
+1,WinCtl-Menu-Install.reg
+1,stdResults3.reg
+1,EKoala1.reg
+1,Windows_Online_Status_on_custom_url.reg
+1,xml_image2svg.reg
+1,net_ping.reg
+1,AddOpenWithCMD.reg
+1,setDMG.reg
+1,Short10x20_FD.reg
+1,RegisterWithVisualStudioAssembly.reg
+1,083-159713827-DSx1.jpg.centroid.reg
+1,thg-cmenu-ja.reg
+1,Linux_model.py.reg
+1,ESC_FMCSA571.126-model.py.reg
+1,simpleConstraint.py.reg
+1,i131-incorrect-scope.py.reg
+1,test_neg_typesystem.py.reg
+1,i188-sum-quantifier.py.reg
+1,AutoShareWks-off.reg
+1,remove_3D_Objects_Folder.reg
+1,turn_start_menu_web_searches_off.reg
+1,disable_Cortana.reg
+1,MSFT_nxOMSAgentNPMConfigResource.reg
+1,MaterialImage.reg
+1,Rad Studio XE7 Monokai Theme.reg
+1,7Zip_FTA_AddedClasses.reg
+1,EnableUnrestrictedPolicy.reg
+1,PRG2_beforecuts.reg
+1,blobgals_PRG2_10arcsec_cuts.reg
+1,wine_font.reg
+1,addCaps.reg
+1,RLogin.reg
+1,RCP_HttpdTCPProtocolEndpoint.reg
+1,SA Western Standard Time.reg
+1,dnsmasq.reg
+1,InnoSetupRightClickMenu.reg
+1,duotone-dark.reg
+1,Builtin Pastel Dark.reg
+1,Spiderman.reg
+1,Smyck.reg
+1,Teerb.reg
+1,Hardcore.reg
+1,EnableProxy.reg
+1,Win7Balloons-Disable.reg
+1,jpegfile.reg
+1,tomcat64_ws.reg
+1,tmp_Global00.als.reg
+1,tmp_combinedEGX02.als.reg
+1,tmp_final02.html.reg
+1,tmp_Global05.dot.reg
+1,Set_Tahoma_Default_Font.reg
+1,Disable-Internet_Open_With.reg
+1,enable-lockstation.reg
+1,Plaxis1DVerif-mixed_C0.reg
+1,laiguadminthemeplugin.reg
+1,text_template.reg
+1,remove_mts_key.reg
+1,locale_mage_community_fr_fr.reg
+1,tomorrow.reg
+1,fish-tank.reg
+1,c16p23+0p06_combined_tiles.reg
+1,c328p33+0p19_NW_D3_coords_corrected.reg
+1,XMMXCSJ163347.2+571510.15_SE.reg
+1,C250p08+46p7_NW_D3_coords_corrected.reg
+1,c203p16+50p55.reg
+1,c328p33+0p19_SW.reg
+1,c354p41+0p27_NE_D1_coords_corrected.reg
