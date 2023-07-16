@@ -1,5 +1,6 @@
 .7z
 .7zip
+.HTM
 .action
 .ashx
 .asmx
@@ -42,7 +43,6 @@
 .go
 .gpg
 .gzip
-.HTM
 .htm
 .java
 .jhtml
@@ -78,6 +78,7 @@
 .pcap
 .pdf
 .pem
+.ph_
 .phar
 .php2
 .php3
@@ -88,7 +89,6 @@
 .phps
 .pht
 .phtml
-.ph_
 .pl
 .png
 .pot
