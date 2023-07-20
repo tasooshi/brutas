@@ -26,6 +26,7 @@ Requirements:
 
 Recommended:
 * `lzop`
+* `hashcat` compiled from the master branch
 
 ## Usage
 
