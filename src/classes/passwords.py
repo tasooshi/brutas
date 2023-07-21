@@ -46,12 +46,17 @@ class Passwords(Combinator):
         self.sort(self.base('src/keywords/lang/*.txt'), self.temp('lowercase-lang-all.txt'), unique=True)
         self.copy(self.temp('lowercase-lang-all.txt'), self.base('src/keywords/lang/all.txt'))
 
+        # NOTE: Process keywords
+        self.wordlists_process()
+
+
+class DistroPasswords(Passwords):
+
+    def setup(self):
+        super().setup()
         # NOTE: Initialize lookup/compare set
         if not self.temp(self.passwords_all).is_file():
             self.sort(self.base('wordlists/passwords/1-xxs.txt'), self.temp(self.passwords_all))
-
-        # NOTE: Process keywords
-        self.wordlists_process()
 
         # NOTE: Prepare some lists beforehand
         separators = self.base('src/bits/separators.txt')
@@ -62,7 +67,7 @@ class Passwords(Combinator):
         self.right(self.temp('simple-passwords-patterns.txt'), separators)
 
 
-class BasicPasswords(Passwords):
+class BasicPasswords(DistroPasswords):
 
     def process(self):
         self.merge(
@@ -139,7 +144,7 @@ class BasicPasswords(Passwords):
         )
 
 
-class ExtendedPasswords(Passwords):
+class ExtendedPasswords(DistroPasswords):
 
     def process(self):
         # NOTE: Generate here, don't include in merge
@@ -226,7 +231,7 @@ class ExtendedPasswords(Passwords):
         )
 
 
-class BigPasswords(Passwords):
+class BigPasswords(DistroPasswords):
 
     def process(self):
         # NOTE: Generate here, don't include in merge
@@ -333,6 +338,34 @@ class CustomPasswords(Passwords):
                 self.left(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
                 self.left(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/separators.txt')),
                 self.left(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/functional.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/separators.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
+                self.right(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-top.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/functional.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-all.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.left(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
+                self.left(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.left(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.left(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/separators.txt')),
+                self.left(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.rule(self.temp('simple-keywords-custom.txt'), self.base('src/rules/both.rule')),
+                self.rule(self.temp('simple-keywords-custom.txt'), self.base('src/rules/repeat.rule')),
                 self.left(self.temp('separators+hax0r-keywords-custom.txt'), self.base('src/bits/functional.txt')),
                 self.left(self.temp('separators+hax0r-keywords-custom.txt'), self.base('src/bits/months.txt')),
                 self.left(self.temp('separators+hax0r-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
@@ -343,12 +376,6 @@ class CustomPasswords(Passwords):
                 self.left(self.temp('separators+simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
                 self.left(self.temp('separators+simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
                 self.left(self.temp('simple-keywords-custom+numbers-all.txt'), self.base('src/bits/extra-all.txt')),
-                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
-                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/functional.txt')),
-                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
-                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
-                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/separators.txt')),
-                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
                 self.left(self.temp('years-current+hax0r-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.left(self.temp('years-current+hax0r-keywords-custom.txt'), self.base('src/bits/months.txt')),
                 self.left(self.temp('years-current+hax0r-keywords-custom.txt'), self.base('src/bits/separators.txt')),
@@ -370,24 +397,19 @@ class CustomPasswords(Passwords):
                 self.right(self.temp('extra-all+simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
                 self.right(self.temp('hax0r-keywords-custom+extra-all.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('hax0r-keywords-custom+extra-all.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('hax0r-keywords-custom+months+separators.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('hax0r-keywords-custom+months.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('hax0r-keywords-custom+months.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('hax0r-keywords-custom+months.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('hax0r-keywords-custom+numbers-all.txt'), self.base('src/bits/extra-all.txt')),
-                self.right(self.temp('hax0r-keywords-custom+separators+months.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('hax0r-keywords-custom+separators+years-current.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('hax0r-keywords-custom+separators.txt'), self.base('src/bits/functional.txt')),
                 self.right(self.temp('hax0r-keywords-custom+separators.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('hax0r-keywords-custom+separators.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('hax0r-keywords-custom+years-current+separators.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('hax0r-keywords-custom+months+separators.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('hax0r-keywords-custom+separators+months.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('hax0r-keywords-custom+separators+years-current.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('hax0r-keywords-custom+years-current.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('hax0r-keywords-custom+years-current.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('hax0r-keywords-custom+years-current.txt'), self.base('src/bits/separators.txt')),
-                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
-                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/months.txt')),
-                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
-                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/separators.txt')),
-                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('hax0r-keywords-custom+years-current+separators.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('months+hax0r-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('months+repeat-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('months+separators+simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
@@ -396,44 +418,35 @@ class CustomPasswords(Passwords):
                 self.right(self.temp('numbers-all+repeat-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('numbers-all+simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('repeat-keywords-custom+numbers-all.txt'), self.base('src/bits/extra-all.txt')),
-                self.right(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
-                self.right(self.temp('repeat-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
                 self.right(self.temp('simple-keywords-custom+extra-all.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('simple-keywords-custom+extra-all.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('simple-keywords-custom+extra-all.txt'), self.base('src/bits/years-all.txt')),
                 self.right(self.temp('simple-keywords-custom+extra-all.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('simple-keywords-custom+months+separators.txt'), self.base('src/bits/years-all.txt')),
-                self.right(self.temp('simple-keywords-custom+months+separators.txt'), self.base('src/bits/years-current.txt')),
                 self.right(self.temp('simple-keywords-custom+months.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('simple-keywords-custom+months.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom+months+separators.txt'), self.base('src/bits/years-all.txt')),
+                self.right(self.temp('simple-keywords-custom+months+separators.txt'), self.base('src/bits/years-current.txt')),
                 self.right(self.temp('simple-keywords-custom+numbers-all.txt'), self.base('src/bits/extra-all.txt')),
-                self.right(self.temp('simple-keywords-custom+separators+months+separators.txt'), self.base('src/bits/years-all.txt')),
-                self.right(self.temp('simple-keywords-custom+separators+months.txt'), self.base('src/bits/separators.txt')),
-                self.right(self.temp('simple-keywords-custom+separators+months.txt'), self.base('src/bits/years-all.txt')),
-                self.right(self.temp('simple-keywords-custom+separators+months.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('simple-keywords-custom+separators+years-all.txt'), self.base('src/bits/months.txt')),
-                self.right(self.temp('simple-keywords-custom+separators+years-current.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/functional.txt')),
                 self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/numbers-all.txt')),
                 self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/years-all.txt')),
                 self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/years-current.txt')),
-                self.right(self.temp('simple-keywords-custom+years-all+separators.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom+separators+months.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom+separators+months.txt'), self.base('src/bits/years-all.txt')),
+                self.right(self.temp('simple-keywords-custom+separators+months.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('simple-keywords-custom+separators+months+separators.txt'), self.base('src/bits/years-all.txt')),
+                self.right(self.temp('simple-keywords-custom+separators+years-all.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom+separators+years-current.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('simple-keywords-custom+years-all.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('simple-keywords-custom+years-all.txt'), self.base('src/bits/months.txt')),
-                self.right(self.temp('simple-keywords-custom+years-current+separators.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom+years-all.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom+years-all+separators.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('simple-keywords-custom+years-current.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('simple-keywords-custom+years-current.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('simple-keywords-custom+years-current.txt'), self.base('src/bits/separators.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-top.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/functional.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/separators.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-all.txt')),
-                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('simple-keywords-custom+years-current+separators.txt'), self.base('src/bits/months.txt')),
                 self.right(self.temp('years-current+separators+hax0r-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('years-current+separators+repeat-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
                 self.right(self.temp('years-current+separators+simple-keywords-custom.txt'), self.base('src/bits/extra-all.txt')),
@@ -450,8 +463,6 @@ class CustomPasswords(Passwords):
                 self.rule(self.temp('repeat-keywords-custom+extra-all.txt'), self.base('src/rules/complex.rule')),
                 self.rule(self.temp('repeat-keywords-custom+numbers-all.txt'), self.base('src/rules/complex.rule')),
                 self.rule(self.temp('simple-keywords-custom+numbers-all.txt'), self.base('src/rules/complex.rule')),
-                self.rule(self.temp('simple-keywords-custom.txt'), self.base('src/rules/both.rule')),
-                self.rule(self.temp('simple-keywords-custom.txt'), self.base('src/rules/repeat.rule')),
                 self.rule(self.temp('repeat-tmp-simple-keywords-custom.txt'), self.base('src/rules/both.rule')),
                 self.temp('both-tmp-repeat-tmp-simple-keywords-custom.txt'),
                 self.temp('both-tmp-simple-keywords-custom.txt'),

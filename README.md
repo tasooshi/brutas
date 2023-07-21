@@ -86,10 +86,19 @@ If you want to generate a custom wordlist (`wordlists/passwords/custom.txt`) bas
 ~/brutas:% ./custom.sh -t /media/user/ExternalDrive/tmp -o /media/users/AnotherDrive/new
 ```
 
-Be aware that building a custom list with 5.5k of lines generates approx. 560GB of data and requires around 680GB for temporary files (an extra drive is recommended due to heavy I/O). If you'd like to see what kind of results you may expect, check out the following file based on a single word `love`:
+Be aware that building a custom list requires a lot of resources. If you'd like to see what kind of results you may expect, check out the example `wordlists/passwords/custom.txt` based on a single word `love` (generates over 150MB of data and 12,591,796 uniques currently, trimmed to randomly selected 10k lines). A tiny sample below:
 
 ```
-wordlists/passwords/custom.txt
+---LoveLove1!1                  | 2022_|ove!23
+love!5`80                       | love!5|79
+55!lov607                       | 10v34444@#
+Love'10#61                      | 22`Lovelove))
+Loveo2020@                      | Love&01,78
+love$1$64                       | ()LoveLove+^+
+love9/79                        | 2021$lov3111+++
+l0ve123212                      | Love+91979
+|ove66612345!                   | Loveasd,.
+Love^0259                       | l)v#22$#@!
 ```
 
 ##### Optimized for specific targets
