@@ -45,7 +45,7 @@ The precompiled lists are located at:
 The lists which are not included in this repository are hosted here and get updated occassionally:
 - [brutas-passwords-5-l.zip](https://drive.proton.me/urls/5ESDFTKQVC#pTokh18bYyfN) [updated 2023/07/22] (67,037,681 lines - 643MB decompressed)
 - [brutas-passwords-6-xl.zip](https://drive.proton.me/urls/Z586VGA1BW#k2mwYceQIJYA) [updated 2023/07/22] (331,973,905 - 3.7GB decompressed)
-- [brutas-passwords-7-xxl.zip](https://drive.proton.me/urls/HP5SGW9YEC#ZfdCr6PItCyP) [updated 2022/07/30] (9,048,350,542 lines - 114GB decompressed)
+- [brutas-passwords-7-xxl.zip](https://drive.proton.me/urls/HP5SGW9YEC#ZfdCr6PItCyP) [updated 2023/07/23] (18,008,399,243 lines - 237GB decompressed)
 - [brutas-http-paths-all.zip](https://drive.proton.me/urls/FKQVMNNQK0#uofhr9x4pDlA) [updated 2023/07/23] (261,481,011 lines - 5.3GB decompressed)
 
 #### Save bandwidth
