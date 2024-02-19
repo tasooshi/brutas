@@ -12,6 +12,7 @@ approved
 archived
 asc
 ascending
+async
 attached
 authorized
 batch
@@ -37,6 +38,7 @@ count
 created
 critical
 current
+custom
 decoded
 decrypted
 default
@@ -180,6 +182,7 @@ standard
 stored
 strict
 submitted
+sync
 template
 temporary
 true

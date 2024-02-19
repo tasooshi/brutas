@@ -550,6 +550,7 @@ $RFVbgt5
 115599
 11qq
 11qq22ww33ee
+11qq22ww33ee44rr
 11qq22ww33ee44rr55tt
 11qqaa
 11qqaa12!@34#$
@@ -779,6 +780,7 @@ $RFVbgt5
 1234567890qw
 1234567890qwe
 1234567890qwertyuiop
+1234567890qwertz
 1234567890z
 1234567891
 12345678910
@@ -1546,6 +1548,8 @@ $RFVbgt5
 1qaz2wsx3edc4rfv
 1Qaz2wsx3edc4rfv
 1QAZ2wsx3edc4rfv
+1qaz2wsx3edc4rfv5
+1QAZ2wsx3edc4rfv5
 1qaz2wsx3edc4rfv5tgb
 1Qaz2wsx3edc4rfv5tgb
 1QAZ2wsx3edc4rfv5tgb
@@ -2526,8 +2530,13 @@ aaaaaa1
 aaaaaaa
 AAAAAAAA
 aaaaaaaa
+AAAAAAAAA
 aaaaaaaaa
+AAAAAAAAAA
 aaaaaaaaaa
+AAAAAAAAAAA
+AAAAAAAAAAAA
+AAAAAAAAAAAAA
 aaabbb
 aaabbbccc
 aaasss
@@ -6079,8 +6088,8 @@ ZAQ1qaz
 zaq1vfr4
 Zaq1vfr4
 ZAQ1vfr4
-Zaq1xsw2
 zaq1xsw2
+Zaq1xsw2
 ZAQ1XSW2
 Zaq1Xsw2
 ZAQ1xsw2
@@ -6089,6 +6098,8 @@ zaq1xsw2cde3
 ZAQ1XSW2CDE3
 Zaq1xsw2cde3
 ZAQ1xsw2cde3
+zaq1xsw2cde3vfr4
+zaq1xsw2cde3vfr4bgt5
 zaq1XSW@
 zaq1xsw@
 Zaq1XSW@
@@ -6422,6 +6433,10 @@ zxcvbnm,
 ZXCvbnm,
 zxcvbnm,.
 ZXCvbnm,.
+zxcvbnm,./
+zxcvbnm,./';lkjhgfdsa
+zxcvbnm,./;lkjhgfdsa
+zxcvbnm,./\';lkjhgfdsa
 zxcvbnm.
 ZXCvbnm.
 zxcvbnm1
@@ -6434,6 +6449,9 @@ zxcvbnm123
 ZXCvbnm123
 zxcvbnm12345
 ZXCvbnm12345
+ZXCVBNM<>?":LKJHGFDSA
+ZXCVBNM<>?:LKJHGFDSA
+ZXCVBNM<>?|":LKJHGFDSA
 zxcvbnma
 ZXCvbnma
 zxcvbnmzxc

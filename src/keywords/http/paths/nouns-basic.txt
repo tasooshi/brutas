@@ -12,6 +12,7 @@ avatar
 batch
 calendar
 category
+client
 comment
 company
 config
@@ -56,6 +57,8 @@ mobile
 model
 module
 name
+notification
+notifications
 object
 option
 page

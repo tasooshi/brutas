@@ -860,6 +860,7 @@ stats
 status
 step
 storage
+store
 str
 stream
 streams

@@ -10,6 +10,7 @@ approved
 archived
 asc
 ascending
+async
 attached
 batch
 before
@@ -28,6 +29,7 @@ compressed
 configured
 confirmed
 critical
+custom
 decoded
 decrypted
 deleted
@@ -151,6 +153,7 @@ standard
 stored
 strict
 submitted
+sync
 template
 temporary
 true

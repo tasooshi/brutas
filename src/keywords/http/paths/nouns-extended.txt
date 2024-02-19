@@ -179,7 +179,6 @@ class
 classes
 classifieds
 click
-client
 clients
 clock
 cmd
@@ -515,8 +514,6 @@ noredir
 note
 notes
 notice
-notification
-notifications
 now
 num
 numPage
@@ -776,6 +773,7 @@ statistics
 stats
 step
 storage
+store
 str
 stream
 streams

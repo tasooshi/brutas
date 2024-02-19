@@ -157,6 +157,7 @@ class ExtendedPasswords(DistroPasswords):
         self.merge(
             self.output('wordlists/passwords/5-l.txt'),
             (
+                self.both(self.temp('simple-usernames-basic.txt'), self.base('src/bits/numbers-basic.txt')),
                 self.right(self.temp('simple-usernames-all.txt'), self.base('src/bits/extra-basic.txt')),
                 self.right(self.temp('simple-usernames-all.txt'), self.base('src/bits/years-all.txt')),
                 self.right(self.temp('simple-usernames-all.txt'), self.base('src/bits/numbers-basic.txt')),
@@ -194,6 +195,7 @@ class ExtendedPasswords(DistroPasswords):
             self.output('wordlists/passwords/6-xl.txt'),
             (
                 self.both(self.temp('repeat-usernames-basic.txt'), self.base('src/bits/extra-basic.txt')),
+                self.both(self.temp('simple-usernames-all.txt'), self.base('src/bits/numbers-basic.txt')),
                 self.left(self.temp('simple-usernames-all.txt'), self.base('src/bits/extra-basic.txt')),
                 self.left(self.temp('simple-usernames-all.txt'), self.base('src/bits/numbers-extended.txt')),
                 self.right(self.temp('hax0r-usernames-all.txt'), self.base('src/bits/extra-basic.txt')),
@@ -245,6 +247,8 @@ class BigPasswords(DistroPasswords):
             self.output('wordlists/passwords/7-xxl.txt'),
             (
                 self.both(self.temp('repeat-usernames-basic.txt'), self.base('src/bits/extra-all.txt')),
+                self.both(self.temp('simple-lang-int-basic.txt'), self.base('src/bits/extra-all.txt')),
+                self.both(self.temp('simple-lang-int-basic.txt'), self.base('src/bits/numbers-all.txt')),
                 self.left(self.temp('simple-usernames-all.txt'), self.base('src/bits/numbers-basic.txt')),
                 self.left(self.temp('simple-lang-int-basic.txt'), self.base('src/bits/extra-basic.txt')),
                 self.left(self.temp('simple-lang-int-basic.txt'), self.base('src/bits/extra-extended.txt')),
