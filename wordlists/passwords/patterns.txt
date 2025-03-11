@@ -1408,8 +1408,8 @@ $RFVbgt5
 1qa2ws3ed4rf
 1qa2ws3ed4rf5tg
 1qa@WS3ed$RF
-1QAsw2
 1qasw2
+1QAsw2
 1qasw23ed
 1qaSW@
 1qaSW@3ed
@@ -4130,6 +4130,8 @@ QAZwsx123456
 qazwsx321
 Qazwsx321
 QAZwsx321
+Qazwsxc0
+qazwsxc1
 qazwsxed
 Qazwsxed
 QAZwsxed
@@ -4273,9 +4275,12 @@ QAZzaq
 qazzaq1
 Qazzaq1
 QAZzaq1
+qazZAQ123
 qazzaq123
 Qazzaq123
 QAZzaq123
+qazZAQ123#
+qazZAQ123#@!
 qazzaqqaz
 QAZzaqqaz
 qbdsjuo

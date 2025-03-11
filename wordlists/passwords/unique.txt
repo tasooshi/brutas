@@ -34,6 +34,7 @@ $upp0rt
 3com
 3dshooter
 3dsmax
+3m
 44magnum
 4ever
 4fun
@@ -84,6 +85,7 @@ amiga500+
 Amiga500+
 amiga500plus
 Amiga500plus
+another1
 apollo11
 Apollo11
 apollo13
@@ -181,6 +183,7 @@ bmwz3
 BMWZ3
 bond007
 Bond007
+born2win
 c0mputer
 camaro68
 CamaroZ28
@@ -358,6 +361,7 @@ ji32k7au4a83
 jordan12
 jordan23
 jordan45
+jordan7
 just4fun
 just4me
 justdoit

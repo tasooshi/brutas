@@ -3460,6 +3460,7 @@ Qazwsx1234
 Qazwsx12345
 Qazwsx123456
 Qazwsx321
+Qazwsxc0
 Qazwsxed
 Qazwsxedc
 Qazwsxedc!@
@@ -3807,6 +3808,7 @@ WELCOME
 Welc0me
 Welcome
 Welcome!
+Welcome01
 Welcome1
 Welcome123
 Welcome123!
@@ -5977,6 +5979,9 @@ qaz123456
 qaz123wsx
 qaz2wsx
 qazWSX
+qazZAQ123
+qazZAQ123#
+qazZAQ123#@!
 qazaq
 qazedc
 qazerty
@@ -6006,6 +6011,7 @@ qazwsx1234
 qazwsx12345
 qazwsx123456
 qazwsx321
+qazwsxc1
 qazwsxed
 qazwsxedc!@
 qazwsxedc!@#
@@ -7178,6 +7184,7 @@ welcome
 welcome!
 welcome!1
 welcome!@
+welcome01
 welcome1
 welcome12
 welcome123

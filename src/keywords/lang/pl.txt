@@ -6227,6 +6227,7 @@ wulkan
 wyborcza
 wydra
 wymiatacz
+wynik
 wypierdalac
 wypierdalaj
 wyscigi
