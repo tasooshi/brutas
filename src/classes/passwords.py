@@ -482,6 +482,64 @@ class CustomPasswords(Passwords):
         )
 
 
+class CustomPasswordsMini(Passwords):
+
+    wordlists = (
+        'src/keywords/custom.txt',
+    )
+    rules = (
+        'src/rules/both.rule',
+        'src/rules/complex.rule',
+        'src/rules/hax0r.rule',
+        'src/rules/repeat.rule',
+        'src/rules/simple.rule',
+    )
+
+    def process(self):
+        self.merge(
+            self.output('wordlists/passwords/custom-mini.txt'),
+            (
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.left(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/extra-top.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/functional.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/numbers-all.txt')),
+                self.right(self.temp('hax0r-keywords-custom.txt'), self.base('src/bits/years-current.txt')),
+                self.rule(self.temp('simple-keywords-custom.txt'), self.base('src/rules/both.rule')),
+                self.rule(self.temp('simple-keywords-custom.txt'), self.base('src/rules/repeat.rule')),
+                self.left(self.temp('years-current+simple-keywords-custom.txt'), self.base('src/bits/extra-basic.txt')),
+                self.left(self.temp('years-current+simple-keywords-custom.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('months+simple-keywords-custom.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('numbers-all+simple-keywords-custom.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('simple-keywords-custom+extra-basic.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom+extra-basic.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('simple-keywords-custom+months.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('simple-keywords-custom+months.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom+months+separators.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('simple-keywords-custom+numbers-all.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/numbers-all.txt')),
+                self.right(self.temp('simple-keywords-custom+separators.txt'), self.base('src/bits/years-current.txt')),
+                self.right(self.temp('simple-keywords-custom+years-current.txt'), self.base('src/bits/extra-basic.txt')),
+                self.right(self.temp('simple-keywords-custom+years-current.txt'), self.base('src/bits/months.txt')),
+                self.right(self.temp('simple-keywords-custom+years-current.txt'), self.base('src/bits/separators.txt')),
+                self.right(self.temp('simple-keywords-custom+years-current+separators.txt'), self.base('src/bits/months.txt')),
+                self.rule(self.temp('simple-keywords-custom+numbers-all.txt'), self.base('src/rules/complex.rule')),
+                self.temp('complex-keywords-custom.txt'),
+                self.temp('hax0r-keywords-custom.txt'),
+                self.temp('repeat-keywords-custom.txt'),
+                self.temp('simple-keywords-custom.txt'),
+            )
+        )
+
+
 class OrganizationNamePasswords(Passwords):
 
     wordlists = (

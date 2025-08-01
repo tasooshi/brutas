@@ -43,8 +43,8 @@ The precompiled lists are located at:
 **NOTE: Due to Github limits only the "reasonably" sized lists are precompiled.** You need to run the build scripts yourself to generate the complete set (`compile.sh` and `huge.sh`).
 
 The lists which are not included in this repository are hosted here and get updated occassionally:
-- [brutas-passwords-5-l.zip](https://drive.proton.me/urls/5ESDFTKQVC#pTokh18bYyfN) [updated 2024/02/19] (71,677,484 lines - 723MB decompressed)
-- [brutas-passwords-6-xl.zip](https://drive.proton.me/urls/Z586VGA1BW#k2mwYceQIJYA) [updated 2024/02/19] (342,245,513 - 4GB decompressed)
+- [brutas-passwords-5-l.zip](https://drive.proton.me/urls/5ESDFTKQVC#pTokh18bYyfN) [updated 2025/08/01] (71,621,639 lines - 722MB decompressed)
+- [brutas-passwords-6-xl.zip](https://drive.proton.me/urls/Z586VGA1BW#k2mwYceQIJYA) [updated 2025/08/01] (347,450,342 - 4.1GB decompressed)
 
 These ones you will have to compile yourself:
 - brutas-passwords-7-xxl (18,008,399,243 lines - 237GB decompressed)
@@ -161,7 +161,7 @@ A brief introduction to password lists:
 * `generic-1k.txt` - `1-xxs.txt` plus manually selected passwords from the other sets
 * `unique.txt` - passwords which are complex enough to be used as independent passwords and are rarely mixed with any extra characters, usually related to pop-culture or sports (e.g. `apollo13`, `9inchnails`, `ronaldo7`)
 * `numbers.txt` - a small list of numbers used in passwords (e.g. dates, math constants)
-* `custom.txt` - put your custom keywords here and generate the wordlist using `custom.sh`, the result will be in `wordlists/passwords/custom.txt`
+* `custom.txt` - put your custom keywords here and generate the wordlist using `custom.sh` or `custom-mini.sh`, the result will be in `wordlists/passwords/custom{-mini}.txt`
 
 ### Other lists
 

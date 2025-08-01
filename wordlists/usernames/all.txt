@@ -151,6 +151,7 @@ local
 localadmin
 log
 login
+logon
 mail
 mailadmin
 mailer
@@ -226,6 +227,8 @@ quser
 recovery
 redhat
 remote
+remove
+removeme
 report
 reports
 reportuser
@@ -327,6 +330,7 @@ ups
 user
 userftp
 username
+usertest
 usr
 vagrant
 vbox
